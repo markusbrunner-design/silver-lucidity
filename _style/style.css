@@ -1,0 +1,179 @@
+/**
+ * STAR-REAPER Booklet Page by Silver Lucidity
+ * @author Markus Brunner
+ */
+@font-face {
+	font-family: 'ShadowsIntoLight-Regular';
+	src: url('fonts/ShadowsIntoLight-Regular.ttf') format('truetype')
+}
+@font-face {
+	font-family: 'AnonymousPro-Regular';
+	src: url('fonts/AnonymousPro-Regular.ttf') format('truetype')
+}
+@font-face {
+	font-family: 'LibreBarcode39Text-Regular';
+	src: url('fonts/LibreBarcode39Text-Regular.ttf') format('truetype')
+}
+
+html.overview {
+	background: black;
+	color: white;
+}
+html.star-reaper {
+	background: black url(images/silver-lucidity_star-reaper_small.jpg) center center repeat;
+}
+html.number-42{
+	background: black url(images/silver-lucidity_42_small.jpg) center center repeat;
+}
+html.far-from-the-tree {
+	background: black url(images/silver-lucidity_far-from-the-tree_small.jpg) center center repeat;
+}
+
+#logo {
+	position: fixed;
+	left: 0;
+	top: 0;
+	z-index: 0;
+}
+
+body {
+	font-family: "ShadowsIntoLight-Regular", sans-serif;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	align-content: center;
+	margin: 0;
+	padding: 1em;
+}
+
+dl {
+	
+}
+dt {
+	font-size: 2em;
+}
+
+a {
+	color: lightblue;
+}
+
+
+h1, h2, h3, h4, h5 {
+	font-family: "AnonymousPro-Regular", sans-serif;
+}
+
+h3:before, h3:after {
+	content: '_';
+}
+
+#booklet {
+	display: flex;
+	opacity: 0.95;
+}
+
+#booklet article {
+	position: relative;
+	display: flex;
+	flex-direction: column;
+	padding: 1em;
+}
+
+#booklet audio {
+	position: absolute;
+	left: 0;
+	top: 0;
+}
+
+#booklet article h1.mix:before {
+	content: '_mix_: ';
+}
+
+#booklet article h1.mix {
+	font-size: 1em;
+	margin-top: 3.5em;
+	color: green;
+	margin-bottom: -1.5em;
+}
+
+#booklet article h1.missing:before {
+	content: '_missing_: ';
+}
+
+#booklet article h1.missing {
+	font-size: 1em;
+	margin-top: 3.5em;
+	color: red;
+	margin-bottom: -1.5em;
+}
+
+#booklet article h3 {
+	margin-top: 3.5em;
+}
+
+/* fallback - no js - begin */
+#booklet.no-booklet {
+	display: flex;
+	flex-direction: column;
+}
+#booklet.no-booklet > div {
+	border-radius: 5px;
+	position: relative;
+	background: white;
+	color: black;
+	padding: 1em;
+	height: auto;
+	margin-bottom: 1em;
+}
+#booklet.no-booklet article {
+	height: auto;
+}
+/* fallback - no js - end */
+
+.b-page {
+	border-radius: 5px;
+}
+
+.booklet .b-page-cover {
+	background-color: #363636;
+	color: white;
+}
+
+.booklet .b-page-cover h1 {
+	font-size: 3em;
+	color: #ddd;
+	text-shadow: 0 1px 3px #222;
+	line-height: 0.8em;
+	margin-top: 0.5em;
+}
+
+.booklet .b-page-cover h1+h2 {
+	font-size: 2em;
+	color: #fff;
+	text-shadow: 0 1px 3px #222;
+	margin-top: -0.5em;
+}
+
+.booklet .b-counter {
+	background-color: transparent !important;
+}
+
+.booklet article {
+	display: flex;
+	flex-direction: column;
+	height: 633px;
+	overflow-y: scroll;
+	overflow-x: hidden;
+	padding: 0 1em 0 0;
+	margin: 0 1.5em 0 1em;
+}
+
+.credits {
+	font-size: 1.4em;
+	font-family: "LibreBarcode39Text-Regular", monospace;
+}
+
+.lyrics {
+	font-size: 1.2em;
+	font-family: "ShadowsIntoLight-Regular", sans-serif;
+	margin-top: -1em;
+}
