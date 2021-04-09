@@ -46,6 +46,27 @@ body {
 	padding: 1em;
 }
 
+#overview-list .status {
+	position: relative;
+	overflow: hidden;
+}
+#overview-list .status:before {
+	display: inline-block;
+	position: absolute;
+	top: 4em;
+	left: 3em;
+	transform: skew(5deg, -45deg) translateX(-3em) translateY(-3em);
+	padding: 1em 4em;
+	opacity: 0.5;
+	background: blue;
+}
+#overview-list .status--finalisation:before {
+	content: 'Status: Finalisation';
+}
+#overview-list .status--songwriting:before {
+	content: 'Status: Songwriting';
+}
+
 dl {
 	
 }
