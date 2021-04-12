@@ -1,0 +1,7 @@
+A = Verse I
+B = Pre-Chorus
+C = Chorus
+D = Verse II
+E = Pre-Chorus & Chorus
+F = Solo
+H = Outro

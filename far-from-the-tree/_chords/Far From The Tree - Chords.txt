@@ -1,0 +1,76 @@
+A = Intro
+B = Verse
+C = Chorus
+D = Pre-Verse
+E = Bridge
+
+Open G-Tuning
+
+# A = Intro
+Arpeggio-Patterns on:
+1)
+12
+13
+14
+12
+12
+12
+
+2)
+10
+10
+10
+10
+10
+10
+
+3)
+7
+10
+9
+7
+7
+7
+
+4)
+5
+6
+7
+5
+5
+5
+
+3)
+see above
+
+1)
+see above
+
+# B = Verse
+Barré 
+12 10 5 8
+12 10 8 8
+12 10 5 8
+10 10 10 10
+12 10 5 8
+12 10 8 8
+12 10 5 8
+10 10 12 12 (12 without deep string)
+
+# C = Chorus
+Barré
+12 10 5 8 12 10 8
+12 10 5 8 12 10 7
+
+# D = Pre-Verse
+Barré
+12 10 5 8 10
+
+# E = Bridge
+(Half-Time-Feeling 66.5bpm)
+first only guitar
+then with vocals
+then with solo-guitar
+
+||: 12 5 8 10h12 10h12(without deep string)
+12 5 8 (10 7) OR (7 10) :||

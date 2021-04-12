@@ -1,0 +1,20 @@
+A = Intro - 0:13
+B = Chorus I - 1:35
+C = Verse I - 2:08
+D = Chorus II - 2:43
+E = Verse II - 3:14
+D = Chorus III - 3:47
+F = Bridge - 4:21
+G = Outro - 4:38
+
+# Intro & Outro
+Bm Gb D Em
+
+# Verse
+Em D7 C7 Bm
+
+# Chorus
+Em Bm C7 D7
+
+# Bridge
+Em Bm C7 D7

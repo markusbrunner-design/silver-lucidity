@@ -1,0 +1,18 @@
+A = Intro
+B = Verse I 
+C = Verse II 
+D = Chorus I 
+E = Verse III 
+F = Chorus II 
+G = Verse IV 
+H = Chorus III & IV (alternatively sung)
+
+Verse
+left hand
+e cb bb a
+
+right hand
+e f g a bb
+
+Chorus
+||: d | G | C | F | d | G | a | a :||

@@ -1,0 +1,117 @@
+A = Intro & Verse I
+B = Transition
+C = Chorus I
+D = Verse II
+E = Chorus II
+F = Bridge
+G = Chorus III
+H = Guitar-Solo
+I = Chorus III
+
+Open G Tuning (d g d g b d)
+
+# VERSE
+
+1)
+0
+3
+2
+0
+
+2)
+0
+5
+3
+0
+
+3)
+0
+8
+5
+0
+
+4)
+0
+11
+7
+0
+
+5)
+0
+11
+8
+0
+
+6)
+0
+10
+7
+0
+
+7)
+0
+7
+5
+0
+
+8)
+0
+5
+2
+0
+
+# BRIDGE
+
+1)
+0
+3
+2
+0
+
+2)
+0
+5
+3
+0
+
+3)
+0
+8
+5
+0
+
+4)
+0
+11
+7
+0
+
+5)
+0
+10
+7
+0
+
+6)
+0
+7
+5
+0
+
+7)
+0
+5
+2
+0
+
+8)
+0-0-0-0-0
+3-3-3-5-3
+2-2-2-2-2
+0-0-0-0-0
+
+# CHORUS
+
+Barré-Changes
+* 3rd 5th 7th 8th fret
+* harmonics 5th 7th fret
