@@ -1,0 +1,87 @@
+Mixing Annotations 20210412 Markus
+
+01 Zarathustra
+* perfect
+
+02 Breaking News
+* news-jingle eq
+* vocals are distorted - only distortion on the hi-eq, other clean
+
+03 Note on the kitchen table
+* sniffling in background with reverb? eq adoptions on that, effects on that?
+
+04 Solitary Sol 
+* first word is cut - start a second earlier in the export-mix
+* cajon too much muddy bassy, too less pregnant => eq
+* outro effect should last a bit longer
+
+05 Infinity And Beyond
+* mix has to less power
+* vocals need more power in the mix
+* drums mix eq in general brighter, cymbals more reverb and brighter
+
+06 Boot Camp
+* perfect
+
+07 Nebula's Theme
+* overall mix needs more high eq - exciter
+* Sams main vocals are a bit too low in volume
+* Crees Outro vocals have a bit too much effect on them
+* the Outro effect ruining the pitch of the melody is too much
+
+08 Love Song To Nebula
+* Intro Fade should begin a bit earlier and not that fast
+* Crees vocals are a bit too muddy, bassy; add a bit exciter
+* this song is really long - but too late ;-) - lol
+
+09 The Mission
+* a bit more mids and high-eq / exciter in the main music
+* and double the sep main music (too less power)
+
+10 The Girl With The Mandrake Tattoo
+* chorus could have more power - double guitars
+* more power in the drums - more widening
+* Crees vocals in the Outro are at first too low in volume
+
+11 On Board
+* guitars and drums are too low in volume, vocals Cree are too loud
+* background vocals a bit more high-eq and harder panning?
+* (Credits Guitar-Lead Jorge missing)
+
+12 Thanatos
+* vocals are a bit distorted -> check
+* vocals a bit more exciter
+* perhaps vocals not completely centered - opposite site of strings and high-notes of piano 15% or so
+
+13 Something's Not Right
+* vocals a bit more exciter
+* (Credits remove Sam)
+* (Credits add guitar-lead MB)
+
+14 My Love Is In Danger
+* a bit too compressed
+* is there a eq-change in the main-vocals somewhere 1:40-2:00?
+* vocals remove that much bass, a bit more hi-eq
+* background-vocals a bit more exciter
+* one false note in vocals 3:15
+* add more reverb layers
+* make guitar-lead in vocal-spaces more present
+* thicken the mids with guitars
+
+15 Betrayal
+* mix: too bassy, too less pregnant
+* drums need more hi-eq
+* vocals need thickening up! less reverb! less hi-eq!
+* thicken up mids with main-guitars
+* chorus-guitars too much effect around 1:00
+* 4:05 short vocals eq-change???
+
+16 In Space No-One Can Hear You Scream
+* overall mix a bit brighter, exciter
+* increase hi-eq on solo-guitar in vocal-spaces
+
+17 Radio-Moderation
+* to be done first - lol ;-) => https://www.kompoz.com/music/collaboration/1050539/file/1112899
+
+18 Roots
+* perfect or a bit more thickening up, panning, widening up?
