@@ -6,6 +6,7 @@ Songwriting-Lyrics: Gal Hornstein
 Songwriting: Markus Brunner
 Guitars: Markus Brunner
 Guitar-Lead: tbd
+Keys: Geoffrey Cook
 Bass: Jean Lui
 Drums: Chris Bouchard
 Vocals Angel: Cree Patterson
