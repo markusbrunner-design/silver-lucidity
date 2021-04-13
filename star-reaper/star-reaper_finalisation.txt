@@ -1,7 +1,7 @@
 Mixing Annotations 20210412 Markus
 
 01 Zarathustra
-* perfect
+* perfect?
 
 02 Breaking News
 * news-jingle eq
@@ -21,7 +21,7 @@ Mixing Annotations 20210412 Markus
 * drums mix eq in general brighter, cymbals more reverb and brighter
 
 06 Boot Camp
-* perfect
+* perfect?
 
 07 Nebula's Theme
 * overall mix needs more high eq - exciter
@@ -77,11 +77,15 @@ Mixing Annotations 20210412 Markus
 * 4:05 short vocals eq-change???
 
 16 In Space No-One Can Hear You Scream
+old mix 20210403
+* drum seps missing
 * overall mix a bit brighter, exciter
 * increase hi-eq on solo-guitar in vocal-spaces
+new mix 20210413
+* perfect?
 
-17 Radio-Moderation
-* to be done first - lol ;-) => https://www.kompoz.com/music/collaboration/1050539/file/1112899
+17 EOL
+* perfect?
 
 18 Roots
 * perfect or a bit more thickening up, panning, widening up?
