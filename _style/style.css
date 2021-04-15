@@ -50,21 +50,32 @@ body {
 	position: relative;
 	overflow: hidden;
 }
-#overview-list .status:before {
+#overview-list .status:before,
+#overview-list .music-styles{
 	display: inline-block;
 	position: absolute;
-	top: 4em;
-	left: 3em;
+	top: 5em;
+	left: 0em;
 	transform: skew(5deg, -45deg) translateX(-3em) translateY(-3em);
 	padding: 1em 4em;
 	opacity: 0.5;
 	background: blue;
+	width: 200px;
+	height: 22px;
+	text-align: center;
 }
 #overview-list .status--finalisation:before {
 	content: 'Status: Finalisation';
 }
 #overview-list .status--songwriting:before {
 	content: 'Status: Songwriting';
+}
+#overview-list .music-styles {
+	top: 3em;
+	left: 0em;
+	background: yellow;
+	color: black;
+	width: 140px;
 }
 
 dl {
