@@ -1,0 +1,16 @@
+A = Intro/Verse
+F & G = Chorus
+D = Verse
+F & G = Chorus
+I = Bridge
+G = Chorus => Solo-Part
+F & G = Chorus
+
+# A, D = Verse
+G F C G/B
+
+# F & G = Chorus
+Am/C G/B D C
+
+# I = Bridge
+Am/C F/C G/B F/C
