@@ -1,0 +1,82 @@
+A = Intro
+B = Verse
+C = Bridge
+D = Chorus
+E = Transition
+
+# A, B, C - "Guitar Intro"
+
+Dop-D Tuning
+
+1)
+Arpeggios
+E-x
+B-5-6-8
+G-7
+D-x
+A-0
+D-x
+
+2)
+Arpeggios
+E-x
+B-3
+G-5
+D-x
+A-0
+D-x
+
+# B - "Guitar 1"
+
+Dop-D Tuning
+
+Notes with changes
+E-5
+B-3-5-6-8
+G-7
+D-7
+A
+D
+
+# C - "Guitar 2"
+
+Dop-D Tuning
+
+1)
+Arpeggios
+E-x
+B-5-6-8
+G-7
+D-x
+A-5
+D-x
+
+2)
+Arpeggios
+E-x-5
+B-3-5
+G-5
+D-x
+A-3
+D-x
+
+# D - "Guitar 1 & 2"
+
+Dop-D Tuning
+
+Used Power-Chords
+D-7-8-3-(5)-(7)-(0)
+A-7-8-3-(5)-(7)-(0)
+D-7-8-3-(5)-(7)-(0)
+
+# E - "Guitar Transition"
+
+Dop-D Tuning
+
+Chord
+E-x
+B-5
+G-6
+D-x
+A-x
+D-x
