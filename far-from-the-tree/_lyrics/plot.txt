@@ -1,5 +1,7 @@
 http://far-from-the-tree.silver-lucidity.markusbrunner-design.de
 
+TODO => can be done now!
+
 Act 1
 Chapter 01: Far From the Tree => https://www.kompoz.com/music/collaboration/1114845 (Gal, Markus, Cree, Jean, Chris, Tim, WillaWay, Schell, Tarjei)
 ========================================================
@@ -117,12 +119,12 @@ Songwriting-Lyrics: Gal Hornstein
 Songwriting: Markus Brunner
 Guitars: Markus Brunner
 Guitar-Lead: tbd					TODO
-Bass: Jean Lui						TODO
-Drums: Chris Bouchard				TODO
+Bass: Jean Lui						TODO (Slap-Bass KoRn-Style)
+Drums: Chris Bouchard				TODO (Drums KoRn-Style)
 Vocals Brother Jesus: Schell Oldham	TODO
 ========================================================
 
-Chapter 14: A Part Of The Herd => https://www.kompoz.com/music/collaboration/1113162 (Gal, Markus, Brian, Cree, Timothy, WillaWay, Philippe, Tarjei, Schell, Chris, Jean)
+Chapter 14: A Part Of The Herd => https://www.kompoz.com/music/collaboration/1113162 (Gal, Markus, Cree, Tarjei, Schell, Chris, Jean)
 ========================================================
 Songwriting-Lyrics: Gal Hornstein
 Songwriting: Markus Brunner			TODO
