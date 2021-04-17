@@ -67,8 +67,11 @@ Vocals God: Tarjei Skarlund
 Chapter 06: How to Fall => https://www.kompoz.com/music/collaboration/1116199 (Gal, Markus, Cree, Tarjei, Schell, Chris, Jean)
 ========================================================
 Songwriting-Lyrics: Gal Hornstein
-Songwriting: Markus Brunner			TODO
-Vocals God: Tarjei Skarlund
+Songwriting: Markus Brunner
+Guitars: Markus Brunner
+Bass: Jean Lui						TODO
+Drums: Chris Bouchard				TODO
+Vocals God: Tarjei Skarlund			TODO
 ========================================================
 
 Chapter 07: Love the Sins => https://www.kompoz.com/music/collaboration/1116298 (Gal, Markus, Cree, Tarjei, Schell, Chris, Jean)
