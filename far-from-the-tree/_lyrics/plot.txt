@@ -154,8 +154,12 @@ Vocals Brother Jesus: Schell Oldham	TODO
 Chapter 16: The Wind of Change => https://www.kompoz.com/music/collaboration/1115883 (Gal, Markus, Cree, Tarjei, Schell, Chris, Jean)
 ========================================================
 Songwriting-Lyrics: Gal Hornstein
-Songwriting: Markus Brunner			TODO
-Vocals Holy Spirit: Helen Fay?
+Songwriting: Markus Brunner
+Guitars: Markus Brunner
+Guitar-Lead: Markus Brunner
+Bass: tbd							TODO
+Drums: tbd							TODO
+Vocals Holy Spirit: tbd				TODO
 ========================================================
 
 Chapter 17: Stay Free => https://www.kompoz.com/music/collaboration/1115882 (Gal, Markus, Schell, Cree, Tarjei, Chris, Jean)

@@ -1,0 +1,17 @@
+# Parts
+A = Intro
+B = Verse I & II
+C = Chorus I
+D = Verse III & IV
+E = Solo-Section 1 with humming or whistling vocals and drums
+F = Chorus II
+G = Solo-Section without vocals and drums
+H = Chorus I repeated with a bit more energy and afterwards fade-out
+
+Kapodaster 4th fret
+
+with Kapodaster
+||: Em7 | Cadd9 | G | D Dsus4 (D Dsus4) :||
+
+real chords
+||: G#m7 | Eadd9 | B | F# F#sus4 (F# F#sus4) :||
