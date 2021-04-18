@@ -32,3 +32,9 @@ p = Pull-Off
 # Bridge
 
 ||: F5 :||
+
+# Outro
+||: F5pD5 :|| C5 D5 |
+||: F5pD5 :|| C5 D5 |
+||: F5pD5 :|| C5 D5 |
+||: F5pD5 :||

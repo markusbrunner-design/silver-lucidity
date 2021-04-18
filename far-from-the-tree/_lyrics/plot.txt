@@ -118,7 +118,7 @@ Drums: Brian Henry
 Chapter 12: Songs of Seas and Sands => https://www.kompoz.com/music/collaboration/1115885 (Gal, Markus, Cree, Tarjei, Schell, Chris, Jean)
 ========================================================
 Songwriting-Lyrics: Gal Hornstein
-Songwriting: Markus Brunner			TODO
+Songwriting: Markus Brunner
 Vocals Holy Spirit: Helen Fay?
 ========================================================
 
@@ -143,8 +143,12 @@ Vocals Angel: Cree Patterson
 Chapter 15: Northern Star => https://www.kompoz.com/music/collaboration/1115881 (Gal, Markus, Schell, Cree, Tarjei, Chris, Jean)
 ========================================================
 Songwriting-Lyrics: Gal Hornstein
-Songwriting: Markus Brunner			TODO
-Vocals Brother Jesus: Schell Oldham
+Songwriting: Markus Brunner
+Guitars: Markus Brunner
+Guitar-Lead: tbd					TODO
+Bass: Jean Lui						TODO
+Drums: Chris Bouchard				TODO
+Vocals Brother Jesus: Schell Oldham	TODO
 ========================================================
 
 Chapter 16: The Wind of Change => https://www.kompoz.com/music/collaboration/1115883 (Gal, Markus, Cree, Tarjei, Schell, Chris, Jean)
