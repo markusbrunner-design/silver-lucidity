@@ -4,21 +4,33 @@ Mixing Annotations 20210412 Markus
 * perfect?
 
 02 Breaking News
+old mix:
 * news-jingle eq
 * vocals are distorted - only distortion on the hi-eq, other clean
+new mix 20210419:
+* perfect?
 
 03 Note on the kitchen table
+old mix:
 * sniffling in background with reverb? eq adoptions on that, effects on that?
+new mix 20210419:
+* perfect?
 
 04 Solitary Sol 
+old mix: 
 * first word is cut - start a second earlier in the export-mix
 * cajon too much muddy bassy, too less pregnant => eq
 * outro effect should last a bit longer
+new mix 20210419:
+* perfect?
 
 05 Infinity And Beyond
+old mix:
 * mix has to less power
 * vocals need more power in the mix
 * drums mix eq in general brighter, cymbals more reverb and brighter
+new mix 20210419:
+* relatively perfect? couldn't get it with even more power...
 
 06 Boot Camp
 * perfect?
