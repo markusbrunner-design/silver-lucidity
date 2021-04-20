@@ -23,8 +23,8 @@ old mix:
 * outro effect should last a bit longer
 new mix 20210419:
 * damn - the outro-effect automation didn't work on export - the effect is on the whole track in the main vocals - lol...
-todo - new mix!!!
-*
+new mix 20210420
+* perfect?
 
 05 Infinity And Beyond
 old mix:
@@ -35,8 +35,8 @@ new mix 20210419:
 * a bitly bit less bass
 * cymbals more reverb and brighter
 * a bit more power for the main vocals!
-todo - new mix!!!
-* 
+new mix 20210420.2
+* perfect?
 
 06 Boot Camp
 * perfect?
@@ -46,11 +46,15 @@ todo - new mix!!!
 * Sams main vocals are a bit too low in volume
 * Crees Outro vocals have a bit too much effect on them
 * the Outro effect ruining the pitch of the melody is too much
+new mix 20210420
+* perfect?
 
 08 Love Song To Nebula
 * Intro Fade should begin a bit earlier and not that fast
 * Crees vocals are a bit too muddy, bassy; add a bit exciter
 * this song is really long - but too late ;-) - lol
+new mix 20210420
+* perfect?
 
 09 The Mission
 * a bit more mids and high-eq / exciter in the main music
