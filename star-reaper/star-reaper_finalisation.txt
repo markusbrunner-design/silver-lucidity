@@ -22,7 +22,9 @@ old mix:
 * cajon too much muddy bassy, too less pregnant => eq
 * outro effect should last a bit longer
 new mix 20210419:
-* perfect?
+* damn - the outro-effect automation didn't work on export - the effect is on the whole track in the main vocals - lol...
+todo - new mix!!!
+*
 
 05 Infinity And Beyond
 old mix:
@@ -30,7 +32,11 @@ old mix:
 * vocals need more power in the mix
 * drums mix eq in general brighter, cymbals more reverb and brighter
 new mix 20210419:
-* relatively perfect? couldn't get it with even more power...
+* a bitly bit less bass
+* cymbals more reverb and brighter
+* a bit more power for the main vocals!
+todo - new mix!!!
+* 
 
 06 Boot Camp
 * perfect?
