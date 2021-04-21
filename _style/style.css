@@ -138,6 +138,11 @@ h3:before, h3:after {
 	margin-bottom: -1.5em;
 }
 
+#booklet.live-mode .mix,
+#booklet.live-mode .missing {
+	display: none !important;
+}
+
 #booklet article h3 {
 	margin-top: 3.5em;
 }
