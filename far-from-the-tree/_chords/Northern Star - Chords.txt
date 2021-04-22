@@ -18,7 +18,7 @@ E5 - D5 - C5maj7 - D5
 | E5/B | D5/A |
 | E5/B | C5/G |
 | E5/B | D5/A |
-
+       
 # Chorus Pt.1
 ||: 
 E5/B - e | 

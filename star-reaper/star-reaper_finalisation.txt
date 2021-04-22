@@ -39,7 +39,7 @@ new mix 20210420.2
 * perfect?
 
 06 Boot Camp
-* perfect?
+* perfect? 
 
 07 Nebula's Theme
 * overall mix needs more high eq - exciter
@@ -59,26 +59,35 @@ new mix 20210420
 09 The Mission
 * a bit more mids and high-eq / exciter in the main music
 * and double the sep main music (too less power)
+new mix 20210421
+* perfect?
 
 10 The Girl With The Mandrake Tattoo
 * chorus could have more power - double guitars
 * more power in the drums - more widening
 * Crees vocals in the Outro are at first too low in volume
+new mix 20210422
+* perfect?
 
 11 On Board
 * guitars and drums are too low in volume, vocals Cree are too loud
 * background vocals a bit more high-eq and harder panning?
-* (Credits Guitar-Lead Jorge missing)
+new mix 20210422
+* main vocals Cree a bit too less hi-eq
+new mix 20210422.2
+* perfect?
 
 12 Thanatos
 * vocals are a bit distorted -> check
 * vocals a bit more exciter
 * perhaps vocals not completely centered - opposite site of strings and high-notes of piano 15% or so
+new mix 20210422
+* perfect?
 
 13 Something's Not Right
 * vocals a bit more exciter
-* (Credits remove Sam)
-* (Credits add guitar-lead MB)
+new mix 20210422
+* perfect?
 
 14 My Love Is In Danger
 * a bit too compressed
@@ -89,6 +98,8 @@ new mix 20210420
 * add more reverb layers
 * make guitar-lead in vocal-spaces more present
 * thicken the mids with guitars
+new mix 20210422
+* perfect?
 
 15 Betrayal
 * mix: too bassy, too less pregnant

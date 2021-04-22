@@ -5,6 +5,7 @@ Chapter 11: On Board
 Songwriting-Lyrics: Elizabeth Auzan
 Songwriting: Markus Brunner
 Guitars: Markus Brunner
+Guitar-Lead: Jorge Paulo
 Basses: Jean Lui
 Drums: Alex Zulaika
 Vocals-Male: Cree Patterson

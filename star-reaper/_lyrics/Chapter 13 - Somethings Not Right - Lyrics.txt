@@ -5,12 +5,12 @@ Chapter 13: Alone in Space
 Songwriting-Lyrics: Elizabeth Auzan
 Songwriting: Markus Brunner
 Guitars: Markus Brunner
+Guitar-Lead: Markus Brunner
 Bass 1: Jean Lui
 Bass 2: Markus Brunner
 Drums: Nigel Robinson
 Special-Effects: Elizabeth Auzan
 Vocals-Male: Cree Patterson
-Vocals-Female: Samantha Frisch
 ========================================================
 
 Nebula, you’ve become so distant
