@@ -99,7 +99,9 @@ new mix 20210422
 * make guitar-lead in vocal-spaces more present
 * thicken the mids with guitars
 new mix 20210422
-* perfect?
+* cutted beginning
+* B3 volume increase in non-vocal-parts
+new mix 20210423
 
 15 Betrayal
 * mix: too bassy, too less pregnant
@@ -108,6 +110,8 @@ new mix 20210422
 * thicken up mids with main-guitars
 * chorus-guitars too much effect around 1:00
 * 4:05 short vocals eq-change???
+new mix 20210423
+* perfect?
 
 16 In Space No-One Can Hear You Scream
 old mix 20210403
@@ -122,3 +126,5 @@ new mix 20210413
 
 18 Roots
 * perfect or a bit more thickening up, panning, widening up?
+new mix 20210423
+* perfect?
