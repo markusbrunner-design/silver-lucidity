@@ -14,6 +14,8 @@ new mix 20210419:
 old mix:
 * sniffling in background with reverb? eq adoptions on that, effects on that?
 new mix 20210419:
+* undercompressed
+new mix 20210427
 * perfect?
 
 04 Solitary Sol 
@@ -36,6 +38,8 @@ new mix 20210419:
 * cymbals more reverb and brighter
 * a bit more power for the main vocals!
 new mix 20210420.2
+* start was cut a bit
+new mix 20210427
 * perfect?
 
 06 Boot Camp
@@ -47,6 +51,10 @@ new mix 20210420.2
 * Crees Outro vocals have a bit too much effect on them
 * the Outro effect ruining the pitch of the melody is too much
 new mix 20210420
+* strange effects on Crees vocals in the first parts
+new mix 20210427
+* Cree too low in volume
+new mix 20210427.2
 * perfect?
 
 08 Love Song To Nebula
@@ -60,6 +68,10 @@ new mix 20210420
 * a bit more mids and high-eq / exciter in the main music
 * and double the sep main music (too less power)
 new mix 20210421
+* too muddy
+new mix 20210427
+* Cree a bit to less hi-eq
+new mix 20210427.2
 * perfect?
 
 10 The Girl With The Mandrake Tattoo
@@ -67,6 +79,8 @@ new mix 20210421
 * more power in the drums - more widening
 * Crees vocals in the Outro are at first too low in volume
 new mix 20210422
+* eq of the mix was bad
+new mix 20210427
 * perfect?
 
 11 On Board
@@ -75,6 +89,11 @@ new mix 20210422
 new mix 20210422
 * main vocals Cree a bit too less hi-eq
 new mix 20210422.2
+* Gal and Thomas a bit too low in volume
+* a bit equing
+new mix 20210427
+* drums too low in volume
+new mix 20210427.2
 * perfect?
 
 12 Thanatos
