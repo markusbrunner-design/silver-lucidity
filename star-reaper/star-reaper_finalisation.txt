@@ -141,6 +141,8 @@ old mix 20210403
 * increase hi-eq on solo-guitar in vocal-spaces
 new mix 20210413
 * perfect?
+new mix 20210413.2
+* perfect?
 
 17 EOL
 * perfect?

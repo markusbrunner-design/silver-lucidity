@@ -8,7 +8,9 @@ Guitars: Markus Brunner
 Basses: Markus Brunner
 Drums: Alex Zulaika
 Vocals-Male: Cree Patterson
-Vocals-Female: Samantha Frisch
+Vocals-Female: Samantha Frisch (Sam)
+Engineering-Mixing: Markus Brunner
+Engineering-Mastering: Markus Brunner
 ========================================================
 
 Nebula, lovely as the evening star

@@ -9,6 +9,8 @@ Guitar-Lead: Markus Brunner
 Basses: Jean Lui
 Drums: Chris Bouchard
 Vocals: Cree Patterson
+Engineering-Mixing: Markus Brunner
+Engineering-Mastering: Markus Brunner
 ========================================================
 
 You're ready to spacewalk

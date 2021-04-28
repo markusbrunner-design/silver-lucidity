@@ -8,9 +8,10 @@ Non-Copyright-Song: Alexis Sofield https://pixabay.com/users/alexisortizsofield-
 Vocals-Spoken Presenter: Markus Brunner
 Vocals-Spoken Dr. Bokowski: Elizabeth Auzan
 Vocals-Spoken Prof. Hillage: Cree Patterson
+Engineering-Mixing: Markus Brunner
+Engineering-Mastering: Markus Brunner
 ========================================================
 
-Presenter
 This is SRN breaking news
 Sol, our best and brightest astronaut
 Has met a tragic death 
@@ -21,15 +22,13 @@ Dr Susan Bokowski and Professor Steven Hillage
 Tell me, what are your feelings today
 Knowing that Sol is now lost in space forever
 
-Dr. Bokowski
 I'm devastated, just devastated
 So, so sad that he should suffer 
 The same fate as his Dad
 Strange to say but, maybe somehow 
 He has at last found his roots
 
-Prof. Hillage
 Sol had dreamed of space since he was a kid 
 Today, he has reaped the stars 
 May God bless him 
-And may his soul rest in peace 
+And may his soul rest in peace

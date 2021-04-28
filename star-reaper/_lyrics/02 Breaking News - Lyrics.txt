@@ -5,6 +5,8 @@ Chapter 02: Breaking News
 Songwriting-Lyrics: Elizabeth Auzan
 Non-Copyright-Song: https://www.youtube.com/watch?v=dtn_hy6BHhk
 Vocals-Spoken: Markus Brunner
+Engineering-Mixing: Markus Brunner
+Engineering-Mastering: Markus Brunner
 ========================================================
 
 Good morning

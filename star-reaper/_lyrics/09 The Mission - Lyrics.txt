@@ -8,6 +8,8 @@ Songwriting-Tool: https://hookpad.hooktheory.com/
 Vocals-Male: Cree Patterson
 Vocals-Male: Markus Brunner
 Vocals-Female: Elizabeth Auzan
+Engineering-Mixing: Markus Brunner
+Engineering-Mastering: Markus Brunner
 ========================================================
 
 Welcome on board Star-Reaper One

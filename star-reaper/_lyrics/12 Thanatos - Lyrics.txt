@@ -5,8 +5,10 @@ Chapter 12: Thanatos
 Songwriting-Lyrics: Elizabeth Auzan
 Songwriting: Markus Brunner
 Piano: Markus Brunner
-Virtual-Strings: TBD
+Virtual-Strings: Markus Brunner
 Vocals-Male: Cree Patterson
+Engineering-Mixing: Markus Brunner
+Engineering-Mastering: Markus Brunner
 ========================================================
 
 Thanatos
