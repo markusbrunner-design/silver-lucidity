@@ -55,7 +55,9 @@ new mix 20210420
 new mix 20210427
 * Cree too low in volume
 new mix 20210427.2
-* perfect?
+* Cree too low in volume
+new mix 20210428
+* perfect? 
 
 08 Love Song To Nebula
 * Intro Fade should begin a bit earlier and not that fast
