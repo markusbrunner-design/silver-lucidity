@@ -39,6 +39,7 @@ html.far-from-the-tree {
 body {
 	font-family: "ShadowsIntoLight-Regular", sans-serif;
 	display: flex;
+	flex-direction: column;
 	justify-content: center;
 	align-items: center;
 	align-content: center;
@@ -213,4 +214,24 @@ h3:before, h3:after {
 	font-size: 1.2em;
 	font-family: "ShadowsIntoLight-Regular", sans-serif;
 	margin-top: -1em;
+}
+
+.marketing {
+	margin-top: 2em;
+	border-top: 3px dashed #4d4d4d;
+	padding-top: 2em;
+	text-align: center;
+	vertical-align: top;
+	width: 100%;
+}
+
+.marketing .spotify-album-view {
+	float: right;
+	width: 70%;
+	height: 20em;
+}
+
+.qr-code-hyperfollow img {
+	width: 20%;
+	height: auto;
 }
