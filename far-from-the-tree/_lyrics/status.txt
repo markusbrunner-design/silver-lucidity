@@ -16,7 +16,7 @@ Songwriting: Markus Brunner
 Guitars: Markus Brunner
 Guitar-Lead: tbd 					TODO
 Bass: TBD    						TODO
-Drums: Chris Bouchard 				TODO
+Drums: Chris Bouchard
 Vocals Angel: Cree Patterson
 ========================================================
 
@@ -190,7 +190,7 @@ Songwriting: Markus Brunner
 Guitars: Markus Brunner
 Guitar-Lead: tbd					TODO
 Bass: TBD   						(see Far From the Tree)
-Drums: Chris Bouchard				(see Far From the Tree)
+Drums: Chris Bouchard
 Vocals Angel: Cree Patterson		TODO
 Vocals God: Tarjei Skarlund			TODO
 Vocals Brother Jesus: Schell Oldham	TODO

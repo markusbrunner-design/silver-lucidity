@@ -1,0 +1,20 @@
+A = Verse
+B = Chorus
+C = Verse
+D = Chorus
+E = Verse
+F = Double Chorus with Solo somewhere
+
+# Verse
+Kapodaster 5th fret Chords
+Dm Am7 C Cmaj7
+
+Real Chords
+Gm Dm7 F Fmaj7
+
+# Chorus
+Kapodaster 5th fret Chords
+Dm Am7 C Cmaj7
+
+Real Chords
+Gm Dm7 F Fmaj7
