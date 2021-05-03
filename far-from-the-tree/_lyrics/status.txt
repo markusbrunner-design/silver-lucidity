@@ -84,7 +84,11 @@ Vocals Angel: Cree Patterson
 Chapter 08: Nicknames => https://www.kompoz.com/music/collaboration/1115011 (Gal, Markus, Cree, Tarjei, Schell, Chris, Jean)
 ========================================================
 Songwriting-Lyrics: Gal Hornstein
-Songwriting: Markus Brunner			TODO
+Songwriting: Markus Brunner
+Guitars: Markus Brunner
+Guitar-Lead: JorgePaulo?			TODO
+Bass: TBD							TODO
+Drums: Chris Bouchard				TODO
 Vocals God: Tarjei Skarlund
 ========================================================
 

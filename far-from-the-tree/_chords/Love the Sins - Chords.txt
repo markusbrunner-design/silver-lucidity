@@ -1,0 +1,80 @@
+# Parts
+A = Intro
+B = Verse I
+C = Pre-Chorus I
+D = Verse II
+E = Pre-Chorus II
+F = Chorus I
+G = Guitar-Solo
+H = Bridge
+I = Pre-Chorus III
+J = Chorus II
+K = 2/4 break
+L = Chorus III
+
+# Verse (Open-G-Tuning)
+3x
+D
+B
+G
+D
+G------5-5h7~
+D-0-/7-------
+
+different endings:
+first and third time:
+1x
+D
+B
+G
+D----------5-5h7~
+G-3-5-5/7--------
+D
+second and fourth time always something other than that.
+
+# Chorus (Open-G-Tuning)
+1x
+D
+B
+G
+D-0-3-5-0-5-6-0-6-8-
+G-0-3-5-0-5-6-0-6-8-
+D-0-3-5-0-5-6-0-6-8-
+
+1x
+D
+B
+G
+D-0-5-6-0-3-5-6-
+G-0-5-6-0-3-5-6-
+D-0-5-6-0-3-5-6-
+
+# Bridge (Open-G-Tuning)
+## Bridge - Guitar 1
+Open-G-Tuning
+
+3x
+D
+B
+G-5/7-7\
+D-3/5-5\
+G
+D
+
+1x
+D
+B
+G-5/7-7/9\5
+D-3/5-5/7\3
+G
+D
+
+## Bridge - Guitar 2
+Open-G-Tuning
+
+D
+B
+G
+D-0
+G-0
+D-0

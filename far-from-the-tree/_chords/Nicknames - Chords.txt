@@ -1,0 +1,61 @@
+# Parts
+A = Intro
+B = Verse I
+C = Chorus I
+D = Pre(Post)-Chorus I
+E = Chorus II
+F = Verse II
+G = Bridge Vocals
+H = Bridge Solo
+I = Pre-Chorus II
+J = Chorus III
+
+Drop-D-Tuning
+
+# Intro & Pre-Chorus
+3x
+E
+B
+D
+G-------3
+A-3-4-5--0-3-4-5
+D-----------------0-0-3-5
+
+1x
+E
+B
+G
+D---------7-6-5-0
+A-5-6-7-0---------7-6-5-0
+E---------------------------7-6-5-0
+
+# Verse
+D-0-3-5--0-3-6-
+A-0-3-5--0-3-6-
+D-0-3-5--0-3-6-
+
+D-0-3-5--6-5-
+A-0-3-5--6-5-
+D-0-3-5--6-5-
+
+# Chorus
+D-0-3h5p3-0-5h6p5-
+A-0-3h5p3-0-5h6p5-
+D-0-3h5p3-0-5h6p5-
+
+# Bridge
+3x
+E
+B
+D
+G-------3
+A-3-4-5
+D
+
+1x
+E
+B
+G
+D-
+A-3-4-5~~~
+E
