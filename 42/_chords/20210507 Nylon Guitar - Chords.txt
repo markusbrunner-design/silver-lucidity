@@ -1,0 +1,16 @@
+# Parts
+A = Chorus I
+B = Verse I
+C = Chorus II
+D = Verse II
+E = Double Chorus
+
+# Verse
+|| F | G | C | F | Am | Em | C | C/A | F | G | C | F | Am | Em | C | C ||
+
+# Chorus
+## arpeggios
+||: Csus4 | Esus4 | Dsus4 | Asus4 A :||
+
+## chords
+||: Csus4 | Esus4 | Dsus4 | A :||
