@@ -4,16 +4,15 @@ IV Good Golly, Miss Dolly
 ========================================================
 Songwriting-Lyrics: Elizabeth Auzan
 Songwriting: Markus Brunner
-Guitars: Markus Brunner
-Bass: Markus Brunner
-Drums: Alex Zulaika
 Saxophone: Mrs. Beats
 Vocals: Cree Patterson
+Engineering-Mixing: Markus Brunner
+Engineering-Mastering: Markus Brunner
 ========================================================
 
 Roslin cloned a little lamb
 And they named her Dolly
-Baa baa baa baaaa
+Baa baa baa baaaa 
 Bravo, hurray for humankind
 Sinking into folly
 Good Golly, Miss Dolly
@@ -21,8 +20,8 @@ Good Golly, Miss Dolly
 
 Baa baa baa baaa
 Hello Dolly, born in Scotland
-Cloned from a mammary gland
-They named you after Dolly Parton
+Cloned from a mammary gland 
+They named you after Dolly Parton 
 Perhaps they were big fans
 So very inventive
 The sorcerer's apprentice
@@ -36,7 +35,7 @@ You're a museum piece
 
 Wide open is Pandora's box
 In his grave
-Dr. Frankenstein
+Dr Frankenstein
 Is laughing off his socks
 
 Roslin cloned a little lamb

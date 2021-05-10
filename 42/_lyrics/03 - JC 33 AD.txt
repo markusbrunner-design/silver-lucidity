@@ -9,6 +9,8 @@ Guitar-Lead: Jorge Paulo
 Bass: Philippe Pansard
 Drums: Mark Jensen
 Vocals: Cree Patterson
+Engineering-Mixing: Markus Brunner
+Engineering-Mastering: Markus Brunner
 ========================================================
 
 The wind blows cold on Gethsemane  

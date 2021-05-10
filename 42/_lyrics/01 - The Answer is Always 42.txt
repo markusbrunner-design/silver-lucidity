@@ -9,6 +9,8 @@ Guitar-Lead: Jorge Paulo
 Bass: tbd
 Drums: Brian Henry
 Vocals: Cree Patterson
+Engineering-Mixing: Markus Brunner
+Engineering-Mastering: Markus Brunner
 ========================================================
 
 Search the heavens
