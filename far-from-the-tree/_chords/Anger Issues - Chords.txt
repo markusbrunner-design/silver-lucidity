@@ -1,0 +1,34 @@
+Anger Issues
+
+# Parts
+A = Chorus I - 0:08
+B = Verse I - 0:58
+C = Chorus II - 1:31
+D = Verse II - 2:13
+E = Chorus III - 2:45
+F = Bridge & Solo - 3:27
+H = Verse III - 4:00
+I = Chorus IV - 4:33
+
+# Chorus
+## Guitar 1
+||: F5 | Fb5 :||
+
+## Guitar 2
+Notes used
+B-------d-d#-f-
+G-a#-c---------
+
+# Verse
+## Guitar 1&2
+||: F5 | F5 G5 | G#5 | G#5 C5 B5 A5 :||
+
+## Guitar 3
+Quinte Power-Chords
+||: C5 | C5 D5 | D#5 | D#5 F5 E5 D5 :||
+
+## Guitar 4
+Octave Notes
+
+# Bridge
+||: F5 | Fb5 :||

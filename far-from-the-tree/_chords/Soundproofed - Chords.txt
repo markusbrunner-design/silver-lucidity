@@ -1,0 +1,32 @@
+# Parts
+A = Verse I - 0:06
+B = Chorus I - 0:49
+C = Verse II - 1:13
+D = Chorus II - 1:44
+E = Verse III - 2:08
+F = Verse IV - 2:39
+G = Chorus IV - 3:03
+H = Solo - 3:27
+I = Verse V - 3:49
+J = Verse VI - 4:17
+K = Chorus V - 4:41
+
+# Verse
+||: A5 | A5 | G5 | E5 F5 :||
+
+# Chorus
+
+## Main Riff
+C5/D5 D5/E5 E5/F5 F5/G5 G5/A5 E5
+
+## Ending 1
+F5
+
+## Ending 2
+G5
+
+## Ending 3
+F5
+
+## Ending 4
+G5 F5
