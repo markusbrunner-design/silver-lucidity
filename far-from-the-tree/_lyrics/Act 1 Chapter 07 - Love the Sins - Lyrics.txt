@@ -5,8 +5,8 @@ Act 1 Chapter 07: Love the Sins
 Songwriting-Lyrics: Gal Hornstein
 Songwriting: Markus Brunner
 Guitars: Markus Brunner
-Guitar-Lead: JorgePaulo?		TODO
-Bass: TBD?						TODO
+Guitar-Lead: JorgePaulo
+Bass: Rob Glass
 Drums: Chris Bouchard			TODO
 Vocals Angel: Cree Patterson	TODO
 ========================================================

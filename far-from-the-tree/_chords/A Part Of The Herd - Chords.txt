@@ -1,7 +1,25 @@
-A = Verse I
-B = Pre-Chorus
-C = Chorus
-D = Verse II
-E = Pre-Chorus & Chorus
-F = Solo
-H = Outro
+A = Verse I - 0:09
+B = Pre-Chorus I - 0:35
+C = Chorus I - 0:52
+D = Verse II - 1:20
+E = Pre-Chorus II - 1:39
+F = Chorus II - 1:55
+G = Bridge/Solo - 2:22
+H = Outro - 2:42
+
+Kapodaster 3rd fret => written Am = Cm
+
+# Verse
+Am Em C G Am Em C C
+
+# Pre-Chorus 
+Am Em G C Em7 Am Em C
+
+# Chorus
+Dm C Am Em Dm C Em7 Em7 Dm C Em7 Em7
+
+# Bridge/Solo
+Dm Am C Em Dm Am C C Dm Am C Em Dm Am C Em
+
+# Outro
+||: Am Em C G Am Em C C :|| repeat till end

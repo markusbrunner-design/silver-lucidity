@@ -4,26 +4,33 @@ Act 2 Chapter 14: A Part Of The Herd
 ========================================================
 Songwriting-Lyrics: Gal Hornstein
 Songwriting: Markus Brunner
+Guitars: Markus Brunner
+Guitar-Lead: Markus Brunner
+Bass: 
+Drums: 
 Vocals Angel: Cree Patterson
 ========================================================
 
 (sung by the Angel)
 
-Verse I - 0:14
+Kapodaster 3rd fret => written Am = Cm
+
+Verse I - 0:09 (Am Em C G Am Em C C)
 I wish not to fear
 I wish I could near
 Everyone else
 Unseen and unheard
 Someone who can blend
 A part of the herd
+A part of the herd
 
-Pre Chorus - 0:32
+Pre Chorus - 0:35 (Am Em G C Em7 Am Em C)
 It's not easy to be
 A stranger like me 
 To make myself smile
 All that while I feel vile
 
-Chorus - 0:48
+Chorus - 0:52 (Dm C Am Em Dm C Em7 Em7 Dm C Em7 Em7)
 It's not easy to keep
 On laughing when deep
 Inside me
@@ -34,7 +41,7 @@ I'm scared and I'm freezing
 I have no idea how can I carry on
 for long
 
-Verse II - 1:12
+Verse II - 1:20 (Am Em C G Am Em C C)
 I wish not to care
 How everyone stare
 How everyone dare
@@ -42,14 +49,14 @@ Is anyone there
 Does anyone care
 How I'm scared
 
-Pre Chorus - 1:33
+Pre Chorus - 1:39 (Am Em G C Am Em C)
 It's not easy to be
 A stranger like me
 To make myself smile
-All that while
+All that while  
 I feel vile
 
-Chorus 1:45
+Chorus 1:55 (Dm C Am Em Dm C Em7 Em7 Dm C Em7 Em7)
 It's not easy to keep
 On laughing when deep
 Inside me
@@ -62,9 +69,9 @@ How can I
 carry on
 For long
 
-Solo - 2:19
+Solo - 2:22 (Dm Am C Em Dm Am C C Dm Am C Em Dm Am C Em)
 
-Outro - 2:41
+Outro - 2:42 (Am Em C G Am Em C C) repeat till end
 I wish
 Not to fear
 I wish I could near
