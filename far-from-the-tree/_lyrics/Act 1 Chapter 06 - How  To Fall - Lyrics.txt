@@ -5,7 +5,6 @@ Act 1 Chapter 06: How to Fall
 Songwriting-Lyrics: Gal Hornstein
 Songwriting: Markus Brunner
 Guitars: Markus Brunner
-Bass: Jean Lui
 Drums: Chris Bouchard
 Vocals God: Tarjei Skarlund
 ========================================================
@@ -13,7 +12,7 @@ Vocals God: Tarjei Skarlund
 (sung by the God)
 
 Verse I - 0:14.4
-I told me son so long ago
+I told my son so long ago
 There are things you need to know
 Love, to laugh, but first of all
 Child, you must learn how to fall
