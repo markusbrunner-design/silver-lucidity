@@ -1,0 +1,26 @@
+# Parts
+A = Intro (Chorus)
+B = Verse
+C = Pre-Chorus
+D = Chorus
+E = Pre-Verse
+F = Verse
+G = Pre-Chorus
+H = Chorus
+I = Bridge/Solo
+J = Chorus
+K = Outro
+
+# Chorus
+B5add9 G5add9 D5add9 E5add9
+
+# Verse
+used notes
+1.) D-7-9-11 = g, a, b
+2.) G-7-9-11 = d, e, f#
+
+# Pre-Chorus / Pre-Verse /  Outro
+B5 G5 D5 E5
+
+# Bridge/Solo
+||: G5/B5 | D5/E5 | G5/B5 | A5 :||
