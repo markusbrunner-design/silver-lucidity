@@ -1,0 +1,33 @@
+# Parts
+A = Verse I & II - 0:07
+B = Pre-Chorus I - 1:15
+C = Chorus I - 1:42
+D = Verse III - 2:09
+E = Pre-Chorus II - 2:50
+F = Chorus II - 3:18
+G = Bridge - 3:45 (Vocals 3:45 - 4:10, Solo 4:11 - 4:38, Transition Drums 4:38 - 4:46)
+H = Chorus III 4:46
+
+# Verse
+Arpeggios over Chords
+||: C5/g Cmaj7 C5/g | 
+D5/g D5 D5/g | 
+B5/g B7 B5/g |
+C5/g :||
+
+# Pre-Chorus
+||: C5 | D5 | B5 | C5 :||
+
+# Chorus
+X = Open String Muted Staccato
+
+||: C5/D5 X G5/A5 | 
+X X X B5 X G5 |
+X X C5/D5 X G5/A5 |
+X X X B5 X G5 G5 X A5 :||
+
+Last Repetition is
+X X X B5 X G5 X A5 X G5
+
+# Bridge
+||: E5 | C5 | D5 | A5 (Transition: B5 A4) :|| 
