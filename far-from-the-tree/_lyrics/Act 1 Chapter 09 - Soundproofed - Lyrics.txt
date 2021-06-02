@@ -5,12 +5,12 @@ Act 1 Chapter 09: Soundproofed
 Songwriting-Lyrics: Gal Hornstein
 Songwriting: Markus Brunner	
 Guitars: Markus Brunner
-Guitar-Lead: TBD					TODO
-Bass: Rob Glass						TODO
-Drums: Chris Bouchard				TODO
+Guitar-Lead: Tim Ryall
+Bass: Rob Glass						=> upload sep
+Drums: Chris Bouchard				=> upload sep
 Pads/Keys: Geoffrey Cook?			TODO
-Vocals Angel: Cree Patterson
-Vacals God: Tarjei Skarlund
+Vocals Angel: Cree Patterson		TODO
+Vacals God: Tarjei Skarlund			TODO
 ========================================================
 
 (sung by the Angel & God)

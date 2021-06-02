@@ -5,7 +5,11 @@ Act 2 Chapter 18: Fly
 Songwriting-Lyrics: Gal Hornstein
 Songwriting: Markus Brunner
 Guitars: Markus Brunner
-Vacals God: Tarjei Skarlund
+Guitar-Lead: tbd					TODO
+Bass: tbd							TODO
+Keyboards: Geoffrey Cook			TODO
+Drums: tbd							TODO
+Vacals God: Tarjei Skarlund			TODO
 ========================================================
 
 (sung by the God)

@@ -5,10 +5,10 @@ Act 2 Chapter 13: Love the Sinners
 Songwriting-Lyrics: Gal Hornstein
 Songwriting: Markus Brunner
 Guitars: Markus Brunner
-Guitar-Lead: tbd
-Bass: Jean Lui
+Guitar-Lead: Jorge Paulo
+Bass: Anton Klinkt
 Drums: Chris Bouchard
-Vocals Brother Jesus: Schell Oldham
+Vocals Brother Jesus: tbd			TODO
 ========================================================
 
 (sung by Brother Jesus)

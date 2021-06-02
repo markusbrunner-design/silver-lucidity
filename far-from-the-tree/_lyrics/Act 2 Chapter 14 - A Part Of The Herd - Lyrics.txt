@@ -6,9 +6,9 @@ Songwriting-Lyrics: Gal Hornstein
 Songwriting: Markus Brunner
 Guitars: Markus Brunner
 Guitar-Lead: Markus Brunner
-Bass: 
-Drums: 
-Vocals Angel: Cree Patterson
+Bass: Rob Glass   					TODO
+Drums: Chris Bouchard				TODO
+Vocals Angel: Cree Patterson		TODO
 ========================================================
 
 (sung by the Angel)

@@ -5,8 +5,8 @@ Act 1 Chapter 01: Far From The Tree
 Songwriting-Lyrics: Gal Hornstein
 Songwriting: Markus Brunner
 Guitars: Markus Brunner
-Guitar-Lead: tbd
-Bass: Jean Lui
+Guitar-Lead: tbd 					TODO
+Bass: Rob Glass
 Drums: Chris Bouchard
 Vocals Angel: Cree Patterson
 ========================================================

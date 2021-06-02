@@ -5,9 +5,10 @@ Act 1 Chapter 02: Genesis
 Songwriting-Lyrics: Gal Hornstein
 Songwriting: Markus Brunner
 Guitars: Markus Brunner
-Guitar-Lead: tbd
-Bass: Jean Lui
-Drums: Chris Bouchard
+Keyboards: Geoffrey Cook			TODO
+Guitar-Lead: tbd 					TODO
+Bass: Rob Glass   					TODO
+Drums: Chris Bouchard 				TODO
 Vocals Angel: Cree Patterson
 ========================================================
 

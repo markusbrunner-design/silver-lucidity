@@ -5,13 +5,14 @@ Act 2 Chapter 20: Far From The Tree (Revised)
 Songwriting-Lyrics: Gal Hornstein
 Songwriting: Markus Brunner
 Guitars: Markus Brunner
-Guitar-Lead: tbd
-Bass: Jean Lui
+Guitar-Lead: tbd					TODO
+Bass: Rob Glass
 Drums: Chris Bouchard
-Vocals Angel: Cree Patterson
-Vocals God: Tarjei Skarlund
-Vocals Brother Jesus: Schell Oldham
-Vocals Holy Spirit: tbd
+Vocals Angel: Cree Patterson		TODO
+Vocals God: Tarjei Skarlund			TODO
+Vocals Brother Jesus: tbd			TODO
+Vocals Holy Spirit: Helen
+Vocals Holy Spirit (add): Renske	=> upload sep
 ========================================================
 
 (sung by "God" "Brother Jesus" "The Holy Spirit" & "The Angel")

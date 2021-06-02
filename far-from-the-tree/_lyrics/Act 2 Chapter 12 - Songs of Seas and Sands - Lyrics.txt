@@ -4,7 +4,11 @@ Act 2 Chapter 12: Songs of Seas and Sands
 ========================================================
 Songwriting-Lyrics: Gal Hornstein
 Songwriting: Markus Brunner
-Vocals Holy Spirit: tbd
+Piano: Markus Brunner
+Keyboards-Pads: Geoffrey Cook?		TODO
+Bass: tbd ?							TODO
+Drums: tbd ?						TODO Drum-Groove: Markus Brunner (replace?)
+Vocals Holy Spirit: Helen Fay
 ========================================================
 
 (sung by the Holy Spirit)

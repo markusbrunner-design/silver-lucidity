@@ -5,7 +5,11 @@ Act 2 Chapter 19: Before the Edge
 Songwriting-Lyrics: Gal Hornstein
 Songwriting: Markus Brunner
 Guitars: Markus Brunner
-Vocals Angel: Cree Patterson
+Guitar-Lead: tbd					TODO
+Bass: tbd							TODO
+Keyboards: Geoffrey Cook			TODO
+Drums: tbd							TODO
+Vocals Angel: Cree Patterson		TODO
 ========================================================
 
 (sung by the Angel)
