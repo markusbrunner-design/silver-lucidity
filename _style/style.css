@@ -20,13 +20,13 @@ html.overview {
 	color: white;
 }
 html.star-reaper {
-	background: black url(images/silver-lucidity_star-reaper_small.jpg) center center repeat;
+	background: black url("../star-reaper/_cover/silver-lucidity_star-reaper_small.jpg") center center repeat;
 }
 html.number-42{
-	background: black url(images/silver-lucidity_42_small.jpg) center center repeat;
+	background: black url("../42/_cover/silver-lucidity_42_small.jpg") center center repeat;
 }
 html.far-from-the-tree {
-	background: black url(images/silver-lucidity_far-from-the-tree_small.jpg) center center repeat;
+	background: black url("../far-from-the-tree/_cover/silver-lucidity_far-from-the-tree_small.jpg") center center repeat;
 }
 
 #logo {
