@@ -1,0 +1,19 @@
+"Far From The Tree" - A Part Of The Herd (Songwriting - Part 2)
+
+After having the melodies for the basic-instrument, it's time for the recording. 
+
+Get to know the bpm!
+First of all you have to determine the beats-per-minute (bpm) of the song. If it's not some progressive stuff with time-signature changes you could just use any bpm-measure-tool like a smartphone app to find out the one fitting bpm-speed for your played melody. So install e.g. an app, play the melody and directly afterwards try to get to know the bpm of the played melody. 
+
+DAW
+Then you setup your project in a DAW like Steinberg Cubase...
+
+Recording
+...and start the recording of the rhythm-instruments on a click or virtual drum-groove.
+
+Guide-Vocals
+By using the approach of having already the vocal-melody in mind it's useful to record guide-vocals afterwards or at least to give the vocalist the information of the lyric-slots (verses, choruses...) by providing timestamp-slots.
+
+Markus
+
+#collaboration #music #singersongwriter #songwriting #songwriter #guidevocals #demovocals #bpm #guitar #basetrack #lyrics #lyricsfirst #melodywriting #creativity #secondalbum #farfromthetree

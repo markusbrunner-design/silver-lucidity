@@ -1,0 +1,16 @@
+"Far From The Tree" - A Part Of The Herd (Songwriting - Part 3)
+
+After having the base-instruments and guide-vocals recorded, it's time for replacing the guide-vocals and adding all missing instruments and some "sugar".
+
+Order
+In general there is no right or wrong. This really depends on the song or the spirit and creativity of the musicians. The more you've done already - the less you can work with. Means: you can work with only some rhythm-guitars or with everything other in place already. Someone has to start - others join in.
+
+Sync-Tone
+For online-collaborations it's a no-go if you provide a song without a sync-tone. "What's that" you may ask! That's a high volume tone sequence before the music starts - so it's prepended before the original song starts. This way the mixer can line-up all instruments independent from the DAW or export-format the others used. Otherwise the music will sound really ugly. Never had a single project on which all music-exports had the same starting-point! This really depends on the DAW and format!
+
+Bedtracks
+"What's a bedtrack" => those are files which are exported for instruments to play on. E.g. a "bedtrack drums 102bpm" is a bedtrack which can be used for the drummer. This one has usually no click on it, or at least no drum-groove, but you need the information of the beats-per-minute (bpm). A "bedtrack guitar-lead" would give you e.g. the rhythm-guitars and bass and drums (or demo drum-groove) to play the lead-guitar on-top of the whole song or a special part. So every bedtrack has it's purpose but of course can be used for multiple purposes like e.g. a "bedtrack guitar-lead bass vocals" could be used for several instruments but not the drum-recording.
+
+Markus
+
+#collaboration #music #singersongwriter #songwriting #songwriter #guidevocals #demovocals #bpm #bedtrack #guitar #basetrack #lyrics #lyricsfirst #melodywriting #creativity #secondalbum #farfromthetree
