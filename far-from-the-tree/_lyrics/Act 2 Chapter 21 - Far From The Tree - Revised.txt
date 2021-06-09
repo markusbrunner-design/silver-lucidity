@@ -5,20 +5,19 @@ Act 2 Chapter 20: Far From The Tree (Revised)
 Songwriting-Lyrics: Gal Hornstein
 Songwriting: Markus Brunner
 Guitars: Markus Brunner
-Guitar-Lead: tbd					TODO
-Bass: Rob Glass
+Guitar-Lead: tbd
+Bass: Jean Lui
 Drums: Chris Bouchard
-Vocals Angel: Cree Patterson		TODO
-Vocals God: Tarjei Skarlund			TODO
-Vocals Brother Jesus: tbd			TODO
-Vocals Holy Spirit: Helen
-Vocals Holy Spirit (add): Renske	=> upload sep
+Vocals Angel: Cree Patterson
+Vocals God: Tarjei Skarlund
+Vocals Brother Jesus: tbd
+Vocals Holy Spirit: Helen Fay & Renske van den Berg
 ========================================================
 
 (sung by "God" "Brother Jesus" "The Holy Spirit" & "The Angel")
 
 [Brother Jesus]
-Verse I - 0:21 
+Verse I - 0:21
 You fell down to earth
 That felt like forever
 You fell to the ground
@@ -40,13 +39,14 @@ Far from deserving
 The sentence received
 
 [God]
-Verse II - 1:28
+Verse II.1 - 1:28
 Far from the tree
 And my heavenly rage
 You found up your way
 And the key to your cage
 
 [Brother Jesus]
+Verse II.2 - 1:42
 The key to your cell
 And the key to your shackles 
 The key to break free
@@ -63,8 +63,19 @@ Far from your creed
 Far from deserving
 The sentence received
 
-[The Angel]
-Ending Chorus - 2:26
+["God"]
+Bridge - 2:26 (2:41 vocals, 3:09 guitar-solo)
+You were bound to leave
+Your home in the skies
+You felt sorrow and grief
+But by now you know why
+There's a goddamn good reason
+For all I have done
+I love you my angel
+I love you my son
+
+[The Angel] (other lyrics)
+Chorus - 3:23
 Far from the tree 
 And it's poisonous fruits
 I sowed all my seeds
@@ -73,3 +84,14 @@ I thank you dear father
 For cutting me loose
 For now I can fly
 And I now know the truth
+
+["God" "Brother Jesus" & "The Holy Spirit"]
+Chorus - 3:23
+Far from the tree
+Far from your home
+Far from your place
+And your true airborne form
+Far from your crib
+Far from your creed
+Far from deserving
+The sentence received
