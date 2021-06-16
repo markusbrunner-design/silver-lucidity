@@ -73,7 +73,7 @@ Chapter 06: How to Fall => https://www.kompoz.com/music/collaboration/1116199
 Songwriting-Lyrics: Gal Hornstein
 Songwriting: Markus Brunner
 Guitars: Markus Brunner
-Bass: Rob Glass   					TODO
+Bass: Rob Glass
 Drums: Chris Bouchard
 Vocals God: Tarjei Skarlund
 ========================================================
@@ -106,8 +106,8 @@ Songwriting-Lyrics: Gal Hornstein
 Songwriting: Markus Brunner	
 Guitars: Markus Brunner
 Guitar-Lead: Tim Ryall
-Bass: Rob Glass						=> upload sep
-Drums: Chris Bouchard				=> upload sep
+Bass: Rob Glass
+Drums: Chris Bouchard
 Pads/Keys: Geoffrey Cook?			TODO
 Vocals Angel: Cree Patterson		TODO
 Vacals God: Tarjei Skarlund			TODO
