@@ -1,6 +1,6 @@
 http://far-from-the-tree.silver-lucidity.markusbrunner-design.de
 
-TODO => can be done now!
+Search for your name (=> TODO)
 
 # Act 1
 
@@ -20,7 +20,7 @@ Guitars: Markus Brunner
 Guitar-Lead: tbd 					TODO
 Bass: Rob Glass
 Drums: Chris Bouchard
-Vocals Angel: Cree Patterson
+Vocals Angel: Martin Lobemeier		TODO
 ========================================================
 
 Chapter 02: Genesis => https://www.kompoz.com/music/collaboration/1112904
@@ -32,7 +32,7 @@ Keyboards: Geoffrey Cook			TODO
 Guitar-Lead: tbd 					TODO
 Bass: Rob Glass   					TODO
 Drums: Chris Bouchard 				TODO
-Vocals Angel: Cree Patterson
+Vocals Angel: Martin Lobemeier		TODO
 ========================================================
 
 Chapter 03: BS PR => https://www.kompoz.com/music/collaboration/1114658
@@ -55,7 +55,7 @@ Guitar-Lead: tbd					TODO
 Keys: Geoffrey Cook
 Bass: Daniel Swain
 Drums: Chris Bouchard				TODO
-Vocals Angel: Cree Patterson
+Vocals Angel: Martin Lobemeier		TODO
 ========================================================
 
 Chapter 05: Rambling => https://www.kompoz.com/music/collaboration/1113140
@@ -86,7 +86,7 @@ Guitars: Markus Brunner
 Guitar-Lead: Jorge Paulo
 Bass: Rob Glass					TODO
 Drums: Chris Bouchard
-Vocals Angel: Cree Patterson
+Vocals Angel: Martin Lobemeier	TODO
 ========================================================
 
 Chapter 08: Nicknames => https://www.kompoz.com/music/collaboration/1115011
@@ -109,7 +109,7 @@ Guitar-Lead: Tim Ryall
 Bass: Rob Glass
 Drums: Chris Bouchard
 Pads/Keys: Geoffrey Cook?			TODO
-Vocals Angel: Cree Patterson		TODO
+Vocals Angel: tbd					TODO
 Vacals God: Tarjei Skarlund			TODO
 ========================================================
 
@@ -121,19 +121,27 @@ Guitars: Markus Brunner
 Guitar-Lead: Jorge Paulo
 Bass: Rob Glass
 Drums: Chris Bouchard
-Vocals Angel: Cree Patterson
+Vocals Angel: Martin Lobemeier		TODO
+========================================================
+
+Interlude => https://www.kompoz.com/music/collaboration/1045511
+========================================================
+Songwriting-Lyrics: Gal Hornstein
+Songwriting: Markus Brunner
+Guitars: Markus Brunner
+Bass: Markus Brunner
+Drums: tbd							TODO
+Flute: Joel Mathew
 ========================================================
 
 # Act 2
 
-Interlude => https://www.kompoz.com/music/collaboration/1045511
+Prologue => https://www.kompoz.com/music/collaboration/1045511
 ========================================================
-Songwriting-Lyrics: Gal Hornstein	TODO
+Songwriting-Lyrics: Gal Hornstein
 Songwriting: Markus Brunner
-Guitars: Markus Brunner
-Bass: Markus Brunner
-Flute: Joel Mathew
-Narrator: Thomas Hines				TODO
+Virtual Strings: Markus Brunner
+Narrator: Thomas Hines
 ========================================================
 
 Chapter 11: Walls => https://www.kompoz.com/music/collaboration/1113158
@@ -166,7 +174,7 @@ Guitars: Markus Brunner
 Guitar-Lead: Jorge Paulo
 Bass: Anton Klinkt
 Drums: Chris Bouchard
-Vocals Brother Jesus: tbd			TODO
+Vocals Angel: Martin Lobemeier
 ========================================================
 
 Chapter 14: A Part Of The Herd => https://www.kompoz.com/music/collaboration/1113162
@@ -177,7 +185,7 @@ Guitars: Markus Brunner
 Guitar-Lead: Markus Brunner
 Bass: Rob Glass   					TODO
 Drums: Chris Bouchard				TODO
-Vocals Angel: Cree Patterson		TODO
+Vocals Angel: Martin Lobemeier		TODO
 ========================================================
 
 Chapter 15: Northern Star => https://www.kompoz.com/music/collaboration/1115881
@@ -234,7 +242,7 @@ Guitar-Lead: tbd					TODO
 Bass: tbd							TODO
 Keyboards: Geoffrey Cook			TODO
 Drums: tbd							TODO
-Vocals Angel: Cree Patterson		TODO
+Vocals Angel: Martin Lobemeier		TODO
 ========================================================
 
 Chapter 20: The Rising Phoenix => https://www.kompoz.com/music/collaboration/1127201
@@ -246,7 +254,7 @@ Guitar-Lead: tbd					TODO
 Bass: David Stahl?					TODO
 Keyboards: David Stahl?				TODO
 Drums: David Stahl?					TODO
-Vocals Angel: Cree Patterson		TODO
+Vocals Angel: Martin Lobemeier		TODO
 Vacals God: Tarjei Skarlund			TODO
 ========================================================
 
@@ -258,9 +266,9 @@ Guitars: Markus Brunner
 Guitar-Lead: tbd					TODO
 Bass: Rob Glass
 Drums: Chris Bouchard
-Vocals Angel: Cree Patterson		TODO
+Vocals Angel: Martin Lobemeier		TODO
 Vocals God: Tarjei Skarlund			TODO
 Vocals Brother Jesus: tbd			TODO
 Vocals Holy Spirit: Helen
-Vocals Holy Spirit (add): Renske	=> upload sep
+Vocals Holy Spirit (add): Renske
 ========================================================

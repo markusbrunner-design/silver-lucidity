@@ -1,0 +1,30 @@
+# Parts
+A = Verse I - 0:10
+B = Pre-Chorus - 1:04
+C = Chorus I - 1:11
+D = Verse II - 1:47
+E = Chorus II - 2:54
+F = Bridge - 3:30
+G = Chorus III - 4:43
+
+# Chords
+
+## Verse
+Open-G-Tuning
+Barrées
+0 3 5 8 (5)
+0 3 5 (3)
+
+## Chorus
+Open-G-Tuning
+Barrées
+0-3--0-3--0-3--0-3-0-3h5-3-0--0-3--0-3--0-3-
+
+## Bridge
+Open-G-Tuning
+
+Arpeggios over:
+B-0-3-3-3-
+G-0-3-3-5-
+D-0-3-3-3-
+G-----5-5-
