@@ -1,0 +1,20 @@
+# Parts
+A = Verse - 0:14
+B = Chorus - 0:44
+C = Pre-Verse (Sax Solo) - 1:13
+D = Verse - 1:27
+E = Chorus - 1:56
+F = 2x Pre-Verse (Sax Solo) - 2:25
+G = Verse - 2:54
+H = Chorus - 3:24
+I = 2x Pre-Verse (Sax Solo) - 3:53
+J = Outro - 4:22
+
+# Verse
+||: Am G Dsus2 Csus2 Am G C C :||
+
+# Chorus
+||: F G C G F G C C :||
+
+# Pre-Verse (1 octave higher), Outro (normal) 
+||: Am G F C Am G C C :||

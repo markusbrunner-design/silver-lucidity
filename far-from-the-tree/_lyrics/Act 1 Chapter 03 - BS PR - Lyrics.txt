@@ -5,7 +5,8 @@ Act 1 Chapter 03: BS PR
 Songwriting-Lyrics: Gal Hornstein
 Songwriting: Markus Brunner
 Guitars: Markus Brunner
-Guitar-Lead: tbd 					TODO
+Guitar-Lead 1: Markus Brunner
+Guitar-Lead 2: tbd					TODO
 Bass: Jean Lui
 Drums: Chris Bouchard
 Vocals God: Tarjei Skarlund
@@ -44,6 +45,15 @@ Or purchase a paradise pass
 Your soul will not enter my garden
 So better
 Just live every day as your last
+
+All mythos and stories
+All fame and all glory
+Are nothing but BS PR
+I'm telling you son dear
+Don't waste up my time here
+You better just be who you are
+
+SOLO Guitar-Lead 2 [5:24]
 
 All mythos and stories
 All fame and all glory
