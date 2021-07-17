@@ -20,7 +20,7 @@ Guitars: Markus Brunner
 Guitar-Lead: tbd 					TODO
 Bass: Rob Glass
 Drums: Chris Bouchard
-Vocals Angel: Martin Lobemeier		TODO
+Vocals Angel: Martin Landolf		TODO
 ========================================================
 
 Chapter 02: Genesis => https://www.kompoz.com/music/collaboration/1112904
@@ -32,7 +32,7 @@ Keyboards: Geoffrey Cook			TODO
 Guitar-Lead: tbd 					TODO
 Bass: Rob Glass   					TODO
 Drums: Chris Bouchard 				TODO
-Vocals Angel: Martin Lobemeier		TODO
+Vocals Angel: Martin Landolf		TODO
 ========================================================
 
 Chapter 03: BS PR => https://www.kompoz.com/music/collaboration/1114658
@@ -55,7 +55,7 @@ Guitar-Lead: tbd					TODO
 Keys: Geoffrey Cook
 Bass: Daniel Swain
 Drums: Chris Bouchard				TODO
-Vocals Angel: Martin Lobemeier		TODO
+Vocals Angel: Martin Landolf		TODO
 ========================================================
 
 Chapter 05: Rambling => https://www.kompoz.com/music/collaboration/1113140
@@ -86,7 +86,7 @@ Guitars: Markus Brunner
 Guitar-Lead: Jorge Paulo
 Bass: Rob Glass					TODO
 Drums: Chris Bouchard
-Vocals Angel: Martin Lobemeier	TODO
+Vocals Angel: Martin Landolf	TODO
 ========================================================
 
 Chapter 08: Nicknames => https://www.kompoz.com/music/collaboration/1115011
@@ -121,7 +121,7 @@ Guitars: Markus Brunner
 Guitar-Lead: Jorge Paulo
 Bass: Rob Glass
 Drums: Chris Bouchard
-Vocals Angel: Martin Lobemeier		TODO
+Vocals Angel: Martin Landolf
 ========================================================
 
 Interlude => https://www.kompoz.com/music/collaboration/1045511
@@ -174,7 +174,7 @@ Guitars: Markus Brunner
 Guitar-Lead: Jorge Paulo
 Bass: Anton Klinkt
 Drums: Chris Bouchard
-Vocals Angel: Martin Lobemeier
+Vocals Angel: Martin Landolf
 ========================================================
 
 Chapter 14: A Part Of The Herd => https://www.kompoz.com/music/collaboration/1113162
@@ -185,7 +185,7 @@ Guitars: Markus Brunner
 Guitar-Lead: Markus Brunner
 Bass: Rob Glass   					TODO
 Drums: Chris Bouchard				TODO
-Vocals Angel: Martin Lobemeier		TODO
+Vocals Angel: Martin Landolf		TODO
 ========================================================
 
 Chapter 15: Northern Star => https://www.kompoz.com/music/collaboration/1115881
@@ -215,7 +215,7 @@ Chapter 17: Stay Free => https://www.kompoz.com/music/collaboration/1115882
 Songwriting-Lyrics: Gal Hornstein
 Songwriting: Markus Brunner
 Guitars: Markus Brunner
-Guitar-Lead: tbd					TODO
+Guitar-Lead: Markus Brunner
 Bass: Rob Glass						TODO
 Drums: Chris Bouchard				TODO
 Vocals Brother Jesus: tbd			TODO
@@ -242,7 +242,7 @@ Guitar-Lead: tbd					TODO
 Bass: tbd							TODO
 Keyboards: Geoffrey Cook			TODO
 Drums: tbd							TODO
-Vocals Angel: Martin Lobemeier		TODO
+Vocals Angel: Martin Landolf		TODO
 ========================================================
 
 Chapter 20: The Rising Phoenix => https://www.kompoz.com/music/collaboration/1127201
@@ -254,7 +254,7 @@ Guitar-Lead: tbd					TODO
 Bass: David Stahl?					TODO
 Keyboards: David Stahl?				TODO
 Drums: David Stahl?					TODO
-Vocals Angel: Martin Lobemeier		TODO
+Vocals Angel: Martin Landolf		TODO
 Vacals God: Tarjei Skarlund			TODO
 ========================================================
 
@@ -266,7 +266,7 @@ Guitars: Markus Brunner
 Guitar-Lead: tbd					TODO
 Bass: Rob Glass
 Drums: Chris Bouchard
-Vocals Angel: Martin Lobemeier		TODO
+Vocals Angel: Martin Landolf		TODO
 Vocals God: Tarjei Skarlund			TODO
 Vocals Brother Jesus: tbd			TODO
 Vocals Holy Spirit: Helen

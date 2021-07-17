@@ -5,7 +5,7 @@ Act 2 Chapter 17: Stay Free
 Songwriting-Lyrics: Gal Hornstein
 Songwriting: Markus Brunner
 Guitars: Markus Brunner
-Guitar-Lead: tbd					TODO
+Guitar-Lead: Markus Brunner
 Bass: Rob Glass						TODO
 Drums: Chris Bouchard				TODO
 Vocals Brother Jesus: tbd			TODO
