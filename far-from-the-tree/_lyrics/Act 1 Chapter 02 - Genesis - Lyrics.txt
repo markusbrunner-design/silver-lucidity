@@ -9,7 +9,7 @@ Keyboards: Geoffrey Cook			TODO
 Guitar-Lead: tbd 					TODO
 Bass: Rob Glass   					TODO
 Drums: Chris Bouchard 				TODO
-Vocals Angel: Cree Patterson
+Vocals Angel: Martin Landolf		TODO
 ========================================================
 
 (sung by the Angel)

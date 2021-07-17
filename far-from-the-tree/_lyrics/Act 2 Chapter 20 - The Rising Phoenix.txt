@@ -9,7 +9,7 @@ Guitar-Lead: tbd					TODO
 Bass: David Stahl?					TODO
 Keyboards: David Stahl?				TODO
 Drums: David Stahl?					TODO
-Vocals Angel: Cree Patterson		TODO
+Vocals Angel: Martin Landolf		TODO
 Vacals God: Tarjei Skarlund			TODO
 ========================================================
 

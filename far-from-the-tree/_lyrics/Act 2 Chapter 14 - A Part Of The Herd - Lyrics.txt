@@ -8,7 +8,7 @@ Guitars: Markus Brunner
 Guitar-Lead: Markus Brunner
 Bass: Rob Glass   					TODO
 Drums: Chris Bouchard				TODO
-Vocals Angel: Cree Patterson		TODO
+Vocals Angel: Martin Landolf		TODO
 ========================================================
 
 (sung by the Angel)

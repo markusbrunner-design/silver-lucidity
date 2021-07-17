@@ -8,9 +8,9 @@ Guitars: Markus Brunner
 Guitar-Lead: tbd
 Bass: Jean Lui
 Drums: Chris Bouchard
-Vocals Angel: Cree Patterson
-Vocals God: Tarjei Skarlund
-Vocals Brother Jesus: tbd
+Vocals Angel: Martin Landolf		TODO
+Vocals God: Tarjei Skarlund			TODO
+Vocals Brother Jesus: tbd			TODO
 Vocals Holy Spirit: Helen Fay & Renske van den Berg
 ========================================================
 
