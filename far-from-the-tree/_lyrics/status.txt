@@ -17,7 +17,7 @@ Chapter 01: Far From the Tree => https://www.kompoz.com/music/collaboration/1114
 Songwriting-Lyrics: Gal Hornstein
 Songwriting: Markus Brunner
 Guitars: Markus Brunner
-Guitar-Lead: tbd 					TODO
+Guitar-Lead: Billy LeCoq-Mauvais
 Bass: Rob Glass
 Drums: Chris Bouchard
 Vocals Angel: Martin Landolf		TODO
@@ -28,10 +28,10 @@ Chapter 02: Genesis => https://www.kompoz.com/music/collaboration/1112904
 Songwriting-Lyrics: Gal Hornstein
 Songwriting: Markus Brunner
 Guitars: Markus Brunner
+Guitar-Lead: Markus Brunner
 Keyboards: Geoffrey Cook			TODO
-Guitar-Lead: tbd 					TODO
 Bass: Rob Glass   					TODO
-Drums: Chris Bouchard 				TODO
+Drums: Chris Bouchard 				TODO???
 Vocals Angel: Martin Landolf		TODO
 ========================================================
 
@@ -40,7 +40,8 @@ Chapter 03: BS PR => https://www.kompoz.com/music/collaboration/1114658
 Songwriting-Lyrics: Gal Hornstein
 Songwriting: Markus Brunner
 Guitars: Markus Brunner
-Guitar-Lead: tbd 					TODO
+Guitar-Lead 1: Markus Brunner
+Guitar-Lead 2: Billy LeCoq-Mauvais
 Bass: Jean Lui
 Drums: Chris Bouchard
 Vocals God: Tarjei Skarlund
@@ -51,10 +52,11 @@ Chapter 04: Daddy Issues => https://www.kompoz.com/music/collaboration/1113055
 Songwriting-Lyrics: Gal Hornstein
 Songwriting: Markus Brunner
 Guitars: Markus Brunner
-Guitar-Lead: tbd					TODO
+Guitar-Lead: Markus Brunner
+Guitar-Lead: Billy?					TODO
 Keys: Geoffrey Cook
 Bass: Daniel Swain
-Drums: Chris Bouchard				TODO
+Drums: Chris Bouchard
 Vocals Angel: Martin Landolf		TODO
 ========================================================
 
@@ -94,9 +96,9 @@ Chapter 08: Nicknames => https://www.kompoz.com/music/collaboration/1115011
 Songwriting-Lyrics: Gal Hornstein
 Songwriting: Markus Brunner
 Guitars: Markus Brunner
-Guitar-Lead: Jorge Paulo?			TODO
+Guitar-Lead: Jorge Paulo
 Bass: Rob Glass						TODO
-Drums: Chris Bouchard				TODO
+Drums: Chris Bouchard
 Vocals God: Tarjei Skarlund			TODO
 ========================================================
 
@@ -130,7 +132,7 @@ Songwriting-Lyrics: Gal Hornstein
 Songwriting: Markus Brunner
 Guitars: Markus Brunner
 Bass: Markus Brunner
-Drums: tbd							TODO
+Drums: Alex Zulaika					TODO
 Flute: Joel Mathew
 ========================================================
 
@@ -162,7 +164,7 @@ Songwriting: Markus Brunner
 Piano: Markus Brunner
 Keyboards-Pads: Geoffrey Cook?		TODO
 Bass: tbd ?							TODO
-Drums: tbd ?						TODO Drum-Groove: Markus Brunner (replace?)
+Drums: Brian Henry					TODO Drum-Groove: Markus Brunner (replace?)
 Vocals Holy Spirit: Helen Fay
 ========================================================
 
@@ -183,8 +185,8 @@ Songwriting-Lyrics: Gal Hornstein
 Songwriting: Markus Brunner
 Guitars: Markus Brunner
 Guitar-Lead: Markus Brunner
-Bass: Rob Glass   					TODO
-Drums: Chris Bouchard				TODO
+Bass: Philippe Pansard?				TODO
+Drums: Brian Henry					TODO
 Vocals Angel: Martin Landolf		TODO
 ========================================================
 
@@ -205,7 +207,7 @@ Songwriting-Lyrics: Gal Hornstein
 Songwriting: Markus Brunner
 Guitars: Markus Brunner
 Guitar-Lead: Markus Brunner
-Bass: tbd							TODO
+Bass: Philippe Pansard
 Drums: Alex Zulaika
 Vocals Holy Spirit: Helen Fay
 ========================================================
@@ -227,9 +229,9 @@ Songwriting-Lyrics: Gal Hornstein
 Songwriting: Markus Brunner
 Guitars: Markus Brunner
 Guitar-Lead: tbd					TODO
-Bass: tbd							TODO
+Bass: Rob Glass						TODO
 Keyboards: Geoffrey Cook			TODO
-Drums: tbd							TODO
+Drums: Alex Zulaika
 Vacals God: Tarjei Skarlund			TODO
 ========================================================
 
@@ -238,10 +240,10 @@ Chapter 19: Before the Edge => https://www.kompoz.com/music/collaboration/111619
 Songwriting-Lyrics: Gal Hornstein
 Songwriting: Markus Brunner
 Guitars: Markus Brunner
-Guitar-Lead: tbd					TODO
-Bass: tbd							TODO
+Guitar-Lead: Jorge Paulo
+Bass: Rob Glass						TODO
 Keyboards: Geoffrey Cook			TODO
-Drums: tbd							TODO
+Drums: Chris Bouchard				TODO
 Vocals Angel: Martin Landolf		TODO
 ========================================================
 
@@ -263,7 +265,7 @@ Chapter 21: Far From the Tree (Revised) => https://www.kompoz.com/music/collabor
 Songwriting-Lyrics: Gal Hornstein
 Songwriting: Markus Brunner
 Guitars: Markus Brunner
-Guitar-Lead: tbd					TODO
+Guitar-Lead: Billy LeCoq-Mauvais
 Bass: Rob Glass
 Drums: Chris Bouchard
 Vocals Angel: Martin Landolf		TODO
