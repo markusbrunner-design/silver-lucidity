@@ -9,7 +9,7 @@ Prologue => https://www.kompoz.com/music/collaboration/1117162
 Songwriting-Lyrics: Gal Hornstein
 Flute: Joel Mathew
 Narrator: Thomas Hines
-Vocals God "Yes": Tarjei Skarlund	TODO
+Vocals God "Yes": Tarjei Skarlund
 ========================================================
 
 Chapter 01: Far From the Tree => https://www.kompoz.com/music/collaboration/1114845
@@ -31,7 +31,7 @@ Guitars: Markus Brunner
 Guitar-Lead: Markus Brunner
 Keyboards: Geoffrey Cook			TODO
 Bass: Rob Glass   					TODO
-Drums: Chris Bouchard 				TODO???
+Drums: Chris Bouchard 				TODO
 Vocals Angel: Martin Landolf		TODO
 ========================================================
 
@@ -75,6 +75,7 @@ Chapter 06: How to Fall => https://www.kompoz.com/music/collaboration/1116199
 Songwriting-Lyrics: Gal Hornstein
 Songwriting: Markus Brunner
 Guitars: Markus Brunner
+Guitar-Lead: ???
 Bass: Rob Glass
 Drums: Chris Bouchard
 Vocals God: Tarjei Skarlund
@@ -99,7 +100,7 @@ Guitars: Markus Brunner
 Guitar-Lead: Jorge Paulo
 Bass: Rob Glass						TODO
 Drums: Chris Bouchard
-Vocals God: Tarjei Skarlund			TODO
+Vocals God: Tarjei Skarlund
 ========================================================
 
 Chapter 09: Soundproofed => https://www.kompoz.com/music/collaboration/1116197
@@ -111,7 +112,7 @@ Guitar-Lead: Tim Ryall
 Bass: Rob Glass
 Drums: Chris Bouchard
 Pads/Keys: Geoffrey Cook?			TODO
-Vocals Angel: tbd					TODO
+Vocals Angel: Martin Landolf		TODO
 Vacals God: Tarjei Skarlund			TODO
 ========================================================
 
@@ -163,7 +164,7 @@ Songwriting-Lyrics: Gal Hornstein
 Songwriting: Markus Brunner
 Piano: Markus Brunner
 Keyboards-Pads: Geoffrey Cook?		TODO
-Bass: tbd ?							TODO
+Bass: ???							TODO
 Drums: Brian Henry					TODO Drum-Groove: Markus Brunner (replace?)
 Vocals Holy Spirit: Helen Fay
 ========================================================
@@ -185,7 +186,7 @@ Songwriting-Lyrics: Gal Hornstein
 Songwriting: Markus Brunner
 Guitars: Markus Brunner
 Guitar-Lead: Markus Brunner
-Bass: Philippe Pansard?				TODO
+Bass: Philippe Pansard
 Drums: Brian Henry					TODO
 Vocals Angel: Martin Landolf		TODO
 ========================================================
@@ -220,7 +221,7 @@ Guitars: Markus Brunner
 Guitar-Lead: Markus Brunner
 Bass: Rob Glass						TODO
 Drums: Chris Bouchard				TODO
-Vocals Brother Jesus: tbd			TODO
+Vocals Brother Jesus: ???			TODO
 ========================================================
 
 Chapter 18: Fly => https://www.kompoz.com/music/collaboration/1116183
@@ -228,7 +229,7 @@ Chapter 18: Fly => https://www.kompoz.com/music/collaboration/1116183
 Songwriting-Lyrics: Gal Hornstein
 Songwriting: Markus Brunner
 Guitars: Markus Brunner
-Guitar-Lead: tbd					TODO
+Guitar-Lead: ???					TODO
 Bass: Rob Glass						TODO
 Keyboards: Geoffrey Cook			TODO
 Drums: Alex Zulaika
@@ -252,7 +253,7 @@ Chapter 20: The Rising Phoenix => https://www.kompoz.com/music/collaboration/112
 Songwriting-Lyrics: Gal Hornstein
 Songwriting: David Stahl
 Guitars: David Stahl
-Guitar-Lead: tbd					TODO
+Guitar-Lead: ???					TODO
 Bass: David Stahl?					TODO
 Keyboards: David Stahl?				TODO
 Drums: David Stahl?					TODO

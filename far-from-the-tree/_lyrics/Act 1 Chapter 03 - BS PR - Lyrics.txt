@@ -6,7 +6,7 @@ Songwriting-Lyrics: Gal Hornstein
 Songwriting: Markus Brunner
 Guitars: Markus Brunner
 Guitar-Lead 1: Markus Brunner
-Guitar-Lead 2: tbd					TODO
+Guitar-Lead 2: Billy LeCoq-Mauvais
 Bass: Jean Lui
 Drums: Chris Bouchard
 Vocals God: Tarjei Skarlund

@@ -2,12 +2,10 @@ Silver Lucidity - Far From The Tree
 Act 2: Interlude
 
 ========================================================
-Songwriting-Lyrics: Gal Hornstein	TODO
+Songwriting-Lyrics: Gal Hornstein
 Songwriting: Markus Brunner
 Guitars: Markus Brunner
 Bass: Markus Brunner
+Drums: Alex Zulaika
 Flute: Joel Mathew
-Narrator: Thomas Hines				TODO
 ========================================================
-
-TODO
