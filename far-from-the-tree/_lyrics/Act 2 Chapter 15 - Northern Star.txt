@@ -6,7 +6,7 @@ Songwriting-Lyrics: Gal Hornstein
 Songwriting: Markus Brunner
 Guitars: Markus Brunner
 Guitar-Lead: Jorge Paulo
-Bass: Rob Glass   					TODO
+Bass: Markus Brunner				TODO Replace?
 Drums: Chris Bouchard
 Vocals Brother Jesus: tbd			TODO
 ========================================================
