@@ -127,6 +127,8 @@ Drums: Chris Bouchard
 Vocals Angel: Martin Landolf
 ========================================================
 
+# Act 2
+
 Interlude => https://www.kompoz.com/music/collaboration/1045511
 ========================================================
 Songwriting-Lyrics: Gal Hornstein
@@ -137,9 +139,7 @@ Drums: Alex Zulaika					TODO
 Flute: Joel Mathew
 ========================================================
 
-# Act 2
-
-Prologue => https://www.kompoz.com/music/collaboration/1045511
+Prelude => https://www.kompoz.com/music/collaboration/1045511
 ========================================================
 Songwriting-Lyrics: Gal Hornstein
 Songwriting: Markus Brunner
