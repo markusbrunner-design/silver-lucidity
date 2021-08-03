@@ -5,10 +5,11 @@ Act 1 Chapter 01: Far From The Tree
 Songwriting-Lyrics: Gal Hornstein
 Songwriting: Markus Brunner
 Guitars: Markus Brunner
-Guitar-Lead: tbd 					TODO
+Guitar-Lead: Billy LeCoq-Mauvais
+Guitar-Lead Outro: Markus Brunner
 Bass: Rob Glass
 Drums: Chris Bouchard
-Vocals Angel: Martin Landolf		TODO
+Vocals Angel: Martin Landolf
 ========================================================
 
 (sung by the Angel)

@@ -18,9 +18,10 @@ Songwriting-Lyrics: Gal Hornstein
 Songwriting: Markus Brunner
 Guitars: Markus Brunner
 Guitar-Lead: Billy LeCoq-Mauvais
+Guitar-Lead Outro: Markus Brunner
 Bass: Rob Glass
 Drums: Chris Bouchard
-Vocals Angel: Martin Landolf		TODO
+Vocals Angel: Martin Landolf
 ========================================================
 
 Chapter 02: Genesis => https://www.kompoz.com/music/collaboration/1112904
@@ -267,6 +268,7 @@ Songwriting-Lyrics: Gal Hornstein
 Songwriting: Markus Brunner
 Guitars: Markus Brunner
 Guitar-Lead: Billy LeCoq-Mauvais
+Guitar-Lead Outro: Markus Brunner
 Bass: Rob Glass
 Drums: Chris Bouchard
 Vocals Angel: Martin Landolf		TODO
