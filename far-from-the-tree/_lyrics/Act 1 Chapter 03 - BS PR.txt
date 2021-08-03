@@ -10,6 +10,8 @@ Guitar-Lead 2: Billy LeCoq-Mauvais
 Bass: Jean Lui
 Drums: Chris Bouchard
 Vocals God: Tarjei Skarlund
+Engineering-Mixing: Markus Brunner
+Engineering-Mastering: Markus Brunner
 ========================================================
 
 (sung by the God)

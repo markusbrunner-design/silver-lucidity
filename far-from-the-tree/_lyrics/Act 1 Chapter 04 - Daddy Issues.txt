@@ -5,11 +5,14 @@ Act 1 Chapter 04: Daddy Issues
 Songwriting-Lyrics: Gal Hornstein
 Songwriting: Markus Brunner
 Guitars: Markus Brunner
-Guitar-Lead: tbd					TODO
+Guitar-Lead: Markus Brunner
+Guitar-Lead: ???
 Keys: Geoffrey Cook
 Bass: Daniel Swain
-Drums: Chris Bouchard				TODO
-Vocals Angel: Martin Landolf		TODO
+Drums: Chris Bouchard
+Vocals Angel: Martin Landolf
+Engineering-Mixing: Markus Brunner
+Engineering-Mastering: Markus Brunner
 ========================================================
 
 (sung by the Angel)

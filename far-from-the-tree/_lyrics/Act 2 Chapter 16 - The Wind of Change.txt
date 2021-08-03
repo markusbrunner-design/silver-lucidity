@@ -6,9 +6,11 @@ Songwriting-Lyrics: Gal Hornstein
 Songwriting: Markus Brunner
 Guitars: Markus Brunner
 Guitar-Lead: Markus Brunner
-Bass: tbd							TODO
+Bass: Philippe Pansard
 Drums: Alex Zulaika
 Vocals Holy Spirit: Helen Fay
+Engineering-Mixing: Markus Brunner
+Engineering-Mastering: Markus Brunner
 ========================================================
 
 (sung by the Holy Spirit)

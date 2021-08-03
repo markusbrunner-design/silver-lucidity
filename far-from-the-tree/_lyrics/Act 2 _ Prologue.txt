@@ -6,6 +6,8 @@ Songwriting-Lyrics: Gal Hornstein
 Songwriting: Markus Brunner
 Virtual Strings: Markus Brunner
 Narrator: Thomas Hines
+Engineering-Mixing: Markus Brunner
+Engineering-Mastering: Markus Brunner
 ========================================================
 
 You can not choose your family, but you can sure damn well try to ignore them. 

@@ -5,10 +5,12 @@ Act 1 Chapter 07: Love the Sins
 Songwriting-Lyrics: Gal Hornstein
 Songwriting: Markus Brunner
 Guitars: Markus Brunner
-Guitar-Lead: JorgePaulo
-Bass: Rob Glass					TODO
+Guitar-Lead: Jorge Paulo
+Bass: Rob Glass
 Drums: Chris Bouchard
-Vocals Angel: Martin Landolf	TODO
+Vocals Angel: Martin Landolf
+Engineering-Mixing: Markus Brunner
+Engineering-Mastering: Markus Brunner
 ========================================================
 
 (sung by the Angel)

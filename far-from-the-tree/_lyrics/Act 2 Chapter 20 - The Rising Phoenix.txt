@@ -4,13 +4,11 @@ Act 2 Chapter 20: The Rising Phoenix
 ========================================================
 Songwriting-Lyrics: Gal Hornstein
 Songwriting: David Stahl
-Guitars: David Stahl
-Guitar-Lead: tbd					TODO
-Bass: David Stahl?					TODO
-Keyboards: David Stahl?				TODO
-Drums: David Stahl?					TODO
-Vocals Angel: Martin Landolf		TODO
-Vacals God: Tarjei Skarlund			TODO
+Virtual Instruments: David Stahl
+Vocals Angel: Martin Landolf
+Vacals God: Tarjei Skarlund
+Engineering-Mixing: Markus Brunner
+Engineering-Mastering: Markus Brunner
 ========================================================
 
 (sung by "God" & "The Angel")

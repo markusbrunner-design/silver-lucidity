@@ -5,10 +5,12 @@ Act 1 Chapter 08: Nicknames
 Songwriting-Lyrics: Gal Hornstein
 Songwriting: Markus Brunner
 Guitars: Markus Brunner
-Guitar-Lead: JorgePaulo?			TODO
-Bass: Rob Glass						TODO
-Drums: Chris Bouchard				TODO
+Guitar-Lead: Jorge Paulo
+Bass: Rob Glass
+Drums: Chris Bouchard
 Vocals God: Tarjei Skarlund
+Engineering-Mixing: Markus Brunner
+Engineering-Mastering: Markus Brunner
 ========================================================
 
 (sung by the God)

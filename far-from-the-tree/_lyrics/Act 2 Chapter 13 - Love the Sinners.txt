@@ -9,6 +9,8 @@ Guitar-Lead: Jorge Paulo
 Bass: Anton Klinkt
 Drums: Chris Bouchard
 Vocals Angel: Martin Landolf
+Engineering-Mixing: Markus Brunner
+Engineering-Mastering: Markus Brunner
 ========================================================
 
 (sung by "The Angel")

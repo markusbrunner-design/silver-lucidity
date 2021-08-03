@@ -8,4 +8,6 @@ Guitars: Markus Brunner
 Bass: Markus Brunner
 Drums: Alex Zulaika
 Flute: Joel Mathew
+Engineering-Mixing: Markus Brunner
+Engineering-Mastering: Markus Brunner
 ========================================================

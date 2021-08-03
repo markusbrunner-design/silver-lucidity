@@ -8,6 +8,8 @@ Piano: Markus Brunner
 Guitar-Lead: Markus Brunner
 Virtual Instruments: Markus Brunner
 Vocals God: Tarjei Skarlund
+Engineering-Mixing: Markus Brunner
+Engineering-Mastering: Markus Brunner
 ========================================================
 
 (sung by the God)

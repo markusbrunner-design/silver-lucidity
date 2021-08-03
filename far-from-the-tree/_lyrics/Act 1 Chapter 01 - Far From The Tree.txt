@@ -10,6 +10,8 @@ Guitar-Lead Outro: Markus Brunner
 Bass: Rob Glass
 Drums: Chris Bouchard
 Vocals Angel: Martin Landolf
+Engineering-Mixing: Markus Brunner
+Engineering-Mastering: Markus Brunner
 ========================================================
 
 (sung by the Angel)

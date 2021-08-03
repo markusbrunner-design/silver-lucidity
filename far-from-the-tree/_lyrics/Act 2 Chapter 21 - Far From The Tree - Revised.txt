@@ -9,11 +9,13 @@ Guitar-Lead: Billy LeCoq-Mauvais
 Guitar-Lead Outro: Markus Brunner
 Bass: Rob Glass
 Drums: Chris Bouchard
-Vocals Angel: Martin Landolf		TODO
-Vocals God: Tarjei Skarlund			TODO
-Vocals Brother Jesus: tbd			TODO
+Vocals Angel: Martin Landolf
+Vocals God: Tarjei Skarlund
+Vocals Brother Jesus: ???
 Vocals Holy Spirit: Helen
 Vocals Holy Spirit (add): Renske
+Engineering-Mixing: Markus Brunner
+Engineering-Mastering: Markus Brunner
 ========================================================
 
 (sung by "God" "Brother Jesus" "The Holy Spirit" & "The Angel")
