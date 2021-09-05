@@ -34,10 +34,9 @@ Songwriting-Lyrics: Gal Hornstein
 Songwriting: Markus Brunner
 Guitars: Markus Brunner
 Guitar-Lead: Markus Brunner
-Keyboards: Geoffrey Cook			TODO
-Bass: Rob Glass   					TODO
-Drums: Chris Bouchard 				TODO
-Vocals Angel: Martin Landolf		TODO
+Bass: ???		   					TODO
+Drums: Chris Bouchard
+Vocals Angel: Martin Landolf
 Engineering-Mixing: Markus Brunner
 Engineering-Mastering: Markus Brunner
 ========================================================
@@ -62,7 +61,7 @@ Songwriting-Lyrics: Gal Hornstein
 Songwriting: Markus Brunner
 Guitars: Markus Brunner
 Guitar-Lead: Markus Brunner
-Guitar-Lead: Billy?					TODO
+Guitar-Lead: WillaWay				TODO
 Keys: Geoffrey Cook
 Bass: Daniel Swain
 Drums: Chris Bouchard
@@ -88,7 +87,7 @@ Chapter 06: How to Fall => https://www.kompoz.com/music/collaboration/1116199
 Songwriting-Lyrics: Gal Hornstein
 Songwriting: Markus Brunner
 Guitars: Markus Brunner
-Guitar-Lead: ???
+Guitar-Lead: ???					TODO??? (check)
 Bass: Rob Glass
 Drums: Chris Bouchard
 Vocals God: Tarjei Skarlund
@@ -102,9 +101,9 @@ Songwriting-Lyrics: Gal Hornstein
 Songwriting: Markus Brunner
 Guitars: Markus Brunner
 Guitar-Lead: Jorge Paulo
-Bass: Rob Glass					TODO
+Bass: ???							TODO
 Drums: Chris Bouchard
-Vocals Angel: Martin Landolf	TODO
+Vocals Angel: Martin Landolf		TODO
 Engineering-Mixing: Markus Brunner
 Engineering-Mastering: Markus Brunner
 ========================================================
@@ -115,7 +114,7 @@ Songwriting-Lyrics: Gal Hornstein
 Songwriting: Markus Brunner
 Guitars: Markus Brunner
 Guitar-Lead: Jorge Paulo
-Bass: Rob Glass						TODO
+Bass: ???							TODO
 Drums: Chris Bouchard
 Vocals God: Tarjei Skarlund
 Engineering-Mixing: Markus Brunner
@@ -158,7 +157,7 @@ Songwriting-Lyrics: Gal Hornstein
 Songwriting: Markus Brunner
 Guitars: Markus Brunner
 Bass: Markus Brunner
-Drums: Alex Zulaika					TODO
+Drums: Alex Zulaika
 Flute: Joel Mathew
 Engineering-Mixing: Markus Brunner
 Engineering-Mastering: Markus Brunner
@@ -220,7 +219,7 @@ Songwriting: Markus Brunner
 Guitars: Markus Brunner
 Guitar-Lead: Markus Brunner
 Bass: Philippe Pansard
-Drums: Brian Henry					TODO
+Drums: Brian Henry
 Vocals Angel: Martin Landolf		TODO
 Engineering-Mixing: Markus Brunner
 Engineering-Mastering: Markus Brunner
@@ -232,7 +231,7 @@ Songwriting-Lyrics: Gal Hornstein
 Songwriting: Markus Brunner
 Guitars: Markus Brunner
 Guitar-Lead: Jorge Paulo
-Bass: Rob Glass   					TODO
+Bass: ???		   					TODO
 Drums: Chris Bouchard
 Vocals Brother Jesus: tbd			TODO
 Engineering-Mixing: Markus Brunner
@@ -258,8 +257,8 @@ Songwriting-Lyrics: Gal Hornstein
 Songwriting: Markus Brunner
 Guitars: Markus Brunner
 Guitar-Lead: Markus Brunner
-Bass: Rob Glass						TODO
-Drums: Chris Bouchard				TODO
+Bass: ???							TODO
+Drums: Chris Bouchard
 Vocals Brother Jesus: ???			TODO
 Engineering-Mixing: Markus Brunner
 Engineering-Mastering: Markus Brunner
@@ -271,8 +270,8 @@ Songwriting-Lyrics: Gal Hornstein
 Songwriting: Markus Brunner
 Guitars: Markus Brunner
 Guitar-Lead: ???					TODO
-Bass: Rob Glass						TODO
-Keyboards: Geoffrey Cook			TODO
+Bass: ???							TODO
+Keyboards: Geoffrey Cook
 Drums: Alex Zulaika
 Vacals God: Tarjei Skarlund			TODO
 Engineering-Mixing: Markus Brunner
@@ -285,7 +284,7 @@ Songwriting-Lyrics: Gal Hornstein
 Songwriting: Markus Brunner
 Guitars: Markus Brunner
 Guitar-Lead: Jorge Paulo
-Bass: Rob Glass						TODO
+Bass: ???							TODO
 Keyboards: Geoffrey Cook			TODO
 Drums: Chris Bouchard				TODO
 Vocals Angel: Martin Landolf		TODO
