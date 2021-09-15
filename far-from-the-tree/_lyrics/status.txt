@@ -131,7 +131,7 @@ Bass: Rob Glass
 Drums: Chris Bouchard
 Pads/Keys: Geoffrey Cook?			TODO
 Vocals Angel: Martin Landolf		TODO
-Vacals God: Tarjei Skarlund			TODO
+Vocals God: Tarjei Skarlund			TODO
 Engineering-Mixing: Markus Brunner
 Engineering-Mastering: Markus Brunner
 ========================================================
@@ -273,7 +273,7 @@ Guitar-Lead: ???					TODO
 Bass: ???							TODO
 Keyboards: Geoffrey Cook
 Drums: Alex Zulaika
-Vacals God: Tarjei Skarlund			TODO
+Vocals God: Tarjei Skarlund			TODO
 Engineering-Mixing: Markus Brunner
 Engineering-Mastering: Markus Brunner
 ========================================================
@@ -298,7 +298,7 @@ Songwriting-Lyrics: Gal Hornstein
 Songwriting: David Stahl			TODO (longer)
 Virtual Instruments: David Stahl	TODO (longer)
 Vocals Angel: Martin Landolf		TODO
-Vacals God: Tarjei Skarlund			TODO
+Vocals God: Tarjei Skarlund			TODO
 Engineering-Mixing: Markus Brunner
 Engineering-Mastering: Markus Brunner
 ========================================================
