@@ -2,9 +2,9 @@ Silver Lucidity - TIMEWASTER
 
 Search for your name (=> TODO)
 
-##################
-# Martin Landolf #
-################## 
+######################
+# TW: Martin Landolf #
+###################### 
 
 Every Day I Die => https://www.kompoz.com/music/collaboration/1153220/files
 ========================================================
@@ -78,9 +78,9 @@ Guitars: Markus Brunner				TODO
 Vocals: Martin Landolf				TODO
 ========================================================
 
-##################
-# France Moretti #
-################## 
+######################
+# GW: France Moretti #
+######################
 
 Grass Widow => https://www.kompoz.com/music/collaboration/1153271/files
 ========================================================
@@ -106,15 +106,44 @@ Piano: Markus Brunner
 Vocals: France Moretti				TODO
 ========================================================
 
-###################################
-# Martin Landolf & France Moretti #
-###################################
+Present Day - Sometimes => https://www.kompoz.com/music/collaboration/1156133
+========================================================
+Songwriting-Lyrics: Gal Hornstein
+Songwriting: Markus Brunner			TODO	
+Guitars: Markus Brunner				TODO	
+Vocals: France Moretti				TODO
+========================================================
+
+###########################################
+# TW: Martin Landolf & GW: France Moretti #
+###########################################
 
 Here comes the flood again => https://www.kompoz.com/music/collaboration/1153242/files
 ========================================================
 Songwriting-Lyrics: Gal Hornstein
-Songwriting: Markus Brunner			TODO
-Guitars: Markus Brunner				TODO
+Songwriting: Markus Brunner			
+Piano: Markus Brunner				
 Vocals: Martin Landolf				TODO
 Vocals: France Moretti				TODO
+========================================================
+
+Just As Long As We Remember => https://www.kompoz.com/music/collaboration/1156144
+========================================================
+Songwriting-Lyrics: Gal Hornstein
+Songwriting: Markus Brunner			TODO
+Piano: Markus Brunner				TODO
+Vocals: Martin Landolf				TODO
+Vocals: France Moretti				TODO
+========================================================
+
+###################
+# Mr. White = ??? #
+###################
+
+Out of time - Time Is Fine => https://www.kompoz.com/music/collaboration/1156129
+========================================================
+Songwriting-Lyrics: Gal Hornstein
+Songwriting: Markus Brunner			TODO
+Guitars: Markus Brunner				TODO
+Vocals: ???							TODO
 ========================================================
