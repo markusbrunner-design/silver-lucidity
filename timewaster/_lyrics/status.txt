@@ -78,8 +78,17 @@ Guitars: Markus Brunner				TODO
 Vocals: Martin Landolf				TODO
 ========================================================
 
+Everybody wants to have a time machine => https://www.kompoz.com/music/collaboration/1156570
+========================================================
+Songwriting-Lyrics: Gal Hornstein
+Songwriting: Markus Brunner			TODO
+Piano: Markus Brunner				TODO
+Guitars: Markus Brunner				TODO
+Vocals: Martin Landolf				TODO
+========================================================
+
 ######################
-# GW: France Moretti #
+# GW:  #
 ######################
 
 Grass Widow => https://www.kompoz.com/music/collaboration/1153271/files
@@ -87,7 +96,7 @@ Grass Widow => https://www.kompoz.com/music/collaboration/1153271/files
 Songwriting-Lyrics: Gal Hornstein
 Songwriting: Markus Brunner			
 Guitars: Markus Brunner				
-Vocals: France Moretti				TODO
+Vocals: ?							TODO
 ========================================================
 
 The Time is Mean => https://www.kompoz.com/music/collaboration/1155344/files
@@ -95,7 +104,7 @@ The Time is Mean => https://www.kompoz.com/music/collaboration/1155344/files
 Songwriting-Lyrics: Gal Hornstein
 Songwriting: Markus Brunner			
 Guitars: Markus Brunner				
-Vocals: France Moretti				TODO
+Vocals: ?							TODO
 ========================================================
 
 20 Seconds Later => https://www.kompoz.com/music/collaboration/1155369/files
@@ -103,7 +112,7 @@ Vocals: France Moretti				TODO
 Songwriting-Lyrics: Gal Hornstein
 Songwriting: Markus Brunner			
 Piano: Markus Brunner				
-Vocals: France Moretti				TODO
+Vocals: ?							TODO
 ========================================================
 
 Present Day - Sometimes => https://www.kompoz.com/music/collaboration/1156133
@@ -111,11 +120,11 @@ Present Day - Sometimes => https://www.kompoz.com/music/collaboration/1156133
 Songwriting-Lyrics: Gal Hornstein
 Songwriting: Markus Brunner			TODO	
 Guitars: Markus Brunner				TODO	
-Vocals: France Moretti				TODO
+Vocals: ?							TODO
 ========================================================
 
 ###########################################
-# TW: Martin Landolf & GW: France Moretti #
+# TW: Martin Landolf & GW:  #
 ###########################################
 
 Here comes the flood again => https://www.kompoz.com/music/collaboration/1153242/files
@@ -124,7 +133,7 @@ Songwriting-Lyrics: Gal Hornstein
 Songwriting: Markus Brunner			
 Piano: Markus Brunner				
 Vocals: Martin Landolf				TODO
-Vocals: France Moretti				TODO
+Vocals: ?							TODO
 ========================================================
 
 Just As Long As We Remember => https://www.kompoz.com/music/collaboration/1156144
@@ -133,7 +142,7 @@ Songwriting-Lyrics: Gal Hornstein
 Songwriting: Markus Brunner			TODO
 Piano: Markus Brunner				TODO
 Vocals: Martin Landolf				TODO
-Vocals: France Moretti				TODO
+Vocals: ?							TODO
 ========================================================
 
 ###################
@@ -145,5 +154,5 @@ Out of time - Time Is Fine => https://www.kompoz.com/music/collaboration/1156129
 Songwriting-Lyrics: Gal Hornstein
 Songwriting: Markus Brunner			TODO
 Guitars: Markus Brunner				TODO
-Vocals: ???							TODO
+Vocals: ?							TODO
 ========================================================
