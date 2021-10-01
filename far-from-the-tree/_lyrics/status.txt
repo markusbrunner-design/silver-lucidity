@@ -61,7 +61,7 @@ Songwriting-Lyrics: Gal Hornstein
 Songwriting: Markus Brunner
 Guitars: Markus Brunner
 Guitar-Lead: Markus Brunner
-Guitar-Lead: WillaWay				TODO
+Guitar-Lead: WillaWay
 Keys: Geoffrey Cook
 Bass: Daniel Swain
 Drums: Chris Bouchard
