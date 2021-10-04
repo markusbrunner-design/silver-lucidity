@@ -128,7 +128,6 @@ Guitars: Markus Brunner
 Guitar-Lead: Tim Ryall
 Bass: Rob Glass
 Drums: Chris Bouchard
-Pads/Keys: Geoffrey Cook			TODO
 Vocals Angel: Martin Landolf		TODO
 Vocals God: Tarjei Skarlund			TODO
 Engineering-Mixing: Markus Brunner
@@ -190,8 +189,7 @@ Chapter 12: Songs of Seas and Sands => https://www.kompoz.com/music/collaboratio
 Songwriting-Lyrics: Gal Hornstein
 Songwriting: Markus Brunner
 Piano: Markus Brunner
-Acoustic Bass: Chad B				TODO
-Sea-Sound-Effect (replace rain): 	TODO
+Bass-Upright: ???					TODO
 Vocals Holy Spirit: Helen Fay
 Engineering-Mixing: Markus Brunner
 Engineering-Mastering: Markus Brunner
@@ -231,7 +229,7 @@ Guitars: Markus Brunner
 Guitar-Lead: Jorge Paulo
 Bass: Markus Brunner 
 Drums: Chris Bouchard
-Vocals Brother Jesus: tbd			TODO
+Vocals Brother Jesus: Markus Brunner	TODO
 Engineering-Mixing: Markus Brunner
 Engineering-Mastering: Markus Brunner
 ========================================================
@@ -255,9 +253,9 @@ Songwriting-Lyrics: Gal Hornstein
 Songwriting: Markus Brunner
 Guitars: Markus Brunner
 Guitar-Lead: Markus Brunner
-Bass: ???							TODO
+Bass: ???								TODO
 Drums: Chris Bouchard
-Vocals Brother Jesus: ???			TODO
+Vocals Brother Jesus: Markus Brunner	TODO
 Engineering-Mixing: Markus Brunner
 Engineering-Mastering: Markus Brunner
 ========================================================
@@ -267,7 +265,7 @@ Chapter 18: Fly => https://www.kompoz.com/music/collaboration/1116183
 Songwriting-Lyrics: Gal Hornstein
 Songwriting: Markus Brunner
 Guitars: Markus Brunner
-Guitar-Lead: Jorge Paulo			TODO
+Guitar-Lead: Jorge Paulo			TODO 3:47-4:06
 Bass: Daniel Swain					TODO
 Keyboards: Geoffrey Cook
 Drums: Alex Zulaika
@@ -293,10 +291,10 @@ Engineering-Mastering: Markus Brunner
 Chapter 20: The Rising Phoenix => https://www.kompoz.com/music/collaboration/1127201
 ========================================================
 Songwriting-Lyrics: Gal Hornstein
-Songwriting: David Stahl			TODO (longer)
-Virtual Instruments: David Stahl	TODO (longer)
-Vocals Angel: Martin Landolf		TODO
-Vocals God: Tarjei Skarlund			TODO
+Songwriting: David Stahl
+Virtual Instruments: David Stahl
+Vocals Angel: Martin Landolf
+Vocals God: Tarjei Skarlund				TODO
 Engineering-Mixing: Markus Brunner
 Engineering-Mastering: Markus Brunner
 ========================================================
@@ -310,9 +308,9 @@ Guitar-Lead: Billy LeCoq-Mauvais
 Guitar-Lead Outro: Markus Brunner
 Bass: Rob Glass
 Drums: Chris Bouchard
-Vocals Angel: Martin Landolf		TODO
-Vocals God: Tarjei Skarlund			TODO
-Vocals Brother Jesus: tbd			TODO
+Vocals Angel: Martin Landolf
+Vocals God: Tarjei Skarlund				TODO
+Vocals Brother Jesus: Markus Brunner
 Vocals Holy Spirit: Helen
 Vocals Holy Spirit (add): Renske
 Engineering-Mixing: Markus Brunner
