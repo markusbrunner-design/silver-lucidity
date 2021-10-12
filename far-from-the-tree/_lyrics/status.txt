@@ -128,7 +128,7 @@ Guitars: Markus Brunner
 Guitar-Lead: Tim Ryall
 Bass: Rob Glass
 Drums: Chris Bouchard
-Vocals Angel: Martin Landolf		TODO
+Vocals Angel: Martin Landolf
 Vocals God: Tarjei Skarlund			TODO
 Engineering-Mixing: Markus Brunner
 Engineering-Mastering: Markus Brunner
@@ -216,7 +216,7 @@ Guitars: Markus Brunner
 Guitar-Lead: Markus Brunner
 Bass: Philippe Pansard
 Drums: Brian Henry
-Vocals Angel: Martin Landolf		TODO
+Vocals Angel: Martin Landolf
 Engineering-Mixing: Markus Brunner
 Engineering-Mastering: Markus Brunner
 ========================================================
@@ -229,7 +229,7 @@ Guitars: Markus Brunner
 Guitar-Lead: Jorge Paulo
 Bass: Markus Brunner 
 Drums: Chris Bouchard
-Vocals Brother Jesus: Markus Brunner	TODO
+Vocals Brother Jesus: Markus Brunner
 Engineering-Mixing: Markus Brunner
 Engineering-Mastering: Markus Brunner
 ========================================================
@@ -255,7 +255,7 @@ Guitars: Markus Brunner
 Guitar-Lead: Markus Brunner
 Bass: ???								TODO
 Drums: Chris Bouchard
-Vocals Brother Jesus: Markus Brunner	TODO
+Vocals Brother Jesus: Markus Brunner
 Engineering-Mixing: Markus Brunner
 Engineering-Mastering: Markus Brunner
 ========================================================
@@ -265,7 +265,7 @@ Chapter 18: Fly => https://www.kompoz.com/music/collaboration/1116183
 Songwriting-Lyrics: Gal Hornstein
 Songwriting: Markus Brunner
 Guitars: Markus Brunner
-Guitar-Lead: Jorge Paulo			TODO 3:47-4:06
+Guitar-Lead: Jorge Paulo
 Bass: Daniel Swain					TODO
 Keyboards: Geoffrey Cook
 Drums: Alex Zulaika
