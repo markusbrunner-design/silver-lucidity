@@ -1,0 +1,18 @@
+# Parts
+A = Verse I
+B = Chorus I
+C = Verse II
+D = Chorus II
+E = Verse III
+F = Bridge
+G = Chorus IV
+
+# Verse
+C5 B5 E5
+
+# Chorus
+G5 C5 E5 A5
+
+# Bridge
+C5 > D5, D5 > E5, E5 > D5, C5 > B5
+(second guitar in fourth: C5 => F5)

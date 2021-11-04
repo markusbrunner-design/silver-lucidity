@@ -129,7 +129,7 @@ Guitar-Lead: Tim Ryall
 Bass: Rob Glass
 Drums: Chris Bouchard
 Vocals Angel: Martin Landolf
-Vocals God: Tarjei Skarlund			TODO
+Vocals God: Tarjei Skarlund
 Engineering-Mixing: Markus Brunner
 Engineering-Mastering: Markus Brunner
 ========================================================
@@ -189,7 +189,7 @@ Chapter 12: Songs of Seas and Sands => https://www.kompoz.com/music/collaboratio
 Songwriting-Lyrics: Gal Hornstein
 Songwriting: Markus Brunner
 Piano: Markus Brunner
-Bass-Upright: ???					TODO
+Bass-Upright: Rott Gold
 Vocals Holy Spirit: Helen Fay
 Engineering-Mixing: Markus Brunner
 Engineering-Mastering: Markus Brunner
@@ -247,20 +247,7 @@ Engineering-Mixing: Markus Brunner
 Engineering-Mastering: Markus Brunner
 ========================================================
 
-Chapter 17: Stay Free => https://www.kompoz.com/music/collaboration/1115882
-========================================================
-Songwriting-Lyrics: Gal Hornstein
-Songwriting: Markus Brunner
-Guitars: Markus Brunner
-Guitar-Lead: Markus Brunner
-Bass: ???								TODO
-Drums: Chris Bouchard
-Vocals Brother Jesus: Markus Brunner
-Engineering-Mixing: Markus Brunner
-Engineering-Mastering: Markus Brunner
-========================================================
-
-Chapter 18: Fly => https://www.kompoz.com/music/collaboration/1116183
+Chapter 17: Fly => https://www.kompoz.com/music/collaboration/1116183
 ========================================================
 Songwriting-Lyrics: Gal Hornstein
 Songwriting: Markus Brunner
@@ -274,7 +261,7 @@ Engineering-Mixing: Markus Brunner
 Engineering-Mastering: Markus Brunner
 ========================================================
 
-Chapter 19: Before the Edge => https://www.kompoz.com/music/collaboration/1116191
+Chapter 18: Before the Edge => https://www.kompoz.com/music/collaboration/1116191
 ========================================================
 Songwriting-Lyrics: Gal Hornstein
 Songwriting: Markus Brunner
@@ -282,24 +269,24 @@ Guitars: Markus Brunner
 Guitar-Lead: Jorge Paulo
 Bass: ???							TODO
 Keyboards: Geoffrey Cook			TODO
-Drums: Chris Bouchard				TODO
+Drums: Chris Bouchard
 Vocals Angel: Martin Landolf		TODO
 Engineering-Mixing: Markus Brunner
 Engineering-Mastering: Markus Brunner
 ========================================================
 
-Chapter 20: The Rising Phoenix => https://www.kompoz.com/music/collaboration/1127201
+Chapter 19: The Rising Phoenix => https://www.kompoz.com/music/collaboration/1127201
 ========================================================
 Songwriting-Lyrics: Gal Hornstein
 Songwriting: David Stahl
 Virtual Instruments: David Stahl
 Vocals Angel: Martin Landolf
-Vocals God: Tarjei Skarlund				TODO
+Vocals God: Tarjei Skarlund
 Engineering-Mixing: Markus Brunner
 Engineering-Mastering: Markus Brunner
 ========================================================
 
-Chapter 21: Far From the Tree (Revised) => https://www.kompoz.com/music/collaboration/1116005
+Chapter 20: Far From the Tree (Revised) => https://www.kompoz.com/music/collaboration/1116005
 ========================================================
 Songwriting-Lyrics: Gal Hornstein
 Songwriting: Markus Brunner
@@ -309,7 +296,7 @@ Guitar-Lead Outro: Markus Brunner
 Bass: Rob Glass
 Drums: Chris Bouchard
 Vocals Angel: Martin Landolf
-Vocals God: Tarjei Skarlund				TODO
+Vocals God: Tarjei Skarlund
 Vocals Brother Jesus: Markus Brunner
 Vocals Holy Spirit: Helen
 Vocals Holy Spirit (add): Renske

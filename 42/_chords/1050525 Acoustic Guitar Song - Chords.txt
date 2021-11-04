@@ -1,0 +1,27 @@
+E-Major
+
+# Kapodaster 4
+C => E
+Em => G#m
+Am => C#m
+G => B
+D => F#
+
+# Verse
+||: Am Em C G D | Am Em C :||
+!Transition by 4 half-steps!
+||: C#m G#m E B F# | C#m G#m E :||
+
+
+# Chorus
+||: C Csus2 C | Em Em7 Em | Am7 A7sus4 Am7 | G D :||
+!Transition by 4 half-steps!
+||: E Esus2 E | G#m G#m7 G#m | C#m7 C#7sus4 C#m7 | B F# :||
+
+# Outro
+mainly Arpeggios in
+Am7
+A7sus2
+!Transition by 4 half-steps!
+C#m7
+C#7sus2
