@@ -1,0 +1,38 @@
+# Parts
+A = Verse
+B = Pre-Chorus
+C/D/F = Chorus-Variations
+E = Sax-Solo
+
+# Capo
+6th fret (6 half-tones higher): Em => A#m
+
+# Verse
+with capo
+||: D Dsus4 D Dsus2 Asus2 :||
+real
+||: G# G#sus4 G# G#sus2 D#sus2 :||
+
+# Pre-Chorus
+with capo
+||: Em C G :||
+real
+||: A#m F# C# :||
+
+# Chorus
+with capo
+||: Em C G Em :||
+real
+||: A#m F# C# A#m :||
+
+# Sax-Solo
+with capo
+| Asus2 | Em | C | Asus2 |
+| Asus2 | Em | C Csus4 | Em |
+| Asus2 | Em | C | Asus2 |
+| Asus2 | Em | C Csus4 | Em Asus2 Em D |
+real
+| D#sus2 | A#m | F# | D#sus2 |
+| D#sus2 | A#m | F# F#sus4 | A#m |
+| D#sus2 | A#m | F# | D#sus2 |
+| D#sus2 | A#m | F# F#sus4 | A#m D#sus2 A#m G# |

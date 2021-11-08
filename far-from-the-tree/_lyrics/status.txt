@@ -34,7 +34,7 @@ Songwriting-Lyrics: Gal Hornstein
 Songwriting: Markus Brunner
 Guitars: Markus Brunner
 Guitar-Lead: Markus Brunner
-Bass: ???		   					TODO
+Bass: Markus Brunner
 Drums: Chris Bouchard
 Vocals Angel: Martin Landolf
 Engineering-Mixing: Markus Brunner
@@ -65,7 +65,7 @@ Guitar-Lead: WillaWay
 Keys: Geoffrey Cook
 Bass: Daniel Swain
 Drums: Chris Bouchard
-Vocals Angel: Martin Landolf		TODO
+Vocals Angel: Martin Landolf
 Engineering-Mixing: Markus Brunner
 Engineering-Mastering: Markus Brunner
 ========================================================
@@ -102,7 +102,7 @@ Guitars: Markus Brunner
 Guitar-Lead: Jorge Paulo
 Bass: Markus Brunner
 Drums: Chris Bouchard
-Vocals Angel: Martin Landolf		TODO
+Vocals Angel: Martin Landolf			TODO redo passages till awesome ending
 Engineering-Mixing: Markus Brunner
 Engineering-Mastering: Markus Brunner
 ========================================================
@@ -253,10 +253,10 @@ Songwriting-Lyrics: Gal Hornstein
 Songwriting: Markus Brunner
 Guitars: Markus Brunner
 Guitar-Lead: Jorge Paulo
-Bass: Daniel Swain					TODO
+Bass: Daniel Swain
 Keyboards: Geoffrey Cook
 Drums: Alex Zulaika
-Vocals God: Tarjei Skarlund			TODO
+Vocals God: Tarjei Skarlund
 Engineering-Mixing: Markus Brunner
 Engineering-Mastering: Markus Brunner
 ========================================================
@@ -267,10 +267,10 @@ Songwriting-Lyrics: Gal Hornstein
 Songwriting: Markus Brunner
 Guitars: Markus Brunner
 Guitar-Lead: Jorge Paulo
-Bass: ???							TODO
-Keyboards: Geoffrey Cook			TODO
+Bass: Daniel Swain					TODO
+Keyboards: Geoffrey Cook			TODO (needed after bass?)
 Drums: Chris Bouchard
-Vocals Angel: Martin Landolf		TODO
+Vocals Angel: Martin Landolf
 Engineering-Mixing: Markus Brunner
 Engineering-Mastering: Markus Brunner
 ========================================================

@@ -1,12 +1,13 @@
 Silver Lucidity - 42
-I The answer's always 42
+
+I The Answer's Always 42
 
 ========================================================
 Songwriting-Lyrics: Elizabeth Auzan
 Songwriting: Markus Brunner
 Guitar: Markus Brunner
 Guitar-Lead: Jorge Paulo
-Bass: tbd
+Bass: Jorge Paulo
 Drums: Brian Henry
 Vocals: Cree Patterson
 Engineering-Mixing: Markus Brunner
@@ -46,7 +47,6 @@ Why try to explain
 Cos, to any question
 Whatever you do 
 The answer’s always 42
-The answer’s always 42
 
 Search the heavens
 For an answer
@@ -65,28 +65,28 @@ Events are random
 So, to any question
 Whatever you do
 The answer’s always 42
-The answer’s always 42
 
 Go with the flow
 Accept you don’t know
 Just remember 
 Whatever you do 
 The answer’s always 42
-
+42
+42
+42
 Go with the flow
+42
 Accept you don’t know
-Just remember 
+42
+Just remember
+42
 Whatever you do 
-The answer’s always 42
-
 Go with the flow
-Accept you don’t know
-Just remember 
-Whatever you do 
 The answer’s always 42
-
+Accept you don’t know
+42
+Just remember 
+42
 Go with the flow
-Accept you don’t know
-Just remember 
 Whatever you do 
-The answer’s always 42
+42
