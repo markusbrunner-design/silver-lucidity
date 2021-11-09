@@ -15,6 +15,7 @@ Engineering-Mastering: Markus Brunner
 ========================================================
 
 Chapter 01: Far From the Tree => https://www.kompoz.com/music/collaboration/1114845
+Single (05.11.21): https://distrokid.com/hyperfollow/silverlucidity/far-from-the-tree-feat-timeless-passion-markus-brunner-gal-hornstein-billy-lecoq-mauvais-rob-glass-chris-bouchard--martin-landolf-radio-edit
 ========================================================
 Songwriting-Lyrics: Gal Hornstein
 Songwriting: Markus Brunner
@@ -42,6 +43,7 @@ Engineering-Mastering: Markus Brunner
 ========================================================
 
 Chapter 03: BS PR => https://www.kompoz.com/music/collaboration/1114658
+Single (07.09.21): https://distrokid.com/hyperfollow/silverlucidity/bs-pr-feat-timeless-passion-markus-brunner-billy-lecoq-mauvais-jean-lui-chris-bouchard-tarjei-skarlund--gal-hornstein
 ========================================================
 Songwriting-Lyrics: Gal Hornstein
 Songwriting: Markus Brunner
@@ -102,7 +104,7 @@ Guitars: Markus Brunner
 Guitar-Lead: Jorge Paulo
 Bass: Markus Brunner
 Drums: Chris Bouchard
-Vocals Angel: Martin Landolf			TODO redo passages till awesome ending
+Vocals Angel: Martin Landolf			TODO (redo passages till awesome ending)
 Engineering-Mixing: Markus Brunner
 Engineering-Mastering: Markus Brunner
 ========================================================
@@ -121,6 +123,7 @@ Engineering-Mastering: Markus Brunner
 ========================================================
 
 Chapter 09: Soundproofed => https://www.kompoz.com/music/collaboration/1116197
+Single (03.12.21): https://distrokid.com/hyperfollow/silverlucidity/soundproofed-feat-timeless-passion-markus-brunner-gal-hornstein-martin-landolf-tarjei-skarlund-tim-ryall-rob-glass--chris-bouchard
 ========================================================
 Songwriting-Lyrics: Gal Hornstein
 Songwriting: Markus Brunner	
@@ -188,6 +191,7 @@ Chapter 12: Songs of Seas and Sands => https://www.kompoz.com/music/collaboratio
 ========================================================
 Songwriting-Lyrics: Gal Hornstein
 Songwriting: Markus Brunner
+Drums & Percussion: Alex Zulaika			TODO (try to replace the drum groove)
 Piano: Markus Brunner
 Bass-Upright: Rott Gold
 Vocals Holy Spirit: Helen Fay
@@ -267,8 +271,8 @@ Songwriting-Lyrics: Gal Hornstein
 Songwriting: Markus Brunner
 Guitars: Markus Brunner
 Guitar-Lead: Jorge Paulo
-Bass: Daniel Swain					TODO
-Keyboards: Geoffrey Cook			TODO (needed after bass?)
+Bass: Daniel Swain
+Keyboards: Geoffrey Cook			TODO (questioned if he's still up to it)
 Drums: Chris Bouchard
 Vocals Angel: Martin Landolf
 Engineering-Mixing: Markus Brunner

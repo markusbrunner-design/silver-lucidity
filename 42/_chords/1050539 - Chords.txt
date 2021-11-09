@@ -1,0 +1,12 @@
+# Parts
+A = Intro
+B = Verse I 
+C = Pre-Chorus
+D = Chorus
+E = Outro
+
+# Intro / Verse / Outro
+||: C9 Bb9 | F9 | C9 G9 | A#9 :||
+
+# Pre-Chorus / Chorus
+||: C5 Bb5 | F5 | C5 D5 F5 | F5 G5 :||
