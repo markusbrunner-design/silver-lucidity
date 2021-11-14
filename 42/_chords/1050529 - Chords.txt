@@ -1,0 +1,17 @@
+# Parts
+A = Intro
+B = Chorus
+C = Verse I
+D = Chorus
+E = Verse II
+F = Chorus
+G = Verse III 
+H = Bridge
+I = Verse IV
+J = Chorus / Outro / Hendrix-Solo-Section
+
+# Intro / Verse
+||: G C | D :||
+
+# Chorus / Bridge / Outro
+||: E C | D :||
