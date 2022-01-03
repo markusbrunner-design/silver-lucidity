@@ -1,0 +1,12 @@
+# Parts
+A = Verse I
+B = Chorus I
+C = Verse II
+D = Solo with some Bridge words
+E = Chorus II & Outro
+
+# Verse & Solo/Bridge
+||: G#sus2 | D#m Bmaj7 :||
+
+# Chorus
+||: G#5 | D#5 / B5 | C#5 \ F#5 | F#5 / G#5 :||
