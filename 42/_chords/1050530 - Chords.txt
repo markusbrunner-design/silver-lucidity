@@ -1,0 +1,16 @@
+# Parts
+A = Verse
+B = Chorus
+C = Verse
+D = Chorus
+E = Bridge / Solo
+F = Double Chorus
+
+# Verse
+||: Am Em | C D :||
+
+# Chorus
+||: D Em | C Csus4 | D Em | C :||
+
+# Bridge
+||: C Em | Am Em :||

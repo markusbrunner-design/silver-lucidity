@@ -1,0 +1,20 @@
+# Parts
+A = Intro
+B = Verse I
+C = Pre-Chorus
+D = Chorus I
+E = Verse II with Solo => more humming than singing perhaps?
+F = Pre-Chorus
+G = Chorus II
+H = Verse III
+I = Pre-Chorus
+J = Chorus III with Solo => reduced singing with spaces
+
+# Intro, Verse
+||: A# | D# | F | Cm :||
+
+# Pre-Chorus
+| A# | D# | Cm |
+
+# Chorus
+||: Cm | Gm | Dm | A# :||

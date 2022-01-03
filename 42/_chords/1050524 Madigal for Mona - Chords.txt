@@ -1,0 +1,17 @@
+# Parts
+A = Verse
+B = Chorus
+C = Verse II
+D = Chorus
+E = Bridge
+F = Verse III
+G = Chorus
+
+# Verse
+||: A#5 F5 G5 :||
+
+# Bridge
+||: A#58(add g'') D5(add g'') G5(add g'') :||
+
+# Chorus
+||: A#5 A5 G5 D5 F5 G5 | A#5 A5 G5 D5 :||

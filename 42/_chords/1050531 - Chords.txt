@@ -1,0 +1,13 @@
+# Parts
+A = Verse I
+B = Chorus
+C = Verse II
+D = Chorus
+E = Bridge with Solo
+F = Outro-Chorus
+
+# Verse
+||: Fm | A#sus2 | C# C#sus4 | G# D#sus4 :||
+
+# Chorus
+||: A#sus4 Fm | F# G# | A#sus4 Fm | G# F# :||

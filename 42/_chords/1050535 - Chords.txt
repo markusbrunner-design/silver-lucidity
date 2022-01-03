@@ -1,0 +1,18 @@
+# Parts
+A = Verse I
+B = Chorus I
+C = Verse II
+D = Chorus II
+E = Verse III
+F = Guitar-Solo
+G = Bridge (perhaps only a few words or humming)
+H = Chorus III
+
+# Verse
+Em-Penta
+
+# Chorus
+||: Em F# G Am Bm :||
+
+# Bridge
+Em-Penta
