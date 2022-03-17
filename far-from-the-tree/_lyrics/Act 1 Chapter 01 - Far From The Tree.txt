@@ -10,8 +10,8 @@ Guitar-Lead Outro: Markus Brunner
 Bass: Rob Glass
 Drums: Chris Bouchard
 Vocals Angel: Martin Landolf
-Engineering-Mixing: Markus Brunner & Paul
-Engineering-Mastering: Markus Brunner & Paul
+Engineering-Mixing: Markus Brunner
+Engineering-Mastering: Markus Brunner
 ========================================================
 
 I fell down to earth

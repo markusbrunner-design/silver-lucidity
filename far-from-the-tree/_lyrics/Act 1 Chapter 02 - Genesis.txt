@@ -6,8 +6,7 @@ Songwriting-Lyrics: Gal Hornstein
 Songwriting: Markus Brunner
 Guitars: Markus Brunner
 Guitar-Lead: Markus Brunner
-Keyboards: Geoffrey Cook
-Bass: Rob Glass
+Bass: Markus Brunner
 Drums: Chris Bouchard
 Vocals Angel: Martin Landolf
 Engineering-Mixing: Markus Brunner

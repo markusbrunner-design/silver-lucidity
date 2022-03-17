@@ -1,0 +1,14 @@
+# Parts
+A = Chorus
+B = Post-Chorus
+C = Verse
+
+# Chorus
+||: a d[h]e g' e d | a d[h]e g' e d | a d[h]e g' e d | c c h h a :||
+
+# Post-Chorus
+| a d[h]e g' e d | a' d[h]e | g' e d | a' d[h]e g' e d | a' a'  a' a'  h' h'  g' g'  g' a' |
+
+# Verse
+| d d  d d  d d  d d  d d d d | e e  e e  e e  e e  e e e e |
+| d d  d d  d d  d d  d d d d | e e  e e  c c  c c  h   h   |

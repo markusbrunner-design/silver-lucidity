@@ -1,0 +1,14 @@
+# Parts
+A = Pre-Verse
+B = Verse
+C = Chorus
+D = Solo
+E = Bridge
+
+# Chords
+## All but solo
+Capo 4
+A7 E E7
+
+## Solo
+Am C Em

@@ -8,6 +8,7 @@ Guitars: Markus Brunner
 Guitar-Lead: Markus Brunner
 Bass: Philippe Pansard
 Drums: Brian Henry
+Drums Outro: Chris Bouchard
 Vocals Angel: Martin Landolf
 Engineering-Mixing: Markus Brunner
 Engineering-Mastering: Markus Brunner

@@ -1,38 +1,123 @@
-# Markers
-1 = 8/8
-2 = 4/8
-3 = 8/8
+Silver Lucidity - Northern Star
 
-# Parts
-A = Intro == Chorus Pt.2
-B = Verse
-C = Pre-Chorus / Transition
-D = Chorus Pt.1
-E = Chorus Pt.2
+<Guitar Capo 3, 4/4, 257bpm>
 
-# Verse
-Arpeggios
-E5 - D5 - C5maj7 - D5
+Am F E
+Am F E
+Am F E
+Am G Em C
 
-# Pre-Chorus / Transition
-| E5/B | D5/A |
-| E5/B | C5/G |
-| E5/B | D5/A |
-       
-# Chorus Pt.1
-||: 
-E5/B - e | 
-D5/A - d | 
-C5/G - c# | 
-D5/A - d c# a g# e d#
-:||
+Am F E
+When you feel that life is bruising
+Am F E
+Cuts you through and scrapes
+Am F E
+When you see you're only loosing
+Am G Em C
+And there's no escape
+Em
+There's a place that you can go to 
+Am7
+Place that keeps you safe
+Dm
+Where the words said swirl like potions
+C Em
+Through your heart and brain
 
-# Chorus Pt.2 & Intro
-E5/B - e |
-E5/B - e | 
-D5/A - d |
-D5/A - d | 
-C5/G - c# | 
-C5/G - c# |
-D5/A - d |
-D5/A - C5/G
+Am F E
+Am F E
+Am F E
+Am G Em C
+
+Am F E
+And although you're man of mission
+Am F E
+Man of aims and goals
+Am F E
+Being there sets free your spirit
+Am G Em C
+Helps you break your mold
+Em
+Kneeling in this place of worship
+Am7
+Clears just who you are
+Dm
+Nude as newborn, bare and scared as a
+C Em
+Lonely fallen star
+
+Am
+Clears just who you are
+Em
+Nude as newborn
+G
+Bare and scared as
+C Em
+Lonely fallen star
+
+Am F E
+Am F E
+Am F E
+Am G Em C
+
+F-Barré G-Barré
+When you're feeling cold and empty
+Dm C
+When you long your home
+F-Barré G-Barré
+When as far as the horizon
+Dm Em
+You see only storms
+F-Barré G-Barré
+There's a place that might just help you
+Dm C
+To regain your faith
+F-Barré G-Barré
+Storms might blow, but you will grow
+
+< 1/4 break !!! >
+
+Cm Em C Em
+And become a saint
+
+Am F E
+Am F E
+Am F E
+Am G Em C
+
+Am F E
+And although you're no believer
+Am F E
+Not a man of god
+Am F E
+You can also feel more holy 
+Am G Em C
+Whole and less a fraud
+Em
+Kneeling in this place of worship
+Am7
+Clears up who you are
+Dm
+Nude as newborn, bright and shiny
+C Em
+As the northern star
+
+Am
+Clears up who you are
+Em
+Nude as newborn
+G
+Bright and shiny
+C Em
+As the northern star
+
+Am
+Clears up who you are
+Em
+Nude as newborn
+G
+Bright and shiny
+C Em
+As the northern star
+
+||: Am | Em | G | C Em :||

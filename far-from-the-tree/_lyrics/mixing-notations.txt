@@ -2,21 +2,71 @@
 
 Prologue => https://www.kompoz.com/music/collaboration/1117162
 ========================================================
+20220126
+Kim:
+Der 163 Hz-Ton am Anfang ist sehr nervig, möglicherweise weil er zu schmalbandig ist. Vielleicht kannst du mit Grain Delay ein paar Oberwellen hinzufügen und per EQ bei 163 Hz ein wenig reduzieren. Der Sprecher könnte noch etwas Reverb vertragen, klingt für meinen Geschmack zu trocken. Das würde auch den Traumwelt-Effekt erhöhen. Das Lagerfeuer und die Flöte sind perfekt. Gute Arbeit!
 
+20220127
+Markus:
+* Gott ist zu laut
+* Sprecher am Ende mit Hall
+* Sprecher am Ende ein wenig mehr Höhen
+
+20220130
+Bettina:
+👍
+Markus:
+👍
 ========================================================
 
 Chapter 01: Far From the Tree => https://www.kompoz.com/music/collaboration/1114845
 ========================================================
+20220126
+Bettina:
+Gesang ist top👍
+Sologitarre find ich ein wenig zu laut. 
+Und der Bass hört sich bei mir, wie gesagt (nur in einem Bereich), bissle schruppig an, könnte aber auch am Handy liegen.
+Markus:
+* zu dumpf
+* Solo zu laut
 
+20220130
+Bettina:
+* Ich find ihn jetzt gut! Dachte ich hab einen Holperer gehört, war aber nicht so beim 2. Und 3. Hören. 👌
+Markus
+* ab und zu zu grelle Sibilanten (Zisch-Laute): manuell nachschärfen
+
+20220227
+* Sibilianten überarbeitet - klingt jetzt viel englischer!
+Bettina:
+👍
+Markus:
+👍
 ========================================================
 
 Chapter 02: Genesis => https://www.kompoz.com/music/collaboration/1112904
 ========================================================
+20220127
+Bettina:
+* Die Stimme ist zu laut für die Musik
+* Ich empfinde das Lied unrund. Auf den 1.Blick oder Zuhören, klingt es, dass der Sänger was eingesungen hat ohne auf die Melodie zu achten. Es hört sich an, dass  der Sänger gesungen hat und man lässt Musik dazu laufen. Ist das von dir so gewollt? Lg
 
+20220130
+Markus:
+* ab und zu zu grelle Sibilanten (Zisch-Laute): manuell nachschärfen
+
+20220301
+Bettina:
+* finde es viel viel besser und sehr gut!
+👍
+Markus:
+* bassiger abgerundeterer Mix - viel viel besser
+👍
 ========================================================
 
 Chapter 03: BS PR => https://www.kompoz.com/music/collaboration/1114658
 ========================================================
+20210803
 Bettina:
 * Meiner Meinung nach ist das Gitarrensolo bei ca. 5:30 etwas zu laut. 
 * Kannst du den Base Drums bisschen mehr Volumen geben. Weiss nicht, wie ich es beschreiben soll. Hört sich bisschen dünn an. Von Anfang an. 
@@ -24,26 +74,107 @@ Bettina:
 Markus:
 * Solo ein wenig zu laut
 * Bass-Einstieg 2:16 zu laut
+
+20220131
+Bettina:
+* Ich hab ja schon damals geschrieben, wegen den Bass Drums. Würde sie noch bissle voller/kräftiger machen. 
+Gesang bissle leiser. An manchen Stellen kommt mir vor, dass der Gesang kleiner Holperer hat. 
+Muss aber nochmal hören. Wenn ich mir es nicht einbilde🙈Könnte sowas vom mischen kommen? 
+* Huhu, wegen den Holperer😉 ich bin mir nicht sicher, hör dur bitte mal die 
+Stellen ca 0:43/0:44,0:51 0:53, 2:09/2:13, 2::22,2:36
+Es könnte auch sein, dass es der Griffwechsel der Gitarre ist oder der Hall seiner 
+Stimme🤷🏻‍♀️🙈🤔 Hör einfach, ohne grossen Wert von mir😉
+
+20220303
+* Bass Drum lauter
+* Holperer => Gesangsunschärfen nachgeschärft
+* weniger Compression, dadurch auch Stimme leiser
+Bettina:
+* Hi🤣ich sag nur:👍🤘😎, leider gibt es keinen Headbanger😉
+👍
+Markus:
+* noch besser ;-) - aber eventuell sollte er noch etwas "runder" gemacht werden 
+	von EQs und Pannings der Instrumente
 ========================================================
 
 Chapter 04: Daddy Issues => https://www.kompoz.com/music/collaboration/1113055
 ========================================================
+20220207
+Bettina:
+* adjuuuuuuuuuuuuuust 2:05 muss kürzer sein oder leiser werden
+Markus:
+* love it ;-)
 
+20220304
+* adjuuuust optimiert
+* andere Stellen, die zu lange waren optimiert
+* Sibilianten alle manuell nachjustiert
+* Compression Stimme
+* Stimme am Ende leiser
+* weniger Compression
+* EQ-Anpassungen Master-Spur
+Bettina:
+* Ist gut geworden. 😊 Hast wirklich gut hinbekommen, vor allem das adjuuuuust. 
+Die Melodie find ich sehr gut, ich persönlich habe mit manchen Stellen seines Gesanges meine Probleme, ist aber totale Geschmackssache. Manche Passagen sind voll super und toll gesungen, manche weniger.
+👍
+Markus:
+* to check - vielleicht Stimme zu laut?
 ========================================================
 
 Chapter 05: Rambling => https://www.kompoz.com/music/collaboration/1113140
 ========================================================
+20220209
+Bettina:
+* Das Klavier könnte lauter sein, durch den dramatischen Gesang geht es bisschen unter. 😉
+Markus:
+* love it ;-)
 
+20220308
+* Klavier lauter
+* Stimme optimiert (Hall, Compressor)
+* Lautstärken optimiert
+* fade-out optimiert
+Bettina:
+* to check
+Markus:
+* to check
 ========================================================
 
 Chapter 06: How to Fall => https://www.kompoz.com/music/collaboration/1116199
 ========================================================
+20220210
+Markus:
+* some vocal adjustments? 
+* mix against reference track (vocals, drums, guitars)
+* guitar chorus and verse übergänge zu krass - vor allem der erste
 
+20220309
+* compressor and levels vocals
+* bass fixes timing
+* EQing and levels guitar
+Bettina:
+* Ich find es so gut und du?
+👍
+Markus:
+* to check
 ========================================================
 
 Chapter 07: Love the Sins => https://www.kompoz.com/music/collaboration/1116298
 ========================================================
+20220214
+Bettina:
+* Morgen, hast du schon mal ausprobiert, wie es sich am Anfang bis ca. 1:45 ohne Schlagzeug anhört? Es kommt später eh ein/der trashige Teil. Das Schlagzeug nimmt am Anfang viel Raum ein. Vermute, dass das "wirre, komplexe" so willst.....
+Markus:
+* love it ;-)
 
+20220316
+* Bass am Anfang entfernt
+* Bass im zweiten Verse nochmal mehr an das Drum angenähert
+* minimal EQ-Anpassung der Stimme
+Bettina:
+* to check
+Markus:
+* to check
 ========================================================
 
 Chapter 08: Nicknames => https://www.kompoz.com/music/collaboration/1115011
@@ -53,78 +184,172 @@ Chapter 08: Nicknames => https://www.kompoz.com/music/collaboration/1115011
 
 Chapter 09: Soundproofed => https://www.kompoz.com/music/collaboration/1116197
 ========================================================
-
+20211109.2
+Bettina:
+* to check
+Markus:
+* still love this mix ;-)
 ========================================================
 
 Chapter 10: Anger Issues => https://www.kompoz.com/music/collaboration/1116192
 ========================================================
-
+20220218
+Bettina:
+* to check
+Markus:
+* love it
+* wenn dann sind immer noch die 3-Stimme-Chöre ein wenig zu dumpf
+=> this mix released as single 20220311
 ========================================================
 
 # Act 2
 
 Interlude => https://www.kompoz.com/music/collaboration/1045511
 ========================================================
-
+20220218
+Bettina:
+* Das Interlude ist gut
+👍
+Markus:
+* love it!
 ========================================================
 
 Prelude => https://www.kompoz.com/music/collaboration/1045511
 ========================================================
-
+20220218
+Bettina:
+* to check
+Markus:
+* love it!
 ========================================================
 
 Chapter 11: Walls => https://www.kompoz.com/music/collaboration/1113158
 ========================================================
-
+20220218
+Calderon:
+* I like Version 1 better! Has a really good feel and sound to it.
+20220220
+Calderon:
+* to check
+Gal:
+* to check
+Markus:
+* now I think the compression and loudness is right
+Bettina: 
+* to check
 ========================================================
 
 Chapter 12: Songs of Seas and Sands => https://www.kompoz.com/music/collaboration/1115885
 ========================================================
+20211114
+Markus:
 * overcompressed
 * not wide/full enough in the mix
+
+20220220
+Bettina:
+* to check
+Markus:
+* love it ;-)
 ========================================================
 
 Chapter 13: Love the Sinners => https://www.kompoz.com/music/collaboration/1115878
 ========================================================
+20220225
+Bettina:
+* to check
+Markus:
+* love it ;-)
+* perhaps drums a bit too loud
 
+20220317
+* reduced compression
+* reduced bass and drums and main vocal volume
+Bettina:
+* to check
+Markus:
+* love it ;-)
+👍
 ========================================================
 
 Chapter 14: A Part Of The Herd => https://www.kompoz.com/music/collaboration/1113162
 ========================================================
-
+20220217
+Bettina:
+* Das Auslaufen find ich sehr gut am Schluss👍
+Markus:
+* Letzte Version ist ziemlich gut - bin mir beim Songende aber noch nicht sicher
 ========================================================
 
 Chapter 15: Northern Star => https://www.kompoz.com/music/collaboration/1115881
 ========================================================
-
+...to be completed...
 ========================================================
 
 Chapter 16: The Wind of Change => https://www.kompoz.com/music/collaboration/1115883
 ========================================================
-
+20220226
+Bettina:
+* to check
+Markus:
+* to check - war glaube ich ganz gut, aber muss ich im Detail anhören
+* Bass melodyne
 ========================================================
 
-Chapter 17: Stay Free => https://www.kompoz.com/music/collaboration/1115882
+Chapter 17: Fly => https://www.kompoz.com/music/collaboration/1116183
+========================================================
+20220227
+Bettina:
+* Den finde ich gut wie er ist 😉
+Markus:
+* love ;-)
+* der Anfang ist ein wenig matschig - dumpf
+* check loudness becaus -8,0db LUFSi regarding tracks around it! 
+	=> Schock nach "Wind Of Change" aber eigentlich sinnhaftig richtig und identisch von db zu Before The Edge
 ========================================================
 
+Chapter 18: Before the Edge => https://www.kompoz.com/music/collaboration/1116191
+========================================================
+20220215
+Bettina:
+* prima
+Markus:
+* second iteration ;-) - not perfect
+* remove high-eq in drums in intro on some spots?
+* fine-tune start and end fade-out
+* drums etc. per EQ in ein paar Bereichen lauter ab Solo-Start - das muss fetzen!
+* vocals at start too loud
+20220227
+Bettina:
+* to check
+Markus:
+* vocals intro: perfekt
+* drums-eq im intro: perfekt
+* fade-in: perfekt
+* fade-out: perfekt
+* vocals:  Zischlaute - Sibilanten könnten noch über melodyne optimiert werden
 ========================================================
 
-Chapter 18: Fly => https://www.kompoz.com/music/collaboration/1116183
+Chapter 19: The Rising Phoenix => https://www.kompoz.com/music/collaboration/1127201
+========================================================
+20220227
+Bettina:
+* Finde die Stimme am Anfang, ist doch Skarlund, zu mächtig bzw.ein bisschen zu laut im Vergleich zum Rest. Das ist ansonsten alles in sich stimmig.
+* Ja, es klingt super. Jedoch da er so kräftig und mächtig ist, nimmt er den ganzen Platz ein und das andere geht leider bissle unter, was schade wäre. Nur ein bisschen leiser und es wäre perfekt. 
+Markus:
+* love it ;-)
+* crackling is not removable any more - done by EQ
+* sibilants already optimized via melodyne
 ========================================================
 
+Chapter 20: Far From the Tree (Revised) => https://www.kompoz.com/music/collaboration/1116005
 ========================================================
-
-Chapter 19: Before the Edge => https://www.kompoz.com/music/collaboration/1116191
-========================================================
-
-========================================================
-
-Chapter 20: The Rising Phoenix => https://www.kompoz.com/music/collaboration/1127201
-========================================================
-
-========================================================
-
-Chapter 21: Far From the Tree (Revised) => https://www.kompoz.com/music/collaboration/1116005
-========================================================
-
+20220227
+Bettina:
+* to check
+Markus:
+* nice
+* first word of myself is too loud => fade-in
+* Tarjei is too loud in front of solo-start or solo louder
+* loudness Martin - a bit less
 ========================================================

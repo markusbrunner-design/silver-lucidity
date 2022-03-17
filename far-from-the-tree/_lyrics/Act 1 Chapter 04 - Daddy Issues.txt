@@ -6,7 +6,7 @@ Songwriting-Lyrics: Gal Hornstein
 Songwriting: Markus Brunner
 Guitars: Markus Brunner
 Guitar-Lead: Markus Brunner
-Guitar-Lead: ???
+Guitar-Lead: WillaWay
 Keys: Geoffrey Cook
 Bass: Daniel Swain
 Drums: Chris Bouchard
@@ -15,9 +15,6 @@ Engineering-Mixing: Markus Brunner
 Engineering-Mastering: Markus Brunner
 ========================================================
 
-(sung by the Angel)
-
-Verse I - 0:32
 When my dad created summer
 I created fall to warn you
 Just how dark and cold
@@ -27,7 +24,6 @@ Yet I urge you, think again
 Is my dad is just the one
 That you should fan
 
-Chorus I - 0:59 
 You have called me many names
 You accused and charged and claimed
 And I understand just where
@@ -37,7 +33,6 @@ And I don't feel half ashamed
 Since it's me that good old dad
 Kicked out from home
 
-Verse II - 1:24
 When my dad created winter
 I created spring to warn you
 Just how hard and hot
@@ -47,7 +42,6 @@ Yet I say you surely must
 Ask yourselves is your belief
 Is true and just
 
-Verse III - 1:49
 When my dad created laughter
 I created tears to warn you
 Just how merciless
@@ -57,7 +51,6 @@ Yet again you surely must
 Understand you have to grow up
 And adjust
 
-Chorus II - 2:16
 You have called me many names
 You accused and charged and claimed
 And I understand just where
@@ -67,7 +60,6 @@ And I don't feel half ashamed
 Cause it's me that good old dad
 Kicked out from home
 
-Verse VI - 2:40
 When my dad created living
 I created death to show you 
 Just how ignorant
@@ -77,9 +69,6 @@ But I won't leave you alone
 Not before you see how you are
 All dead wrong
 
-SOLO - 3:05
-
-Chorus III - 3:33
 You have called me many names
 You've tormented and you shamed
 And I understand just what
@@ -89,7 +78,6 @@ That all mighty in which name
 You have gone to wars and lost
 All human form
 
-Chorus VI - 3:57
 You have called me many names
 You accused and charged and claimed
 And I understand just where
