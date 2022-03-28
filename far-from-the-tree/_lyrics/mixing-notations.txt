@@ -278,6 +278,8 @@ Chapter 14: A Part Of The Herd => https://www.kompoz.com/music/collaboration/111
 Bettina:
 * Das Auslaufen find ich sehr gut am Schluss👍
 Markus:
+* 0:25 Sibilant viel zu laut
+* Sibilanten nochmal checken - teilweise viel zu laut
 * Letzte Version ist ziemlich gut - bin mir beim Songende aber noch nicht sicher
 ========================================================
 
@@ -304,7 +306,7 @@ Bettina:
 Markus:
 * love ;-)
 * der Anfang ist ein wenig matschig - dumpf
-* check loudness becaus -8,0db LUFSi regarding tracks around it! 
+* check loudness because -8,0db LUFSi regarding tracks around it! 
 	=> Schock nach "Wind Of Change" aber eigentlich sinnhaftig richtig und identisch von db zu Before The Edge
 ========================================================
 
@@ -340,6 +342,15 @@ Markus:
 * love it ;-)
 * crackling is not removable any more - done by EQ
 * sibilants already optimized via melodyne
+
+20220328
+* reduced vocal volumes
+* a bit more high-eq for vocals
+Bettina:
+* to check
+Markus
+* nice
+👍
 ========================================================
 
 Chapter 20: Far From the Tree (Revised) => https://www.kompoz.com/music/collaboration/1116005
