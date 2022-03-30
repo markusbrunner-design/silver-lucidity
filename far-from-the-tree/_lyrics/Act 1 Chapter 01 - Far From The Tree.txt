@@ -14,6 +14,7 @@ Engineering-Mixing: Markus Brunner
 Engineering-Mastering: Markus Brunner
 ========================================================
 
+[Angel]
 I fell down to earth
 It felt like forever
 I fell to the ground
@@ -28,7 +29,7 @@ Far from my home
 Far from my place
 And my true airborne form
 Far from my crib
-Far from my creed
+And far from my creed
 Far from deserving
 The sentence received
 
@@ -64,6 +65,7 @@ Far from my home
 Far from my place
 And my true airborne form
 Far from my crib
-Far from my creed
+And far from my creed
 Far from deserving
 The sentence received
+Now

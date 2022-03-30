@@ -10,8 +10,6 @@ Engineering-Mixing: Markus Brunner
 Engineering-Mastering: Markus Brunner
 ========================================================
 
-(spoken by "Narrator" & "God")
-
 [Narrator]
 Damn
 Can't sleep again
@@ -23,7 +21,7 @@ Yes
 
 [Narrator]
 Good
-Place me in the American West, highplanes
+Ah, Place me in the American West, highplanes
 Ah, maybe a nice campfire
 And a, I don't know, a flute of some type
 
@@ -42,4 +40,4 @@ Not necessarily in that order
 And since he was quite a narcissist as well 
 And thought so highly of himself
 When faced with a reality check
-Well you can imagine it was all down hill from there
+Well, you can imagine it was all down hill from there
