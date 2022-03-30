@@ -6,16 +6,14 @@ Songwriting-Lyrics: Gal Hornstein
 Songwriting: Markus Brunner
 Guitars: Markus Brunner
 Guitar-Lead: Jorge Paulo
-Bass: Rob Glass
+Bass: Markus Brunner
 Drums: Chris Bouchard
 Vocals God: Tarjei Skarlund
 Engineering-Mixing: Markus Brunner
 Engineering-Mastering: Markus Brunner
 ========================================================
 
-(sung by the God)
-
-Verse I - 0:17
+[God]
 You were never
 A strong believer
 In my foolish fairytales
@@ -24,34 +22,30 @@ High achievers
 Men of god who never
 Lost or failed
 
-Chorus I - 0:39
 Don't think for a minute
-That you are so different
+That you're so different
 From all of the preachers
 And all of the priests
-You might say they are all
+You might say they're all
 Just biblical salesmen
 But you are the same
 With a bestial twist
 
-Pre-Chorus I - 1:03
-I don't like the dirty nicknames
+Don't like the dirty nicknames
 People coined for son of mine
 But I get why thus they called you
 Why these nicks just suit you
 Rather fine
 
-Chorus II - 1:25
 Don't think for a minute
-That you are so different
+That you're so different
 From all of the preachers
 And all of the priests
-You might say they are all
+You might say they're all
 Just biblical salesmen
 But you are the same
 With a bestial twist
 
-Verse II - 1:49
 I won't say that
 I'm not worried
 I won't say
@@ -61,27 +55,22 @@ Bedtime stories
 Life can never
 Have a happy end
 
-Bridge - 2:11
 And I know your time gets wasted
-Is it crime I waste your time
-Is it crime I steal your moments
+It's a crime I waste your time
+It's a crime I steal your moments
 I just want to make you fine
 
-[Guitar-Solo] - 2:22-2:34
-
-Pre-Chorus II - 2:33
 I don't like the dirty nicknames
 People coined for son of mine
 But I get why thus they called you
 Why these nicks just suit you
 Rather fine
 
-Chorus III - 2:56
 Don't think for a minute
-That you are so different
+That you're so different
 From all of the preachers
 And all of the priests
-You might say they are all
+You might say they're all
 Just biblical salesmen
 But you are the same
 With a bestial twist
