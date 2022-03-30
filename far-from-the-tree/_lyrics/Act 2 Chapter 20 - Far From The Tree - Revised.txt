@@ -12,16 +12,13 @@ Drums: Chris Bouchard
 Vocals Angel: Martin Landolf
 Vocals God: Tarjei Skarlund
 Vocals Brother Jesus: Markus Brunner
-Vocals Holy Spirit: Helen
+Vocals Holy Spirit: Helen Fay
 Vocals Holy Spirit (add): Renske
 Engineering-Mixing: Markus Brunner
 Engineering-Mastering: Markus Brunner
 ========================================================
 
-(sung by "God" "Brother Jesus" "The Holy Spirit" & "The Angel")
-
-[Brother Jesus] 
-Verse I - 0:21
+[Brother Jesus]
 You fell down to earth
 That felt like forever
 You fell to the ground
@@ -31,8 +28,7 @@ No one was your savior
 You fell down so hard
 And so far from the tree
 
-["God" "Brother Jesus" & "The Holy Spirit"]
-Chorus - 0:50
+[God, Brother Jesus, The Holy Spirit, Holy Spirit (add)]
 Far from the tree
 Far from your home
 Far from your place
@@ -43,21 +39,18 @@ Far from deserving
 The sentence received
 
 [God]
-Verse II.1 - 1:28
 Far from the tree
 And my heavenly rage
 You found up your way
 And the key to your cage
 
 [Brother Jesus]
-Verse II.2 - 1:42
 The key to your cell
 And the key to your shackles 
 The key to break free
 From God's anger and hackles
 
-["God" "Brother Jesus" & "The Holy Spirit"]
-Chorus - 1:57
+[God, Brother Jesus, The Holy Spirit, Holy Spirit (add)]
 Far from the tree
 Far from your home
 Far from your place
@@ -67,8 +60,7 @@ Far from your creed
 Far from deserving
 The sentence received
 
-["God"]
-Bridge - 2:26 (2:41 vocals, 3:09 guitar-solo)
+[God]
 You were bound to leave
 Your home in the skies
 You felt sorrow and grief
@@ -78,8 +70,7 @@ For all I have done
 I love you my angel
 I love you my son
 
-[The Angel] (other lyrics)
-Chorus - 3:23
+[Angel]
 Far from the tree 
 And it's poisonous fruits
 I sowed all my seeds
@@ -87,15 +78,4 @@ And I planted my roots
 I thank you dear father
 For cutting me loose
 For now I can fly
-And I now know the truth
-
-["God" "Brother Jesus" & "The Holy Spirit"]
-Chorus - 3:23
-Far from the tree
-Far from your home
-Far from your place
-And your true airborne form
-Far from your crib
-Far from your creed
-Far from deserving
-The sentence received
+And now I know the truth
