@@ -13,8 +13,7 @@ Engineering-Mixing: Markus Brunner
 Engineering-Mastering: Markus Brunner
 ========================================================
 
-(sung by Brother Jesus)
-
+[Brother Jesus]
 When you feel that life is bruising
 Cuts you through and scrapes
 When you see you're only loosing
@@ -69,3 +68,5 @@ Clears up who you are
 Nude as newborn
 Bright and Shiny
 As the northern star
+
+Northern star
