@@ -15,10 +15,11 @@ Engineering-Mixing: Markus Brunner
 Engineering-Mastering: Markus Brunner
 ========================================================
 
+[Angel]
 When my dad created summer
 I created fall to warn you
 Just how dark and cold
-Dad's winter's going to be
+Dad's winter's gonna be
 And I know that he's your man
 Yet I urge you, think again
 Is my dad is just the one
@@ -27,7 +28,7 @@ That you should fan
 You have called me many names
 You accused and charged and claimed
 And I understand just where
-You're coming from
+You are comin' from
 But just know I'm not to blame
 And I don't feel half ashamed
 Since it's me that good old dad
@@ -36,10 +37,10 @@ Kicked out from home
 When my dad created winter
 I created spring to warn you
 Just how hard and hot
-Dad's summer's going to be
+Dad's summer's gonna be
 And I know in him you trust
 Yet I say you surely must
-Ask yourselves is your belief
+Ask yourselves, is your belief
 Is true and just
 
 When my dad created laughter
@@ -54,7 +55,7 @@ And adjust
 You have called me many names
 You accused and charged and claimed
 And I understand just where
-You're coming from
+You are comin' from
 But just know I'm not to blame
 And I don't feel half ashamed
 Cause it's me that good old dad
@@ -81,7 +82,7 @@ All human form
 You have called me many names
 You accused and charged and claimed
 And I understand just where
-You're coming from
+You are comin' from
 But just know I'm not to blame
 And I don't feel half ashamed
 And it's me that good old God
