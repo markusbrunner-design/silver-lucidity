@@ -14,11 +14,7 @@ Engineering-Mixing: Markus Brunner
 Engineering-Mastering: Markus Brunner
 ========================================================
 
-(sung by the Angel)
-
-Kapodaster 3rd fret => written Am = Cm
-
-Verse I - 0:09 (Am Em C G Am Em C C)
+[Angel]
 I wish not to fear
 I wish I could near
 Everyone else
@@ -27,24 +23,24 @@ Someone who can blend
 A part of the herd
 A part of the herd
 
-Pre Chorus - 0:35 (Am Em G C Em7 Am Em C)
 It's not easy to be
 A stranger like me 
 To make myself smile
-All that while I feel vile
+All that while, I feel vile
+I feel vile
 
-Chorus - 0:52 (Dm C Am Em Dm C Em7 Em7 Dm C Em7 Em7)
 It's not easy to keep
 On laughing when deep
 Inside me
 I'm freaked
 All that while
-This is not easy
+It's not easy
 I'm scared and I'm freezing
-I have no idea how can I carry on
-for long
+I have no idea
+How can I
+Carry on
+For long
 
-Verse II - 1:20 (Am Em C G Am Em C C)
 I wish not to care
 How everyone stare
 How everyone dare
@@ -52,31 +48,25 @@ Is anyone there
 Does anyone care
 How I'm scared
 
-Pre Chorus - 1:39 (Am Em G C Am Em C)
 It's not easy to be
 A stranger like me
 To make myself smile
-All that while  
+All that while, I feel vile
 I feel vile
 
-Chorus 1:55 (Dm C Am Em Dm C Em7 Em7 Dm C Em7 Em7)
 It's not easy to keep
 On laughing when deep
 Inside me
 I'm freaked
-out and die
-This is not easy
+Out and die
+It's not easy
 I'm scared and I'm freezing
 I have no idea
 How can I
-carry on
+Carry on
 For long
 
-Solo - 2:22 (Dm Am C Em Dm Am C C Dm Am C Em Dm Am C Em)
-
-Outro - 2:42 (Am Em C G Am Em C C) repeat till end
-I wish
-Not to fear
+I wish not to fear
 I wish I could near
 Everyone else
 Unseen and unheard
