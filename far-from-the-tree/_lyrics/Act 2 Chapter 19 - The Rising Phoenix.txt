@@ -1,22 +1,17 @@
 Silver Lucidity - Far From The Tree
-Act 2 Chapter 20: The Rising Phoenix
+Act 2 Chapter 19: The Rising Phoenix
 
 ========================================================
 Songwriting-Lyrics: Gal Hornstein
 Songwriting: David Stahl
-Virtual Instruments: David Stahl
+All Virtual Instruments: David Stahl
 Vocals Angel: Martin Landolf
 Vacals God: Tarjei Skarlund
 Engineering-Mixing: Markus Brunner
 Engineering-Mastering: Markus Brunner
 ========================================================
 
-(sung by "God" & "The Angel")
-
-=> see demo vocals by Gal
-
 [God]
-Verse I
 You could never
 Fly to heaven
 Well, and even
@@ -26,7 +21,6 @@ Or even land there
 So I don't think
 That you should
 
-Verse II
 You will find there
 Only strangers
 Not the brothers
@@ -36,7 +30,6 @@ Don't belong there
 You'll be outcast
 You'll be stoned
 
-Chorus
 You are not
 The Rising Phoenix
 You can't burn
@@ -56,7 +49,6 @@ To the ground
 So silently
 
 [Angel]
-Bridge
 I can vividly
 Remember
 How my life
@@ -66,7 +58,6 @@ On guilty pleasures
 Now I'm left
 With flesh debris
 
-Chorus
 I must be
 The Rising Phoenix
 I must burn
@@ -85,9 +76,6 @@ I'm soaring up
 I'm a cloud again
 I'm free
 
-Chorus
-[God]
-You are not
 [Angel]
 The Rising Phoenix
 [God]
@@ -105,21 +93,3 @@ You are destined
 Down the drain
 [God]
 You're a lost raft
-[Angel]
-I am drifting
-[God]
-Off the shore and out
-[Angel]
-To sea
-[God]
-You are
-[Angel]
-Steaming fumes
-[God]
-You're
-[Angel]
-Soaring up
-I'm a cloud again
-I'm free
-Again
-I'm me
