@@ -14,21 +14,25 @@ Engineering-Mixing: Markus Brunner
 Engineering-Mastering: Markus Brunner
 ========================================================
 
+[Angel]
 I need to build a wall
 A soundproofed barrier 
 I can't live on no more
 With all the noise in there
 
+[God]
 A wall will keep you safe
 A wall will block the sounds
 The sounds that try to fill
 Your over flooded mind
 
+[Angel]
 I need someone to guard
 To shield me from those hounds
 That lurk inside my head
 And force me to the ground
 
+[God]
 A wall will keep you safe
 A wall will block the sounds
 The sounds that try to fill
@@ -36,11 +40,13 @@ Your over flooded mind
 Mind
 My mind
 
+[Angel]
 I need to find someone
 I need to have a friend
 To help me slay and kill
 The beasts inside my head 
 
+[God]
 You have to build a wall
 So you can keep your sane
 A wall to stop the sounds
@@ -48,6 +54,7 @@ And agonizing pain
 And agonizing pain
 And agonizing pain
 
+[God]
 A wall will keep you safe
 A wall will block the sounds
 The sounds that try to fill
@@ -56,16 +63,19 @@ Mind
 Mind
 Mind
 
+[Angel]
 I need to build a wall
 A soundproofed barrier 
 I can't live on no more
 With all the noise in there
 
+[Angel]
 I need someone to guard
 To shield me from those hounds
 That lurk inside my head
 And force me to the ground
 
+[Angel]
 A wall will keep me safe
 A wall will block the sounds
 The sounds that try to fill
