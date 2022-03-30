@@ -13,15 +13,16 @@ Engineering-Mixing: Markus Brunner
 Engineering-Mastering: Markus Brunner
 ========================================================
 
-(sung by the Angel)
-
+[Angel]
 Tick tock tick tock
 Take a walk
 Tick tock tick tock
 Here I come
 Tick tock tick tock
 Round the block
+Tick tock tick tock
 Mad as hell
+Tick tock tick tock
 And fully armed
 
 No one ever
@@ -39,7 +40,9 @@ Tick tock tick tock
 Here I come
 Tick tock tick tock
 Round the block
+Tick tock tick tock
 Mad as hell
+Tick tock tick tock
 And meaning harm
 
 Without proper
@@ -57,7 +60,9 @@ Tick tock tick tock
 Here I come
 Tick tock tick tock
 Round the block
+Tick tock tick tock
 Mad as hell
+Tick tock tick tock
 And fully armed
 
 I've been seeking
@@ -70,10 +75,3 @@ Or at least
 To keep restrained
 
 Tick tock tick tock
-Take a walk
-Tick tock tick tock
-Here I come
-Tick tock tick tock
-Better walk
-Better yet
-You better run
