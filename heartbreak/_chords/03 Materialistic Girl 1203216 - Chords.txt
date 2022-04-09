@@ -1,0 +1,96 @@
+# Parts
+A = Intro (no vocals)
+B = Verse I & II
+C = Chorus
+D = Verse III & IV
+E = Chorus
+F = Outro in mood of a bridge (double-time-speed!!!)
+
+# Verse
+Cadd4
+0
+1
+2
+3
+3
+
+adace
+0
+1
+2
+0
+0
+
+Dsus2
+0
+3
+2
+0
+0
+
+Dsus4
+3
+3
+2
+0
+0
+
+Dadd24
+0
+3
+4
+5
+5
+
+# Chorus
+Eadd24
+0
+4
+5
+7
+7
+
+Cadd24
+0
+1
+2
+3
+3
+
+Dadd24
+0
+3
+4
+5
+5
+
+# Outro
+Am7
+0
+1
+0
+2
+0
+
+Dsus2
+0
+3
+2
+0
+0
+
+F5
+x
+x
+x
+3
+3
+1
+
+G5
+x
+x
+x
+5
+5
+3
