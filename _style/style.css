@@ -19,14 +19,23 @@ html.overview {
 	background: black;
 	color: white;
 }
+html.tribute-compilation {
+	background: black url("../tribute-compilation/_cover/silver-lucidity_tribute-compilation_small.jpg") center center repeat;
+}
 html.star-reaper {
 	background: black url("../star-reaper/_cover/silver-lucidity_star-reaper_small.jpg") center center repeat;
+}
+html.far-from-the-tree {
+	background: black url("../far-from-the-tree/_cover/silver-lucidity_far-from-the-tree_small.jpg") center center repeat;
 }
 html.number-42{
 	background: black url("../42/_cover/silver-lucidity_42_small.jpg") center center repeat;
 }
-html.far-from-the-tree {
-	background: black url("../far-from-the-tree/_cover/silver-lucidity_far-from-the-tree_small.jpg") center center repeat;
+html.heartbreak {
+	background: black url("../heartbreak/_cover/silver-lucidity_another-heartbreak-story_small.jpg") center center repeat;
+}
+html.out-of-time {
+	background: black url("../out-of-time/_cover/silver-lucidity_out-of-time_small.jpg") center center repeat;
 }
 
 #logo {
