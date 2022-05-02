@@ -37,6 +37,9 @@ html.heartbreak {
 html.out-of-time {
 	background: black url("../out-of-time/_cover/silver-lucidity_out-of-time_small.jpg") center center repeat;
 }
+html.timewaster {
+	background: black url("../timewaster/_cover/silver-lucidity_timewaster_small.png") center center repeat;
+}
 
 #logo {
 	position: fixed;
