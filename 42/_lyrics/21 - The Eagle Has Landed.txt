@@ -1,12 +1,13 @@
 Silver Lucidity - 42
-XIIX The Eagle Has Landed
+XXI The Eagle Has Landed
 
 ========================================================
 Songwriting-Lyrics: Elizabeth Auzan
 Songwriting: Nigel Robinson
-Keys: Nigel Robinson
+Keys-Synth: Nigel Robinson
 Guitar-Lead: Markus Brunner
-Bass: Markus Brunner
+Bass: TODO
+Drums: TODO
 Percussion: Nigel Robinson
 Vocals: Cree Patterson
 Engineering-Mixing: Markus Brunner
@@ -71,7 +72,7 @@ Send men to the moon
 Have them land
 Bring them back safely
 Was the vision of JFK
-Mr. President,
+Mr. President
 You would've been so proud
 Of Apollo 11  
 We've won the race
