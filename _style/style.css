@@ -102,7 +102,6 @@ a {
 	color: lightblue;
 }
 
-
 h1, h2, h3, h4, h5 {
 	font-family: "AnonymousPro-Regular", sans-serif;
 }
@@ -129,22 +128,22 @@ h3:before, h3:after {
 	top: 0;
 }
 
-#booklet article h1.mix:before {
+#booklet article h2.mix:before {
 	content: '_mix_: ';
 }
 
-#booklet article h1.mix {
+#booklet article h2.mix {
 	font-size: 1em;
 	margin-top: 3.5em;
 	color: green;
 	margin-bottom: -1.5em;
 }
 
-#booklet article h1.missing:before {
+#booklet article h2.missing:before {
 	content: '_missing_: ';
 }
 
-#booklet article h1.missing {
+#booklet article h2.missing {
 	font-size: 1em;
 	margin-top: 3.5em;
 	color: red;
@@ -235,6 +234,10 @@ h3:before, h3:after {
 	text-align: center;
 	vertical-align: top;
 	width: 100%;
+}
+
+.marketing h2 {
+	display: none;
 }
 
 .marketing .spotify-album-view {
