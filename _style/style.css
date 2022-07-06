@@ -228,6 +228,7 @@ h3:before, h3:after {
 }
 
 .marketing {
+	background: rgba(0,0,0,0.7);
 	margin-top: 5em;
 	border-top: 3px dashed #4d4d4d;
 	padding-top: 5em;
@@ -240,13 +241,16 @@ h3:before, h3:after {
 	display: none;
 }
 
-.marketing .spotify-album-view {
-	float: right;
-	width: 70%;
-	height: 20em;
+.qr-code-hyperfollow {
+	clear: both;
 }
 
 .qr-code-hyperfollow img {
 	width: 20%;
 	height: auto;
+}
+
+.marketing .spotify-album-view {
+	float: right;
+	width: 70%;
 }
