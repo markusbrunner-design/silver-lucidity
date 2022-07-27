@@ -4,13 +4,13 @@ Act 2 Chapter 17: Fly
 Split 10 = 10%
 ========================================================
 Songwriting-Lyrics: Gal Hornstein
+Vacals God: Tarjei Skarlund
 Songwriting: Markus Brunner
 Guitars: Markus Brunner
 Guitar-Lead: Jorge Paulo
-Bass: Daniel Swain
 Keyboards: Geoffrey Cook
+Bass: Daniel Swain
 Drums: Alex Zulaika
-Vacals God: Tarjei Skarlund
 Engineering-Mixing: Markus Brunner
 Engineering-Mastering: Markus Brunner
 ========================================================

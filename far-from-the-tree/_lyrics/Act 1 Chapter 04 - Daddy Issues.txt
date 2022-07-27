@@ -4,6 +4,7 @@ Act 1 Chapter 04: Daddy Issues
 Split 11 = 9%
 ========================================================
 Songwriting-Lyrics: Gal Hornstein
+Vocals Angel: Martin Landolf
 Songwriting: Markus Brunner
 Guitars: Markus Brunner
 Guitar-Lead: Markus Brunner
@@ -11,7 +12,6 @@ Guitar-Lead: WillaWay
 Keys: Geoffrey Cook
 Bass: Daniel Swain
 Drums: Chris Bouchard
-Vocals Angel: Martin Landolf
 Engineering-Mixing: Markus Brunner
 Engineering-Mastering: Markus Brunner
 ========================================================
