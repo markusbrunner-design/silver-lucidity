@@ -3,12 +3,12 @@ Chapter 07: Nebula's Theme
 
 ========================================================
 Songwriting-Lyrics: Elizabeth Auzan
-Songwriting: Markus Brunner
-Guitars: Markus Brunner
-Basses: Markus Brunner
-Drums: Alex Zulaika
 Vocals-Male: Cree Patterson
-Vocals-Female: Samantha Frisch (Sam)
+Vocals-Female: Sam
+Songwriting: Markus Brunner
+Guitar: Markus Brunner
+Bass: Markus Brunner
+Drums: Alex Zulaika
 Engineering-Mixing: Markus Brunner
 Engineering-Mastering: Markus Brunner
 ========================================================

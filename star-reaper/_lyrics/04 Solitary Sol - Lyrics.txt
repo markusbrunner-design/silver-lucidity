@@ -3,11 +3,11 @@ Chapter 04: Solitary Sol
 
 ========================================================
 Songwriting-Lyrics: Elizabeth Auzan
-Songwriting: Markus Brunner
-Guitars: Markus Brunner
-Basses: Markus Brunner
-Percussion: Markus Brunner
 Vocals: Cree Patterson
+Songwriting: Markus Brunner
+Guitar: Markus Brunner
+Bass: Markus Brunner
+Percussion: Markus Brunner
 Engineering-Mixing: Markus Brunner
 Engineering-Mastering: Markus Brunner
 ========================================================

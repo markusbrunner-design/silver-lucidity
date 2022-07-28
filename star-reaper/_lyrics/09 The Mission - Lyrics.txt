@@ -3,11 +3,11 @@ Chapter 09: The Mission
 
 ========================================================
 Songwriting-Lyrics: Elizabeth Auzan
-Songwriting: Markus Brunner
-Songwriting-Tool: https://hookpad.hooktheory.com/
 Vocals-Male: Cree Patterson
 Vocals-Male: Markus Brunner
 Vocals-Female: Elizabeth Auzan
+Songwriting: Markus Brunner
+Songwriting-Tool: https://hookpad.hooktheory.com/
 Engineering-Mixing: Markus Brunner
 Engineering-Mastering: Markus Brunner
 ========================================================

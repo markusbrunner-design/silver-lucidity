@@ -3,15 +3,15 @@ Chapter 11: On Board
 
 ========================================================
 Songwriting-Lyrics: Elizabeth Auzan
-Songwriting: Markus Brunner
-Guitars: Markus Brunner
-Guitar-Lead: Jorge Paulo
-Basses: Jean Lui
-Drums: Alex Zulaika
 Vocals-Male: Cree Patterson
 Vocals-Female: Elizabeth Auzan
 Vocals-Male Dr Forman: Gal Hornstein
 Vocals-Male Prof Jackson: Thomas Hines
+Songwriting: Markus Brunner
+Guitar: Markus Brunner
+Guitar-Lead: Jorge Paulo
+Bass: Jean Lui
+Drums: Alex Zulaika
 Engineering-Mixing: Markus Brunner
 Engineering-Mastering: Markus Brunner
 ========================================================

@@ -3,11 +3,11 @@ Chapter 05: Infinity And Beyond
 
 ========================================================
 Songwriting-Lyrics: Elizabeth Auzan
-Songwriting: Markus Brunner
-Guitars: Markus Brunner
-Basses: Markus Brunner
-Drums: Alex Zulaika
 Vocals: Cree Patterson
+Songwriting: Markus Brunner
+Guitar: Markus Brunner
+Bass: Markus Brunner
+Drums: Alex Zulaika
 Engineering-Mixing: Markus Brunner
 Engineering-Mastering: Markus Brunner
 ========================================================

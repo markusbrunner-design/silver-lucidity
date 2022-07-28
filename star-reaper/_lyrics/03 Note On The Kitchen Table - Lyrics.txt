@@ -3,12 +3,12 @@ Chapter 03: Note On The Kitchen Table
 
 ========================================================
 Songwriting-Lyrics: Elizabeth Auzan
-Songwriting: Markus Brunner
-Piano: Markus Brunner
-Guitars: Markus Brunner
-Basses: Markus Brunner
 Vocals-Sniffling: Elizabeth Auzan
 Vocals: Cree Patterson
+Songwriting: Markus Brunner
+Piano: Markus Brunner
+Guitar: Markus Brunner
+Bass: Markus Brunner
 Engineering-Mixing: Markus Brunner
 Engineering-Mastering: Markus Brunner
 ========================================================
