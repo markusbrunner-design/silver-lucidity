@@ -3,12 +3,13 @@ XXVI Where To From Here
 
 ========================================================
 Songwriting-Lyrics: Elizabeth Auzan
+Vocals: Cree Patterson
 Songwriting: Markus Brunner
-Saxophone/Guitar-Lead: TODO
+Guitar-Lead: TODO
 Piano: Markus Brunner
 Bass: TODO
 Drums: TODO
-Vocals: Cree Patterson
+Saxophone-Lead: TODO
 Engineering-Mixing: Markus Brunner
 Engineering-Mastering: Markus Brunner
 ========================================================

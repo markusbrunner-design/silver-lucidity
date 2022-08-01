@@ -3,13 +3,13 @@ XXX Y2K Bug
 
 ========================================================
 Songwriting-Lyrics: Elizabeth Auzan
+Vocals: Cree Patterson
 Songwriting: Markus Brunner
+Keys: TODO
 Guitar: Markus Brunner
 Guitar-Lead: Markus Brunner
 Bass: Philippe Pansard
-Keys: TODO
 Drums: Frederic Osuch
-Vocals: Cree Patterson
 Engineering-Mixing: Markus Brunner
 Engineering-Mastering: Markus Brunner
 ========================================================
