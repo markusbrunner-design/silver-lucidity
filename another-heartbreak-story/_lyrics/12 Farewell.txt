@@ -1,4 +1,4 @@
-Silver Lucidity - Another Heartbreak Album - Farewell Song
+Silver Lucidity - Another Heartbreak Album - Farewell
 
 ========================================================
 Songwriting-Lyrics: Elizabeth Auzan
@@ -27,7 +27,7 @@ Farewell my friend
 My time has come
 Our story must end
 Be grateful for the love we had
-Don't, don't be sad
+Don't (don't) be sad
 
 V2 
 The two of us were one 
@@ -40,17 +40,17 @@ Silently in my veins
 Discovered far too late 
 My body was in chains
 
-Bridge 
-
-Ch 
+Ch
 Farewell, my lover
 Farewell my friend
 My time has come
 Our story must end
 Be grateful for the love we had
 Please don't be sad
+Be grateful for the love we had
+Please don't be sad
 
-V3
+Outro
 I fell in love with you 
 On that very first night
 My heart it beat so fast 
@@ -60,3 +60,4 @@ The two of us were one
 We shared our hopes and fears
 No way we could have known
 It would all end in tears
+In Tears
