@@ -25,7 +25,7 @@ Neutralize
 Identify
 Neutralize
 
-Excuse me, Professor Jackson 
+Excuse me, Professor Jackson
 There are reports some aliens
 Can take on human form
 Can’t tell the difference
@@ -58,7 +58,7 @@ We have no scientific proof
 To proove or disprove these reports
 From your geological data
 It appears mammal life could exist
-Sol and Nebula 
+Sol and Nebula
 Do you have any input on this matter
 
 This is where our duty lies
@@ -85,10 +85,10 @@ We are trained to run the spacecraft
 And ensure the safety of all crew members
 I have heard only rumors
 And Nebula... Nebula
-Nice sci-fi story
+Yeah, nice sci-fi story
 Not at all credible
 Now, if you’ll excuse me
-Gotta get back to work
+I gotta get back to work
 
 Identify
 Neutralize
