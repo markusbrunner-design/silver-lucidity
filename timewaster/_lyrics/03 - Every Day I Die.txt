@@ -3,31 +3,27 @@ Silver Lucidity - Timewaster
 
 https://www.kompoz.com/music/collaboration/1153220
 
-Split X = XX%
+Split 7 = 14%
 ========================================================
 Songwriting-Lyrics: Gal Hornstein
 Vocals: Joe Elbee
-Piano: TODO
-Guitar: TODO
-Bass: TODO
-Drums: TODO
+Guitar: Markus Brunner
+Bass: Markus Brunner
+Drums: Alex Zulaika
 Engineering-Mixing: Markus Brunner
 Engineering-Mastering: Markus Brunner
 ========================================================
 
-Verse I
 Early morning, a cup of tea
-Sunny skies I still can't see
-My Life's all packed in a cardboard box
-A total shock and no hallway talks
+Sunny skies I can not see
+Life all packed in a cardboard box
+A total shock, no hallway talks
 
-Verse II
 All around me long-faced friends
 We all share the same bitter end
 Good hard workers that can barely stand
-Been hammered down to no amend
+Hammered down to no amend
 
-Chorus
 And I fear I'll never see
 Yet another tide
 Life is not a turning wheel
@@ -37,19 +33,16 @@ Heaven knows I tried
 But I wake in fear each night
 Every day I die
 
-Verse III
 All those human working bees
 All these cubic office hives
-Everyone just say I should
+Everyone just says I should
 Take it calm, that I'll survive
 
-Bridge
 But I really followed through
 And I know what fate devise
 Grasping air, that's all I do
 While I wait the long cold dive
 
-Chorus
 And I fear I'll never see
 Yet another tide
 Life is not a turning wheel
@@ -59,12 +52,11 @@ Heaven knows I tried
 Breaking into tears each night
 Every day I die
 
-Ending Chorus
 As the sun is setting fast
 Spreading darkness veil
-I can't find escaping route
+I can't find an escaping route
 From these depths of hell
 Maybe I just played it wrong
 Don't know how or why
 I will never end up dead
-Every day I die
+It's: Every day I die
