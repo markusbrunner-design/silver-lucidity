@@ -7,7 +7,8 @@ Vocals: Cree Patterson
 Songwriting: Markus Brunner
 Guitar: Markus Brunner
 Bass: Markus Brunner
-Keys: Geoffrey Cook
+Keys-Hammond: Geoffrey Cook
+Keys-Synth: Geoffrey Cook
 Drums: Alex Zulaika
 Engineering-Mixing: Markus Brunner
 Engineering-Mastering: Markus Brunner

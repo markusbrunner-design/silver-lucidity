@@ -9,7 +9,7 @@ Keys-Synth: Markus Brunner
 Keys-Synth-Bass: Pat B
 Keys-Synth-Pad: Pat B
 Guitar: Markus Brunner
-Bass: TODO
+Bass: Jean Lui
 Drums: Pat B
 Engineering-Mixing: Markus Brunner
 Engineering-Mastering: Markus Brunner

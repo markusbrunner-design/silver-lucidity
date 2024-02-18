@@ -6,7 +6,7 @@ Songwriting-Lyrics: Elizabeth Auzan
 Vocals: Cree Patterson
 Songwriting: Markus Brunner
 Guitar: Markus Brunner
-Guitar-Lead: TODO
+Guitar-Lead: Jorge Paulo
 Bass: Jean Lui
 Drums: Alex Zulaika
 Engineering-Mixing: Markus Brunner

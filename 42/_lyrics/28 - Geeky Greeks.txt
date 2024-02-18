@@ -7,8 +7,8 @@ Vocals: Cree Patterson
 Songwriting: Markus Brunner
 Guitar: Markus Brunner
 Guitar-Lead: Markus Brunner
-Bass: TODO
-Drums: TODO
+Bass: Daniel Swain
+Drums: Alex Zulaika
 Bouzouki: James Fraser
 Engineering-Mixing: Markus Brunner
 Engineering-Mastering: Markus Brunner

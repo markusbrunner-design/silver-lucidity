@@ -6,7 +6,8 @@ Songwriting-Lyrics: Elizabeth Auzan
 Vocals: Cree Patterson
 Songwriting: Markus Brunner
 Virtual Instruments: Markus Brunner
-Saxophone Alt & Bar: Engentado Beats
+Saxophone-Alt: Engentado Beats
+Saxophone-Baritone: Engentado Beats
 Engineering-Mixing: Markus Brunner
 Engineering-Mastering: Markus Brunner
 ========================================================

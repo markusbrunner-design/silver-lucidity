@@ -7,8 +7,9 @@ Vocals: Cree Patterson
 Vocals-Humming: Markus Brunner
 Songwriting: Markus Brunner
 Piano: Markus Brunner
-Bass: TODO
-Percussion: TODO
+Bass: Daniel Swain
+Guitar-Lead: Markus Weber
+Percussion: Markus Brunner
 Engineering-Mixing: Markus Brunner
 Engineering-Mastering: Markus Brunner
 ========================================================
