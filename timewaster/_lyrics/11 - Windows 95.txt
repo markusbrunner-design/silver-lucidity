@@ -3,32 +3,28 @@ Silver Lucidity - Timewaster
 
 https://www.kompoz.com/music/collaboration/1153265
 
-Split X = XX%
+Split 7 = 14%
 ========================================================
 Songwriting-Lyrics: Gal Hornstein
 Vocals: Joe Elbee
-Piano: TODO
-Guitar: TODO
-Bass: TODO
-Drums: TODO
-Engineering-Mixing: Markus Brunner
-Engineering-Mastering: Markus Brunner
+Guitar: Joe Elbee
+Bass: Joe Elbee
+Virtual-Percussion: Joe Elbee
+Engineering-Mixing: Tom Hellsten
+Engineering-Mastering: Tom Hellsten
 ========================================================
 
-Verse I
 It was 2025
 I was traveling alone
 Took the long ride out of town
 Far from you
 And far from home
 
-Verse II
 Like a superhero dressed
 All in crimson and indigo
 I was scanning with my eyes
 Everything that passed my window
 
-Chorus
 I was stunned from the world
 That I saw through my window
 All so old yet so new
@@ -39,19 +35,16 @@ At the end
 I got lost
 In the cold urban limbo
 
-Verse III
 With acoustic old guitar
 Walked the streets in endless roam
 Searched for a guiding star
 Under darkest skies of storm
 
-Verse IV
 Since I had no single clue
 How to speak the local lingo
 I was bound to be outcast
 Like a traveling nomad weirdo
 
-Chorus
 All the luxury shops
 All the fancy stretched limos
 Full of magic and charm
@@ -62,7 +55,6 @@ I got lost
 I was lost
 In the cold urban limbo
 
-Bridge
 On the streets we're all the same
 Nameless faces with no aim
 Playing in this ruthless game
@@ -72,7 +64,6 @@ Yet I feel like moments passed
 Since that day in which my dream
 Shattered like a window's glass
 
-Chorus
 All my hopes and my dreams
 Like a smashed broken window
 All the things I have longed
@@ -83,7 +74,6 @@ I got lost
 I'm so lost
 In this odd time trip limbo
 
-Outro
 So I started to walk
 Marched alone to the unknown
 I was lost

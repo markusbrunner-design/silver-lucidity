@@ -10,8 +10,8 @@ Vocals: Joe Elbee
 Guitar: Markus Brunner
 Bass: Markus Brunner
 Drums: Alex Zulaika
-Engineering-Mixing: Markus Brunner
-Engineering-Mastering: Markus Brunner
+Engineering-Mixing: Tom Hellsten
+Engineering-Mastering: Tom Hellsten
 ========================================================
 
 Early morning, a cup of tea

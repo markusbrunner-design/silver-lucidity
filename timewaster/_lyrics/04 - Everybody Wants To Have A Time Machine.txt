@@ -10,8 +10,8 @@ Vocals: Joe Elbee
 Guitar: Joe Elbee
 Bass: Joe Elbee
 Drums: Joe Elbee
-Engineering-Mixing: Markus Brunner
-Engineering-Mastering: Markus Brunner
+Engineering-Mixing: Tom Hellsten
+Engineering-Mastering: Tom Hellsten
 ========================================================
 
 I will bend the arc of time

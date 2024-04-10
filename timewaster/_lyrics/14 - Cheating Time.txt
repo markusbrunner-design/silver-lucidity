@@ -3,19 +3,18 @@ Silver Lucidity - Timewaster
 
 https://www.kompoz.com/music/collaboration/1154318
 
-Split X = XX%
+Split 8 = 12%
 ========================================================
 Songwriting-Lyrics: Gal Hornstein
 Vocals: Joe Elbee
-Piano: TODO
-Guitar: TODO
-Bass: TODO
-Drums: TODO
-Engineering-Mixing: Markus Brunner
-Engineering-Mastering: Markus Brunner
+Key-Synth: Markus Brunner
+Guitar: Joe Elbee
+Bass: Markus Brunner
+Virtual-Drums: Joe Elbee
+Engineering-Mixing: Tom Hellsten
+Engineering-Mastering: Tom Hellsten
 ========================================================
 
-Verse I
 Every single day is an enigma
 Never knowing how it's going to end
 Every day I fight away my fears and
@@ -25,7 +24,6 @@ Every single malt's my only friend
 Every single moment makes me wonder
 Will it be the last I'll get to spend
 
-Chorus
 Death awaits me
 Dark and fell
 Will it get me
@@ -35,13 +33,11 @@ A paradigm
 I am doomed
 For cheating time
 
-Verse III
 Every single day I keep believing
 That order lies within the mess
 Every single lie I keep believe in
 Truly makes it harder to confess
 
-Chorus
 Death awaits me
 Dark and fell
 Will it get me
@@ -51,7 +47,6 @@ A paradigm
 I am doomed
 For cheating time
 
-Bridge
 Every single day that I am breathing
 Leaving trails of rubbles and distress
 Every single day the grin is grimmer
@@ -61,7 +56,6 @@ Every single day is one more test
 Every single day I fear the reaper
 Reach me, catch me, cut me to the chase
 
-Chorus
 Death awaits me
 Dark and fell
 Will it get me

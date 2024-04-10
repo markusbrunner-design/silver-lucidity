@@ -3,39 +3,35 @@ Silver Lucidity - Timewaster
 
 https://www.kompoz.com/music/collaboration/1153242
 
-Split X = XX%
+Split 8 = 12%
 ========================================================
 Songwriting-Lyrics: Gal Hornstein
 Vocals: Joe Elbee
-Piano: TODO
-Guitar: TODO
-Bass: TODO
-Drums: TODO
-Engineering-Mixing: Markus Brunner
-Engineering-Mastering: Markus Brunner
+Keys-Piano: Joe Elbee
+Guitar: Joe Elbee
+Bass: Joe Elbee
+Virtual-Drums: Joe Elbee
+Engineering-Mixing: Tom Hellsten
+Engineering-Mastering: Tom Hellsten
 ========================================================
 
-Verse I
 Heavy rain
 Comes again
 It's pouring long and hard
 The rain just never seems to stall
 Just keeps to fall
 
-Verse II
 And the winds
 Storming up
 The ground is almost gone
 The rain just never stops at all
 Just keeps to fall
 
-Pre Chorus
 Now it's just too late
 Destiny is set
 There is no turning back
 From all the networks' fake
 
-Chorus
 We saw the king
 Was bare and nude
 But we really liked his tan
@@ -48,20 +44,17 @@ Or hold the rain
 Hell no
 Here comes the flood again
 
-Verse III
 We all knew
 We must pay
 For all the wrongs we've done
 The fire never seems to stop
 It won't calm down
 
-Pre Chorus
 Now it is too late
 Destiny is set
 No one can make a mend
 We're heading to the end
 
-Chorus
 We saw the king
 Was bare and nude
 But we really liked his tan
@@ -74,13 +67,11 @@ Or hold the rain
 Hell no
 Here comes the flood again
 
-Bridge
 Now it's just too late
 We lost all our faith
 Our world is crushing down
 We've burned it to the ground
 
-Chorus
 We saw the king
 Was bare and nude
 But we really liked his tan
@@ -93,7 +84,6 @@ Or hold the rain
 Hell no
 Here comes the flood again
 
-Chorus
 We saw the king
 Was bare and nude
 But we really liked his tan

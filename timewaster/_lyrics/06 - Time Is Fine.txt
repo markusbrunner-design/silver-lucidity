@@ -3,31 +3,28 @@ Silver Lucidity - Timewaster
 
 https://www.kompoz.com/music/collaboration/1155567
 
-Split X = XX%
+Split 8 = 12%
 ========================================================
 Songwriting-Lyrics: Gal Hornstein
 Vocals: Joe Elbee
-Piano: TODO
-Guitar: TODO
-Bass: TODO
-Drums: TODO
-Engineering-Mixing: Markus Brunner
-Engineering-Mastering: Markus Brunner
+Guitar: Joe Elbee
+Bass: Markus Brunner
+Drums: Alex Zulaika
+Percussion: Alex Zulaika
+Engineering-Mixing: Tom Hellsten
+Engineering-Mastering: Tom Hellsten
 ========================================================
 
-Verse I
 Our world is full of conflicts
 Our world is filled with hate
 I once thought we could mend it
 I fear we are too late
 
-Verse II
 I fear there is no future
 For humankind on Earth
 I hope we'll find salvation
 Somewhere in outer space
 
-Chorus
 I’m going on a time trip
 I'm taking my guitar
 I'll travel to the future
@@ -37,13 +34,11 @@ It's hurting me so deep
 I hope you'll understand why
 You will not join my trip
 
-Verse III
 I'm writing down these words while
 I'm on the launching pad
 The time all swirls around me
 But I am not that scared
 
-Chorus
 I’m going on a time trip
 I'm taking my guitar
 I'll travel to the future
@@ -53,7 +48,6 @@ It's hurting me so much
 I hope you'll understand why
 You're not aboard thIs launch
 
-Bridge
 I know some will say that leaving
 Is but a cowardly act
 That staying is believing
@@ -63,7 +57,6 @@ Will find this manifest
 I hope you will forgive me
 I really tried my best
 
-Chorus
 I’m going on a time trip
 I'm taking my guitar
 I'll travel to the future

@@ -3,19 +3,21 @@ Silver Lucidity - Timewaster
 
 https://www.kompoz.com/music/collaboration/1154477
 
-Split X = XX%
+Split 11 = 9%
 ========================================================
 Songwriting-Lyrics: Gal Hornstein
 Vocals: Joe Elbee
-Piano: TODO
-Guitar: TODO
-Bass: TODO
-Drums: TODO
-Engineering-Mixing: Markus Brunner
-Engineering-Mastering: Markus Brunner
+Keys-Piano: Michael Moroney
+Keys-Synth: Michael Moroney
+Guitar: Joe Elbee
+Guitar-Lead: Markus Brunner
+Bass: Markus Brunner
+Drums: Alex Zulaika
+Virtual-Strings: Michael Moroney
+Engineering-Mixing: Tom Hellsten
+Engineering-Mastering: Tom Hellsten
 ========================================================
 
-Verse I
 If you have a dream
 If you have a goal
 You can come with me
@@ -25,7 +27,6 @@ And to know it all
 Then you better crawl
 Down the rabbit hole
 
-Chorus
 If you'll take a bite
 From my bait, you might
 Come with me Tonight
@@ -35,7 +36,6 @@ You could have it all
 Now come down with me
 Through the rabbit hole
 
-Verse II
 Come and take my hand
 Careful you might roll
 All the way deep down
@@ -45,7 +45,6 @@ I won't let you fall
 I won't let you leave
 You can beg and crawl
 
-Chorus
 If you'll take a bite
 From my bait, you might
 Come with me Tonight
@@ -55,7 +54,6 @@ You could have it all
 Now come down with me
 Through the rabbit hole
 
-Bridge
 I won't charge you much
 For this trip my doll
 Maybe just your life
@@ -65,7 +63,6 @@ It's not much at all
 For a ride with me
 Through the rabbit hole
 
-Chorus
 If you'll take a bite
 From my bait, you might
 Come with me Tonight

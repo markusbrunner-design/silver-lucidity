@@ -3,19 +3,17 @@ Silver Lucidity - Timewaster
 
 https://www.kompoz.com/music/collaboration/1211452
 
-Split X = XX%
+Split 7 = 14%
 ========================================================
 Songwriting-Lyrics: WeedOn
 Vocals: Joe Elbee
-Piano: TODO
-Guitar: TODO
-Bass: TODO
-Drums: TODO
-Engineering-Mixing: Markus Brunner
-Engineering-Mastering: Markus Brunner
+Guitar: Joe Elbee
+Bass: Markus Brunner
+Virtual-Drums: Joe Elbee
+Engineering-Mixing: Tom Hellsten
+Engineering-Mastering: Tom Hellsten
 ========================================================
 
-Section 1
 Mr White knows he's right
 He has to intervene
 Ha cannot let chase your dream
@@ -23,17 +21,14 @@ You cannot have your time machine
 You can't control flow of time
 He has to hold the history line
 
-Section 2
 You cannot change the past
 You cannot make the first the last
 
-Section 3
 There is an order to the universe
 And the order will be his
 Mr White knows he's right
 To intervene before your flight
 
-Section 4
 This time daemon
 Will be scheming
 To control all your dreaming
@@ -41,11 +36,9 @@ He can't exist
 If you persist
 On changing the time events
 
-Section 5
 What is here now can only be
 From what the past has sent
 
-Section 6
 He takes delight without reveal his
 R - eversable
 A - dversable
@@ -54,11 +47,9 @@ B - oundaries
 I - mmersed
 i - n
 T - ime
+Machine
 
- - Machine
-
-Section 7
 Out of the dessert he comes
 From his time and his space he roams
 He has no home but for you
-He has a RABBIiT hole
+He has a RABBIit hole

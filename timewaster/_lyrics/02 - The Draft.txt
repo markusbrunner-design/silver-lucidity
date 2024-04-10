@@ -12,8 +12,8 @@ Guitar: Joe Elbee
 Guitar-Lead: Jorge Paulo
 Bass: Joe Elbee
 Drums: Alex Zulaika
-Engineering-Mixing: Markus Brunner
-Engineering-Mastering: Markus Brunner
+Engineering-Mixing: Tom Hellsten
+Engineering-Mastering: Tom Hellsten
 ========================================================
 
 In the first day of recruiting
