@@ -212,7 +212,7 @@ h3:before, h3:after {
 .booklet article {
 	display: flex;
 	flex-direction: column;
-	height: 633px;
+	height: 82vh;
 	overflow-y: scroll;
 	overflow-x: hidden;
 	padding: 0 1em 0 0;
