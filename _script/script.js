@@ -1,9 +1,11 @@
 $(function() {
 	function initBooklet() {
+		let vw = Math.max(document.documentElement.clientWidth || 0, window.innerWidth || 0);
+		let vh = Math.max(document.documentElement.clientHeight || 0, window.innerHeight || 0);
 		$('#booklet').removeClass('no-booklet');
 		$('#booklet').booklet({
-			width: 1024,
-			height: 700,
+			width: Math.round(vw*0.8),
+			height: Math.round(vh*0.8),
 			closed: false,
 			closedFrontTitle: "Silver Lucidity",
 			closedBackTitle: "...The End",
