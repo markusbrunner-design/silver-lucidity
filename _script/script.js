@@ -5,7 +5,7 @@ $(function() {
 		$('#booklet').removeClass('no-booklet');
 		$('#booklet').booklet({
 			width: Math.round(vw*0.8),
-			height: Math.round(vh*0.8),
+			height: Math.round(vh*0.9),
 			closed: false,
 			closedFrontTitle: "Silver Lucidity",
 			closedBackTitle: "...The End",
