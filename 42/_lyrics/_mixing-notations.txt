@@ -5,6 +5,7 @@ I The Answer's Always 42
 
 II Knights of Old
 * Martin Messner: die Stimme ein ticken mehr reverb oder ein anderes Gewürz, dass  sie nicht ganz so "live" klingt. Vll. Autotune?
+👍
 
 III JC 33 AD
 👍
@@ -13,7 +14,7 @@ IV Hope
 20240507: 
 * etwas zu bassig, auch wenn der der Hauptfokus bleiben sollte
 20240604:
-* check again
+👍
 
 V The Preacher Man Rules - Ok?
 20240507:
@@ -21,20 +22,20 @@ V The Preacher Man Rules - Ok?
 * Gesang etwas mehr Präsenz
 * insgesamt vielleicht etwas Hall zum mergen
 20240604:
-* check again
+* Stimme ein wenig unprägnant?
 
 VI What's App Doc
 20240507:
 * Gesang etwas mehr Präsenz
 * insgesamt etwas mehr Compressor und vielleicht Hall zum mergen?
 20240604:
-* check again
+👍
 
 VII Assassins' Creed
 20240507:
 * Gesang zu weit hinten / zu flach / zu viel Hall
 20240829:
-* check again
+👍
 
 VIII Remember San Francisco
 👍
@@ -43,13 +44,19 @@ IX Gotta Stop Living In The Past
 20240507:
 * Mix ist unausgeglichen - Mitten fehlen
 20240829:
-* check again
+* total flacher Mix
+* ganz anhören
+20240928-2:
+👍
 
 X The Writing Is On The Wall
 20240507:
 * Stimme minimal bassiger, minimal weniger Präsenz; zu arg right-in-the-face; restlicher Mix mega
 20240829:
-* check again
+* Stimme geht unter
+* ganz anhören
+20240928:
+👍
 
 XI Woodstock
 20240507:
@@ -58,7 +65,10 @@ XI Woodstock
 * Bass voluminöser
 * Schlagzeug stärker
 20240829:
-* check again
+* Stimme prägnanter
+* Gitarre prägnanter
+20240928-2:
+👍
 
 XII Alexa
 20240507:
@@ -66,7 +76,9 @@ XII Alexa
 * Hintergrundstimme einmal zu stark verschoben vor der Bridge => wichtig!
 * Stimme ein wenig nasser (Hall etc.)
 20240916:
-* check again
+* Schluss fadet zu schnell aus
+20240928:
+👍
 
 XIII Helen
 👍
@@ -76,14 +88,14 @@ XIV Sayonara
 * Stimme ein wenig zu nass
 * der Rest ist perfekt
 20240916:
-* check again
+👍
 
 XV Black Death
 20240507:
 * Delay in Stimme etwas weniger
 * EQ ausgleichen - Bass ist super, aber Mitte fehlt irgendwie
 20240916:
-* check again
+👍
 
 XVI Gatsby's World
 👍
@@ -94,14 +106,18 @@ XVII The Nylon Western Orchestra
 * Mitten fehlen ein wenig
 * Stimme ein mü mehr Präsenz
 20240916:
-* check again
+* Hauptstimme geht unter zu dünn
+20240928:
+👍
 
 XVIII Caveman To Barcode
 20240507:
 * Stimme minimal mehr Präsenz / Mitte
 * minimalst weniger Bass
 20240916:
-* check again
+* Stimme am Anfang zu dünn - später besser
+20240928:
+👍
 
 XIX Pandemic 19
 👍
@@ -114,21 +130,23 @@ XX Vietnam
 * Flöte ist zu laut
 * Kriegsgeräuchse sind zu laut
 20240916:
-* check again
+👍
 
 XXI The Eagle Has Landed
 20240507:
 * Stimme minimal mehr Mitte, mehr Präsenz
 * generelle Musik minimal mehr Mitten
 20240916:
-* check again
+* Stimme geht vor 1:30 unter, danach perfekt, ab 3:00 wieder zu leise
+20240928:
+👍
 
 XXII Mad Molecules
 20240507:
 * minimal zu bassig
 * Stimme etwas flach - mehr Mitten?
 20240928
-* check again
+👍
 
 XXIII Icarus
 👍
@@ -141,7 +159,7 @@ XXIV Devil's Triangle
 20240928:
 * Ende ist abgeschnitten
 20240928-2:
-* check again
+👍
 
 XXV Planet Earth's Disintegrating
 20240507:
@@ -150,7 +168,7 @@ XXV Planet Earth's Disintegrating
 * Background-Gitarre zu leise
 * Stimme zu flach - mittiger?
 20240928:
-* check again
+👍
 
 XXVI Where To From Here
 👍
@@ -160,13 +178,13 @@ XXVII The Walls
 * Link im booklet kaputt?
 * irgendwie flacher Sound, mehr Mitten, mehr Präsenz
 20240928:
-* check again
+👍
 
 XXVIII Geeky Greeks
 20240507:
 * Stimme ganz ein mü weniger Präsenz - ansonsten perfekt!
 20240928:
-* check again
+👍
 
 XXIX Black Tuesday
 👍
@@ -178,7 +196,10 @@ XXX Y2K Bug
 * Gitarre etwas zu präsent
 * Schlagzeug deutlich zu leise
 20240928:
-* check again
+* Gitarre etwas zu präsent
+* Schlagzeug deutlich zu leise
+20240928-2:
+👍
 
 XXXI All Things Great And Small
 👍
@@ -189,9 +210,11 @@ XXXII JC 1 AD
 * Cajon minimal lauter?
 * Hauptstimme ein mü mehr Präsenz/Mitte aber dann ein mü leiser
 20240928:
-* check again
+👍
 
 XXXIII Romeo And Juliet
+* Gesang zu wenig Präsenz
+20240829:
 👍
 
 XXXIV Madam I Am Adam
@@ -200,7 +223,7 @@ XXXIV Madam I Am Adam
 * evtl. Gesang ein wenig mehr Mitte, Präsenz
 * Schlagzeug mehr Höhen und Bums?
 20240928:
-* check again
+👍
 
 XXXV Good Golly, Miss Dolly
 👍
@@ -210,7 +233,9 @@ XXXVI Michael Angelo
 * Stimme zu präsent, nasal, mittig, right-in-the-face => ein wenig mehr rausnehmen und evtl. Hall
 * ansonsten perfekt
 20240928:
-* check again
+* Stimme immer noch ein wenig zu präsent
+20240829-2:
+👍
 
 XXXVII Arigato Nintendo
 👍
@@ -220,7 +245,7 @@ XXXVIII Who Killed JFK
 * Hintergrundstimmen ein wenig mehr Mitten/Präsenz, die Hauptstimme evtl. minimal Mitten dazu und dann ein wenig leiser?
 * Schlagzeug evtl. minimal weniger Präsenz, ansonsten perfekt
 20240928:
-* check again
+👍
 
 XXXIX What Is Existence
 👍
@@ -229,14 +254,16 @@ XL Enola Gay
 20240508:
 * Haupt-Stimme ein wenig zu unterpräsent => mehr Mitten, Präsenz? - Refrain ist schon echt gut
 20240928:
-* check again
+👍
 
 XLI Singularity
 20240508:
 * Stimme minimal mehr in den Vordergrund - Mitten fehlen, evtl. zu viel Hall drinnen, minimal zu viele S-Zischlaute => DeEsser oder Präsenz etwas raus
 * Schlagzeug evtl. noch minimal lauter oder Akkord-Gitarre minimal leiser
 20240928:
-* check again
+* Schlagzeug evtl. noch lauter
+20240928-2:
+👍
 
 XLII To Infinity And Beyond
 👍
