@@ -1,4 +1,5 @@
-Silver Lucidity - Another Heartbreak Album - How Many Times
+Silver Lucidity - Another Heartbreak Album
+08: How Many Times
 
 ========================================================
 Songwriting-Lyrics: Elizabeth Auzan
@@ -6,25 +7,23 @@ Vocals: Markus Brunner
 Songwriting: Markus Brunner
 Guitar: Markus Brunner
 Guitar-Lead: Markus Brunner
-Bass: TODO
-Drums: TODO
+Drums: Patty B
 Engineering-Mixing: Markus Brunner
 Engineering-Mastering: Markus Brunner
 ========================================================
 
-V1 0:10 -0:48
 I didn't know what love was about
 Just couldn't seem to work it out  
 Girls would always take me for a ride
 I woke up with a dent in my pride
 
-0:30
-Then I found you. So warm and bright
+Then I found you
+So warm and bright
 But from this life you've taken flight
 Your death made a great hole in my soul
-A hole in my soul. A hole in my soul
+A hole in my soul
+A hole in my soul
 
-Ch 0:51
 How many times
 Tell me, how many times
 Can a heart be broken
@@ -34,19 +33,17 @@ Tell me, how many times
 Can a heart be broken
 Before it dies
 
-V2 
-Loneliness cuts through me like a k nife
-There is no meaning in my life
-It's too hard being on my own 
-Feel like my heart is  turning to stone
+Loneliness cuts through me like a knife
+There is no meanin' in my life
+It's too hard bein' on my own 
+Feel like my heart
+Is turnin' to stone
 
-1:36
 Memories of you in every place
 At night, I miss your warm embrace
 Your voice in my ears, sweet and low
 Calls me to you everywhere I go
 
-Ch
 How many times
 Tell me, how many times
 Can a heart be broken
@@ -56,14 +53,14 @@ Tell me, how many times
 Can a heart be broken
 Before it dies
 
-Bridge
 Love makes you glad
 Love drives you mad
 Love lifts you up
 Love brings you down
 Love lets you fly
 Love makes you cry
-You may get hurt and you may regret
+You may get hurt
+And you may regret
 But love is a feeling you will never forget
 Love is a feeling you will never forget
 Love is a feeling you will never forget
@@ -71,7 +68,6 @@ Love is a feeling you will never forget
 Love is a feeling you will never 
 Never forget
 
-Ch
 How many times
 Tell me, how many times
 Can a heart be broken

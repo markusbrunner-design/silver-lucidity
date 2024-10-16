@@ -1,4 +1,5 @@
-Silver Lucidity - Another Heartbreak Album - Why
+Silver Lucidity - Another Heartbreak Album
+03: Why
 
 ========================================================
 Songwriting-Lyrics: Elizabeth Auzan
@@ -6,8 +7,6 @@ Vocals: Markus Brunner
 Songwriting: Markus Brunner
 Guitar: Markus Brunner
 Guitar-Lead: Markus Brunner
-Bass: TODO
-Drums: TODO
 Engineering-Mixing: Markus Brunner
 Engineering-Mastering: Markus Brunner
 ========================================================
@@ -30,14 +29,13 @@ I was a fool
 Why did she break
 I just can't take
 
-I just can't bear
-To be alone
+I just can't bear to be alone
 She just don't care
 Her heart's of stone
 In our old café
 My coffee's cold
-The sky is all grey
-I'm feeling old
+The sky's all grey
+I'm feelin' old
 
 Why did she break
 My lovin' heart
@@ -50,8 +48,10 @@ I just can't take
 
 Love traps the heart in heavy chains
 You swear you won't get caught again
-But you know without true love so sweet
-Your life will never be complete
+But you know without true love
+So sweet
+Your life will never
+Never be complete
 
 Why did she break
 My lovin' heart
@@ -65,4 +65,5 @@ I just can't take
 Love comes and goes
 Why, no one knows
 Some doors open
+Some doors 
 Some doors close
