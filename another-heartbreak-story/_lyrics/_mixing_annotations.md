@@ -3,7 +3,7 @@
 ## 01 Life Is A Lonely Road
 👍
 
-## 02 Two Timer
+## 02 Two-Timer
 👍
 
 ## 03 Why
